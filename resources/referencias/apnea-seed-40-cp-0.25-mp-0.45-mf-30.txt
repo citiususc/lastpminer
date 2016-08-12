@@ -1,0 +1,6422 @@
+Tamaño 1 - Número de asociaciones frecuentes: 8
+[fA] - frecuencia: 0
+Modelo: [fA] - Numero de patrones: 0
+
+[fD] - frecuencia: 0
+Modelo: [fD] - Numero de patrones: 0
+
+[fF] - frecuencia: 0
+Modelo: [fF] - Numero de patrones: 0
+
+[fT] - frecuencia: 0
+Modelo: [fT] - Numero de patrones: 0
+
+[iA] - frecuencia: 0
+Modelo: [iA] - Numero de patrones: 0
+
+[iD] - frecuencia: 0
+Modelo: [iD] - Numero de patrones: 0
+
+[iF] - frecuencia: 0
+Modelo: [iF] - Numero de patrones: 0
+
+[iT] - frecuencia: 0
+Modelo: [iT] - Numero de patrones: 0
+
+Tamaño 2 - Número de asociaciones frecuentes: 28
+[fA, fD] - frecuencia: 1222
+Modelo: [fA, fD] - Numero de patrones: 2
+ Fr: 832 - [fA, fD] ID: 
+fA fD -> [-9.0,13.0]
+
+ Fr: 261 - [fA, fD] ID: 
+fA fD -> [17.0,29.0]
+
+
+[fA, fF] - frecuencia: 1222
+Modelo: [fA, fF] - Numero de patrones: 1
+ Fr: 1142 - [fA, fF] ID: 
+fA fF -> [-2.0,4.0]
+
+
+[fA, fT] - frecuencia: 1222
+Modelo: [fA, fT] - Numero de patrones: 1
+ Fr: 795 - [fA, fT] ID: 
+fA fT -> [-1.0,1.0]
+
+
+[fA, iA] - frecuencia: 1222
+Modelo: [fA, iA] - Numero de patrones: 2
+ Fr: 606 - [fA, iA] ID: 
+fA iA -> [-17.0,-9.0]
+
+ Fr: 575 - [fA, iA] ID: 
+fA iA -> [-37.0,-18.0]
+
+
+[fA, iD] - frecuencia: 1222
+Modelo: [fA, iD] - Numero de patrones: 2
+ Fr: 498 - [fA, iD] ID: 
+fA iD -> [0.0,11.0]
+
+ Fr: 510 - [fA, iD] ID: 
+fA iD -> [-16.0,-2.0]
+
+
+[fA, iF] - frecuencia: 1222
+Modelo: [fA, iF] - Numero de patrones: 2
+ Fr: 677 - [fA, iF] ID: 
+fA iF -> [-19.0,-8.0]
+
+ Fr: 498 - [fA, iF] ID: 
+fA iF -> [-37.0,-22.0]
+
+
+[fA, iT] - frecuencia: 1222
+Modelo: [fA, iT] - Numero de patrones: 2
+ Fr: 643 - [fA, iT] ID: 
+fA iT -> [-18.0,-8.0]
+
+ Fr: 445 - [fA, iT] ID: 
+fA iT -> [-37.0,-24.0]
+
+
+[fD, fF] - frecuencia: 1222
+Modelo: [fD, fF] - Numero de patrones: 2
+ Fr: 823 - [fD, fF] ID: 
+fD fF -> [-13.0,8.0]
+
+ Fr: 247 - [fD, fF] ID: 
+fD fF -> [-27.0,-17.0]
+
+
+[fD, fT] - frecuencia: 1222
+Modelo: [fD, fT] - Numero de patrones: 2
+ Fr: 835 - [fD, fT] ID: 
+fD fT -> [-14.0,8.0]
+
+ Fr: 245 - [fD, fT] ID: 
+fD fT -> [-28.0,-18.0]
+
+
+[fD, iA] - frecuencia: 1222
+Modelo: [fD, iA] - Numero de patrones: 1
+ Fr: 1099 - [fD, iA] ID: 
+fD iA -> [-39.0,-17.0]
+
+
+[fD, iD] - frecuencia: 1222
+Modelo: [fD, iD] - Numero de patrones: 1
+ Fr: 645 - [fD, iD] ID: 
+fD iD -> [-4.0,-1.0]
+
+
+[fD, iF] - frecuencia: 1222
+Modelo: [fD, iF] - Numero de patrones: 1
+ Fr: 1092 - [fD, iF] ID: 
+fD iF -> [-39.0,-18.0]
+
+
+[fD, iT] - frecuencia: 1222
+Modelo: [fD, iT] - Numero de patrones: 1
+ Fr: 1100 - [fD, iT] ID: 
+fD iT -> [-39.0,-17.0]
+
+
+[fF, fT] - frecuencia: 1222
+Modelo: [fF, fT] - Numero de patrones: 1
+ Fr: 1038 - [fF, fT] ID: 
+fF fT -> [-3.0,1.0]
+
+
+[fF, iA] - frecuencia: 1222
+Modelo: [fF, iA] - Numero de patrones: 2
+ Fr: 732 - [fF, iA] ID: 
+fF iA -> [-22.0,-9.0]
+
+ Fr: 485 - [fF, iA] ID: 
+fF iA -> [-39.0,-23.0]
+
+
+[fF, iD] - frecuencia: 1222
+Modelo: [fF, iD] - Numero de patrones: 1
+ Fr: 1051 - [fF, iD] ID: 
+fF iD -> [-18.0,10.0]
+
+
+[fF, iF] - frecuencia: 1222
+Modelo: [fF, iF] - Numero de patrones: 2
+ Fr: 714 - [fF, iF] ID: 
+fF iF -> [-22.0,-9.0]
+
+ Fr: 489 - [fF, iF] ID: 
+fF iF -> [-38.0,-23.0]
+
+
+[fF, iT] - frecuencia: 1222
+Modelo: [fF, iT] - Numero de patrones: 2
+ Fr: 749 - [fF, iT] ID: 
+fF iT -> [-23.0,-9.0]
+
+ Fr: 441 - [fF, iT] ID: 
+fF iT -> [-38.0,-25.0]
+
+
+[fT, iA] - frecuencia: 1222
+Modelo: [fT, iA] - Numero de patrones: 2
+ Fr: 665 - [fT, iA] ID: 
+fT iA -> [-19.0,-9.0]
+
+ Fr: 543 - [fT, iA] ID: 
+fT iA -> [-39.0,-20.0]
+
+
+[fT, iD] - frecuencia: 1222
+Modelo: [fT, iD] - Numero de patrones: 1
+ Fr: 962 - [fT, iD] ID: 
+fT iD -> [-14.0,10.0]
+
+
+[fT, iF] - frecuencia: 1222
+Modelo: [fT, iF] - Numero de patrones: 2
+ Fr: 666 - [fT, iF] ID: 
+fT iF -> [-19.0,-9.0]
+
+ Fr: 530 - [fT, iF] ID: 
+fT iF -> [-38.0,-20.0]
+
+
+[fT, iT] - frecuencia: 1222
+Modelo: [fT, iT] - Numero de patrones: 2
+ Fr: 737 - [fT, iT] ID: 
+fT iT -> [-22.0,-9.0]
+
+ Fr: 425 - [fT, iT] ID: 
+fT iT -> [-36.0,-23.0]
+
+
+[iA, iD] - frecuencia: 1222
+Modelo: [iA, iD] - Numero de patrones: 2
+ Fr: 746 - [iA, iD] ID: 
+iA iD -> [16.0,28.0]
+
+ Fr: 284 - [iA, iD] ID: 
+iA iD -> [-3.0,5.0]
+
+
+[iA, iF] - frecuencia: 1222
+Modelo: [iA, iF] - Numero de patrones: 1
+ Fr: 976 - [iA, iF] ID: 
+iA iF -> [-3.0,1.0]
+
+
+[iA, iT] - frecuencia: 1222
+Modelo: [iA, iT] - Numero de patrones: 1
+ Fr: 813 - [iA, iT] ID: 
+iA iT -> [-1.0,1.0]
+
+
+[iD, iF] - frecuencia: 1222
+Modelo: [iD, iF] - Numero de patrones: 2
+ Fr: 789 - [iD, iF] ID: 
+iD iF -> [-29.0,-15.0]
+
+ Fr: 278 - [iD, iF] ID: 
+iD iF -> [-4.0,0.0]
+
+
+[iD, iT] - frecuencia: 1222
+Modelo: [iD, iT] - Numero de patrones: 2
+ Fr: 790 - [iD, iT] ID: 
+iD iT -> [-30.0,-15.0]
+
+ Fr: 270 - [iD, iT] ID: 
+iD iT -> [-5.0,2.0]
+
+
+[iF, iT] - frecuencia: 0
+Modelo: [iF, iT] - Numero de patrones: 1
+ Fr: 0 - [iF, iT] ID: 
+iF iT -> [-2.0,3.0]
+
+
+Tamaño 3 - Número de asociaciones frecuentes: 56
+[fA, fD, fF] - frecuencia: 984
+Modelo: [fA, fD, fF] - Numero de patrones: 2
+ Fr: 766 - [fA, fD, fF] ID: 
+fA fD -> [-9.0,13.0]
+fA fF -> [-2.0,4.0]
+fD fF -> [-13.0,8.0]
+
+ Fr: 217 - [fA, fD, fF] ID: 
+fA fD -> [17.0,29.0]
+fA fF -> [-2.0,4.0]
+fD fF -> [-27.0,-17.0]
+
+
+[fA, fD, fT] - frecuencia: 694
+Modelo: [fA, fD, fT] - Numero de patrones: 2
+ Fr: 532 - [fA, fD, fT] ID: 
+fA fD -> [-9.0,13.0]
+fA fT -> [-1.0,1.0]
+fD fT -> [-14.0,8.0]
+
+ Fr: 162 - [fA, fD, fT] ID: 
+fA fD -> [17.0,29.0]
+fA fT -> [-1.0,1.0]
+fD fT -> [-28.0,-18.0]
+
+
+[fA, fD, iA] - frecuencia: 1043
+Modelo: [fA, fD, iA] - Numero de patrones: 3
+ Fr: 309 - [fA, fD, iA] ID: 
+fA fD -> [0.0,13.0]
+fA iA -> [-17.0,-9.0]
+fD iA -> [-30.0,-17.0]
+
+ Fr: 502 - [fA, fD, iA] ID: 
+fA fD -> [-9.0,13.0]
+fA iA -> [-37.0,-18.0]
+fD iA -> [-39.0,-17.0]
+
+ Fr: 227 - [fA, fD, iA] ID: 
+fA fD -> [17.0,29.0]
+fA iA -> [-17.0,-9.0]
+fD iA -> [-39.0,-26.0]
+
+
+[fA, fD, iD] - frecuencia: 518
+Modelo: [fA, fD, iD] - Numero de patrones: 2
+ Fr: 304 - [fA, fD, iD] ID: 
+fA fD -> [1.0,13.0]
+fA iD -> [0.0,11.0]
+fD iD -> [-4.0,-1.0]
+
+ Fr: 214 - [fA, fD, iD] ID: 
+fA fD -> [-9.0,2.0]
+fA iD -> [-13.0,-2.0]
+fD iD -> [-4.0,-1.0]
+
+
+[fA, fD, iF] - frecuencia: 998
+Modelo: [fA, fD, iF] - Numero de patrones: 3
+ Fr: 322 - [fA, fD, iF] ID: 
+fA fD -> [-1.0,13.0]
+fA iF -> [-19.0,-8.0]
+fD iF -> [-32.0,-18.0]
+
+ Fr: 438 - [fA, fD, iF] ID: 
+fA fD -> [-9.0,13.0]
+fA iF -> [-37.0,-22.0]
+fD iF -> [-39.0,-18.0]
+
+ Fr: 238 - [fA, fD, iF] ID: 
+fA fD -> [17.0,29.0]
+fA iF -> [-19.0,-8.0]
+fD iF -> [-39.0,-25.0]
+
+
+[fA, fD, iT] - frecuencia: 959
+Modelo: [fA, fD, iT] - Numero de patrones: 3
+ Fr: 338 - [fA, fD, iT] ID: 
+fA fD -> [-1.0,13.0]
+fA iT -> [-18.0,-8.0]
+fD iT -> [-31.0,-17.0]
+
+ Fr: 392 - [fA, fD, iT] ID: 
+fA fD -> [-9.0,13.0]
+fA iT -> [-37.0,-24.0]
+fD iT -> [-39.0,-17.0]
+
+ Fr: 229 - [fA, fD, iT] ID: 
+fA fD -> [17.0,29.0]
+fA iT -> [-18.0,-8.0]
+fD iT -> [-39.0,-25.0]
+
+
+[fA, fF, fT] - frecuencia: 515
+Modelo: [fA, fF, fT] - Numero de patrones: 1
+ Fr: 515 - [fA, fF, fT] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fF fT -> [-3.0,1.0]
+
+
+[fA, fF, iA] - frecuencia: 1041
+Modelo: [fA, fF, iA] - Numero de patrones: 3
+ Fr: 539 - [fA, fF, iA] ID: 
+fA fF -> [-2.0,4.0]
+fA iA -> [-17.0,-9.0]
+fF iA -> [-21.0,-9.0]
+
+ Fr: 91 - [fA, fF, iA] ID: 
+fA fF -> [-2.0,4.0]
+fA iA -> [-24.0,-18.0]
+fF iA -> [-22.0,-16.0]
+
+ Fr: 411 - [fA, fF, iA] ID: 
+fA fF -> [-2.0,4.0]
+fA iA -> [-37.0,-19.0]
+fF iA -> [-39.0,-23.0]
+
+
+[fA, fF, iD] - frecuencia: 881
+Modelo: [fA, fF, iD] - Numero de patrones: 2
+ Fr: 483 - [fA, fF, iD] ID: 
+fA fF -> [-2.0,4.0]
+fA iD -> [0.0,11.0]
+fF iD -> [-4.0,10.0]
+
+ Fr: 398 - [fA, fF, iD] ID: 
+fA fF -> [-2.0,4.0]
+fA iD -> [-16.0,-2.0]
+fF iD -> [-18.0,0.0]
+
+
+[fA, fF, iF] - frecuencia: 1014
+Modelo: [fA, fF, iF] - Numero de patrones: 2
+ Fr: 585 - [fA, fF, iF] ID: 
+fA fF -> [-2.0,4.0]
+fA iF -> [-19.0,-8.0]
+fF iF -> [-22.0,-9.0]
+
+ Fr: 415 - [fA, fF, iF] ID: 
+fA fF -> [-2.0,4.0]
+fA iF -> [-37.0,-22.0]
+fF iF -> [-38.0,-23.0]
+
+
+[fA, fF, iT] - frecuencia: 910
+Modelo: [fA, fF, iT] - Numero de patrones: 2
+ Fr: 545 - [fA, fF, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA iT -> [-18.0,-8.0]
+fF iT -> [-22.0,-9.0]
+
+ Fr: 357 - [fA, fF, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA iT -> [-37.0,-24.0]
+fF iT -> [-38.0,-25.0]
+
+
+[fA, fT, iA] - frecuencia: 711
+Modelo: [fA, fT, iA] - Numero de patrones: 2
+ Fr: 390 - [fA, fT, iA] ID: 
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fT iA -> [-18.0,-9.0]
+
+ Fr: 294 - [fA, fT, iA] ID: 
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-19.0]
+fT iA -> [-38.0,-20.0]
+
+
+[fA, fT, iD] - frecuencia: 554
+Modelo: [fA, fT, iD] - Numero de patrones: 2
+ Fr: 318 - [fA, fT, iD] ID: 
+fA fT -> [-1.0,1.0]
+fA iD -> [0.0,11.0]
+fT iD -> [-1.0,10.0]
+
+ Fr: 236 - [fA, fT, iD] ID: 
+fA fT -> [-1.0,1.0]
+fA iD -> [-15.0,-2.0]
+fT iD -> [-14.0,-1.0]
+
+
+[fA, fT, iF] - frecuencia: 695
+Modelo: [fA, fT, iF] - Numero de patrones: 2
+ Fr: 412 - [fA, fT, iF] ID: 
+fA fT -> [-1.0,1.0]
+fA iF -> [-19.0,-8.0]
+fT iF -> [-19.0,-9.0]
+
+ Fr: 281 - [fA, fT, iF] ID: 
+fA fT -> [-1.0,1.0]
+fA iF -> [-37.0,-22.0]
+fT iF -> [-38.0,-21.0]
+
+
+[fA, fT, iT] - frecuencia: 635
+Modelo: [fA, fT, iT] - Numero de patrones: 2
+ Fr: 400 - [fA, fT, iT] ID: 
+fA fT -> [-1.0,1.0]
+fA iT -> [-18.0,-8.0]
+fT iT -> [-19.0,-9.0]
+
+ Fr: 235 - [fA, fT, iT] ID: 
+fA fT -> [-1.0,1.0]
+fA iT -> [-37.0,-24.0]
+fT iT -> [-36.0,-23.0]
+
+
+[fA, iA, iD] - frecuencia: 937
+Modelo: [fA, iA, iD] - Numero de patrones: 4
+ Fr: 352 - [fA, iA, iD] ID: 
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+iA iD -> [16.0,28.0]
+
+ Fr: 194 - [fA, iA, iD] ID: 
+fA iA -> [-17.0,-9.0]
+fA iD -> [-16.0,-4.0]
+iA iD -> [-3.0,5.0]
+
+ Fr: 96 - [fA, iA, iD] ID: 
+fA iA -> [-28.0,-18.0]
+fA iD -> [0.0,10.0]
+iA iD -> [18.0,28.0]
+
+ Fr: 290 - [fA, iA, iD] ID: 
+fA iA -> [-37.0,-18.0]
+fA iD -> [-16.0,-2.0]
+iA iD -> [16.0,28.0]
+
+
+[fA, iA, iF] - frecuencia: 858
+Modelo: [fA, iA, iF] - Numero de patrones: 2
+ Fr: 459 - [fA, iA, iF] ID: 
+fA iA -> [-17.0,-9.0]
+fA iF -> [-19.0,-8.0]
+iA iF -> [-3.0,1.0]
+
+ Fr: 372 - [fA, iA, iF] ID: 
+fA iA -> [-37.0,-19.0]
+fA iF -> [-37.0,-22.0]
+iA iF -> [-3.0,1.0]
+
+
+[fA, iA, iT] - frecuencia: 676
+Modelo: [fA, iA, iT] - Numero de patrones: 2
+ Fr: 367 - [fA, iA, iT] ID: 
+fA iA -> [-17.0,-9.0]
+fA iT -> [-18.0,-8.0]
+iA iT -> [-1.0,1.0]
+
+ Fr: 298 - [fA, iA, iT] ID: 
+fA iA -> [-37.0,-23.0]
+fA iT -> [-37.0,-24.0]
+iA iT -> [-1.0,1.0]
+
+
+[fA, iD, iF] - frecuencia: 911
+Modelo: [fA, iD, iF] - Numero de patrones: 4
+ Fr: 416 - [fA, iD, iF] ID: 
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 48 - [fA, iD, iF] ID: 
+fA iD -> [0.0,7.0]
+fA iF -> [-29.0,-22.0]
+iD iF -> [-29.0,-22.0]
+
+ Fr: 141 - [fA, iD, iF] ID: 
+fA iD -> [-16.0,-4.0]
+fA iF -> [-19.0,-8.0]
+iD iF -> [-4.0,0.0]
+
+ Fr: 303 - [fA, iD, iF] ID: 
+fA iD -> [-16.0,-2.0]
+fA iF -> [-37.0,-22.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fA, iD, iT] - frecuencia: 878
+Modelo: [fA, iD, iT] - Numero de patrones: 4
+ Fr: 386 - [fA, iD, iT] ID: 
+fA iD -> [0.0,11.0]
+fA iT -> [-18.0,-8.0]
+iD iT -> [-29.0,-15.0]
+
+ Fr: 31 - [fA, iD, iT] ID: 
+fA iD -> [0.0,6.0]
+fA iT -> [-30.0,-24.0]
+iD iT -> [-30.0,-24.0]
+
+ Fr: 170 - [fA, iD, iT] ID: 
+fA iD -> [-16.0,-3.0]
+fA iT -> [-18.0,-8.0]
+iD iT -> [-5.0,2.0]
+
+ Fr: 291 - [fA, iD, iT] ID: 
+fA iD -> [-16.0,-2.0]
+fA iT -> [-37.0,-24.0]
+iD iT -> [-30.0,-15.0]
+
+
+[fA, iF, iT] - frecuencia: 818
+Modelo: [fA, iF, iT] - Numero de patrones: 2
+ Fr: 479 - [fA, iF, iT] ID: 
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 339 - [fA, iF, iT] ID: 
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+iF iT -> [-2.0,3.0]
+
+
+[fD, fF, fT] - frecuencia: 892
+Modelo: [fD, fF, fT] - Numero de patrones: 2
+ Fr: 698 - [fD, fF, fT] ID: 
+fD fF -> [-13.0,8.0]
+fD fT -> [-14.0,8.0]
+fF fT -> [-3.0,1.0]
+
+ Fr: 194 - [fD, fF, fT] ID: 
+fD fF -> [-27.0,-17.0]
+fD fT -> [-28.0,-18.0]
+fF fT -> [-3.0,1.0]
+
+
+[fD, fF, iA] - frecuencia: 1046
+Modelo: [fD, fF, iA] - Numero de patrones: 3
+ Fr: 413 - [fD, fF, iA] ID: 
+fD fF -> [-13.0,5.0]
+fD iA -> [-35.0,-17.0]
+fF iA -> [-22.0,-9.0]
+
+ Fr: 412 - [fD, fF, iA] ID: 
+fD fF -> [-13.0,8.0]
+fD iA -> [-39.0,-17.0]
+fF iA -> [-39.0,-23.0]
+
+ Fr: 221 - [fD, fF, iA] ID: 
+fD fF -> [-27.0,-17.0]
+fD iA -> [-39.0,-26.0]
+fF iA -> [-22.0,-9.0]
+
+
+[fD, fF, iD] - frecuencia: 520
+Modelo: [fD, fF, iD] - Numero de patrones: 1
+ Fr: 520 - [fD, fF, iD] ID: 
+fD fF -> [-13.0,8.0]
+fD iD -> [-4.0,-1.0]
+fF iD -> [-12.0,10.0]
+
+
+[fD, fF, iF] - frecuencia: 1018
+Modelo: [fD, fF, iF] - Numero de patrones: 3
+ Fr: 381 - [fD, fF, iF] ID: 
+fD fF -> [-13.0,4.0]
+fD iF -> [-35.0,-18.0]
+fF iF -> [-22.0,-9.0]
+
+ Fr: 415 - [fD, fF, iF] ID: 
+fD fF -> [-13.0,8.0]
+fD iF -> [-39.0,-18.0]
+fF iF -> [-38.0,-23.0]
+
+ Fr: 222 - [fD, fF, iF] ID: 
+fD fF -> [-27.0,-17.0]
+fD iF -> [-39.0,-26.0]
+fF iF -> [-22.0,-9.0]
+
+
+[fD, fF, iT] - frecuencia: 1033
+Modelo: [fD, fF, iT] - Numero de patrones: 3
+ Fr: 441 - [fD, fF, iT] ID: 
+fD fF -> [-13.0,6.0]
+fD iT -> [-36.0,-17.0]
+fF iT -> [-23.0,-9.0]
+
+ Fr: 370 - [fD, fF, iT] ID: 
+fD fF -> [-13.0,8.0]
+fD iT -> [-39.0,-17.0]
+fF iT -> [-38.0,-25.0]
+
+ Fr: 222 - [fD, fF, iT] ID: 
+fD fF -> [-27.0,-17.0]
+fD iT -> [-39.0,-26.0]
+fF iT -> [-22.0,-9.0]
+
+
+[fD, fT, iA] - frecuencia: 1035
+Modelo: [fD, fT, iA] - Numero de patrones: 3
+ Fr: 364 - [fD, fT, iA] ID: 
+fD fT -> [-14.0,2.0]
+fD iA -> [-33.0,-17.0]
+fT iA -> [-19.0,-9.0]
+
+ Fr: 458 - [fD, fT, iA] ID: 
+fD fT -> [-14.0,8.0]
+fD iA -> [-39.0,-17.0]
+fT iA -> [-39.0,-20.0]
+
+ Fr: 213 - [fD, fT, iA] ID: 
+fD fT -> [-28.0,-18.0]
+fD iA -> [-39.0,-27.0]
+fT iA -> [-19.0,-9.0]
+
+
+[fD, fT, iD] - frecuencia: 510
+Modelo: [fD, fT, iD] - Numero de patrones: 1
+ Fr: 510 - [fD, fT, iD] ID: 
+fD fT -> [-14.0,8.0]
+fD iD -> [-4.0,-1.0]
+fT iD -> [-12.0,10.0]
+
+
+[fD, fT, iF] - frecuencia: 1011
+Modelo: [fD, fT, iF] - Numero de patrones: 3
+ Fr: 347 - [fD, fT, iF] ID: 
+fD fT -> [-14.0,1.0]
+fD iF -> [-33.0,-18.0]
+fT iF -> [-19.0,-9.0]
+
+ Fr: 451 - [fD, fT, iF] ID: 
+fD fT -> [-14.0,8.0]
+fD iF -> [-39.0,-18.0]
+fT iF -> [-38.0,-20.0]
+
+ Fr: 212 - [fD, fT, iF] ID: 
+fD fT -> [-28.0,-18.0]
+fD iF -> [-39.0,-27.0]
+fT iF -> [-19.0,-9.0]
+
+
+[fD, fT, iT] - frecuencia: 1021
+Modelo: [fD, fT, iT] - Numero de patrones: 3
+ Fr: 447 - [fD, fT, iT] ID: 
+fD fT -> [-14.0,5.0]
+fD iT -> [-36.0,-17.0]
+fT iT -> [-22.0,-9.0]
+
+ Fr: 359 - [fD, fT, iT] ID: 
+fD fT -> [-14.0,8.0]
+fD iT -> [-39.0,-17.0]
+fT iT -> [-36.0,-23.0]
+
+ Fr: 215 - [fD, fT, iT] ID: 
+fD fT -> [-28.0,-18.0]
+fD iT -> [-39.0,-27.0]
+fT iT -> [-21.0,-9.0]
+
+
+[fD, iA, iD] - frecuencia: 460
+Modelo: [fD, iA, iD] - Numero de patrones: 1
+ Fr: 460 - [fD, iA, iD] ID: 
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+iA iD -> [16.0,28.0]
+
+
+[fD, iA, iF] - frecuencia: 694
+Modelo: [fD, iA, iF] - Numero de patrones: 1
+ Fr: 694 - [fD, iA, iF] ID: 
+fD iA -> [-39.0,-17.0]
+fD iF -> [-39.0,-18.0]
+iA iF -> [-3.0,1.0]
+
+
+[fD, iA, iT] - frecuencia: 613
+Modelo: [fD, iA, iT] - Numero de patrones: 1
+ Fr: 613 - [fD, iA, iT] ID: 
+fD iA -> [-39.0,-17.0]
+fD iT -> [-39.0,-17.0]
+iA iT -> [-1.0,1.0]
+
+
+[fD, iD, iF] - frecuencia: 475
+Modelo: [fD, iD, iF] - Numero de patrones: 1
+ Fr: 475 - [fD, iD, iF] ID: 
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fD, iD, iT] - frecuencia: 495
+Modelo: [fD, iD, iT] - Numero de patrones: 1
+ Fr: 495 - [fD, iD, iT] ID: 
+fD iD -> [-4.0,-1.0]
+fD iT -> [-34.0,-17.0]
+iD iT -> [-30.0,-15.0]
+
+
+[fD, iF, iT] - frecuencia: 705
+Modelo: [fD, iF, iT] - Numero de patrones: 1
+ Fr: 705 - [fD, iF, iT] ID: 
+fD iF -> [-39.0,-18.0]
+fD iT -> [-39.0,-17.0]
+iF iT -> [-2.0,3.0]
+
+
+[fF, fT, iA] - frecuencia: 948
+Modelo: [fF, fT, iA] - Numero de patrones: 3
+ Fr: 502 - [fF, fT, iA] ID: 
+fF fT -> [-3.0,1.0]
+fF iA -> [-22.0,-9.0]
+fT iA -> [-19.0,-9.0]
+
+ Fr: 53 - [fF, fT, iA] ID: 
+fF fT -> [-2.0,1.0]
+fF iA -> [-22.0,-19.0]
+fT iA -> [-23.0,-20.0]
+
+ Fr: 393 - [fF, fT, iA] ID: 
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-23.0]
+fT iA -> [-39.0,-20.0]
+
+
+[fF, fT, iD] - frecuencia: 757
+Modelo: [fF, fT, iD] - Numero de patrones: 1
+ Fr: 757 - [fF, fT, iD] ID: 
+fF fT -> [-3.0,1.0]
+fF iD -> [-17.0,10.0]
+fT iD -> [-14.0,10.0]
+
+
+[fF, fT, iF] - frecuencia: 936
+Modelo: [fF, fT, iF] - Numero de patrones: 3
+ Fr: 503 - [fF, fT, iF] ID: 
+fF fT -> [-3.0,1.0]
+fF iF -> [-22.0,-9.0]
+fT iF -> [-19.0,-9.0]
+
+ Fr: 39 - [fF, fT, iF] ID: 
+fF fT -> [-2.0,1.0]
+fF iF -> [-22.0,-19.0]
+fT iF -> [-23.0,-20.0]
+
+ Fr: 394 - [fF, fT, iF] ID: 
+fF fT -> [-3.0,1.0]
+fF iF -> [-38.0,-23.0]
+fT iF -> [-38.0,-20.0]
+
+
+[fF, fT, iT] - frecuencia: 894
+Modelo: [fF, fT, iT] - Numero de patrones: 2
+ Fr: 561 - [fF, fT, iT] ID: 
+fF fT -> [-3.0,1.0]
+fF iT -> [-23.0,-9.0]
+fT iT -> [-22.0,-9.0]
+
+ Fr: 318 - [fF, fT, iT] ID: 
+fF fT -> [-3.0,1.0]
+fF iT -> [-38.0,-25.0]
+fT iT -> [-36.0,-23.0]
+
+
+[fF, iA, iD] - frecuencia: 1007
+Modelo: [fF, iA, iD] - Numero de patrones: 3
+ Fr: 438 - [fF, iA, iD] ID: 
+fF iA -> [-22.0,-9.0]
+fF iD -> [-6.0,10.0]
+iA iD -> [16.0,28.0]
+
+ Fr: 213 - [fF, iA, iD] ID: 
+fF iA -> [-22.0,-9.0]
+fF iD -> [-18.0,-4.0]
+iA iD -> [-3.0,5.0]
+
+ Fr: 356 - [fF, iA, iD] ID: 
+fF iA -> [-39.0,-23.0]
+fF iD -> [-18.0,5.0]
+iA iD -> [16.0,28.0]
+
+
+[fF, iA, iF] - frecuencia: 887
+Modelo: [fF, iA, iF] - Numero de patrones: 2
+ Fr: 503 - [fF, iA, iF] ID: 
+fF iA -> [-22.0,-9.0]
+fF iF -> [-22.0,-9.0]
+iA iF -> [-3.0,1.0]
+
+ Fr: 363 - [fF, iA, iF] ID: 
+fF iA -> [-39.0,-23.0]
+fF iF -> [-38.0,-23.0]
+iA iF -> [-3.0,1.0]
+
+
+[fF, iA, iT] - frecuencia: 723
+Modelo: [fF, iA, iT] - Numero de patrones: 2
+ Fr: 412 - [fF, iA, iT] ID: 
+fF iA -> [-22.0,-9.0]
+fF iT -> [-23.0,-9.0]
+iA iT -> [-1.0,1.0]
+
+ Fr: 298 - [fF, iA, iT] ID: 
+fF iA -> [-39.0,-24.0]
+fF iT -> [-38.0,-25.0]
+iA iT -> [-1.0,1.0]
+
+
+[fF, iD, iF] - frecuencia: 991
+Modelo: [fF, iD, iF] - Numero de patrones: 3
+ Fr: 459 - [fF, iD, iF] ID: 
+fF iD -> [-7.0,10.0]
+fF iF -> [-22.0,-9.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 160 - [fF, iD, iF] ID: 
+fF iD -> [-18.0,-5.0]
+fF iF -> [-22.0,-9.0]
+iD iF -> [-4.0,0.0]
+
+ Fr: 372 - [fF, iD, iF] ID: 
+fF iD -> [-18.0,6.0]
+fF iF -> [-38.0,-23.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fF, iD, iT] - frecuencia: 1008
+Modelo: [fF, iD, iT] - Numero de patrones: 3
+ Fr: 466 - [fF, iD, iT] ID: 
+fF iD -> [-8.0,10.0]
+fF iT -> [-23.0,-9.0]
+iD iT -> [-30.0,-15.0]
+
+ Fr: 191 - [fF, iD, iT] ID: 
+fF iD -> [-18.0,-4.0]
+fF iT -> [-23.0,-9.0]
+iD iT -> [-5.0,2.0]
+
+ Fr: 351 - [fF, iD, iT] ID: 
+fF iD -> [-18.0,5.0]
+fF iT -> [-38.0,-25.0]
+iD iT -> [-30.0,-15.0]
+
+
+[fF, iF, iT] - frecuencia: 885
+Modelo: [fF, iF, iT] - Numero de patrones: 2
+ Fr: 517 - [fF, iF, iT] ID: 
+fF iF -> [-22.0,-9.0]
+fF iT -> [-23.0,-9.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 347 - [fF, iF, iT] ID: 
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+iF iT -> [-2.0,3.0]
+
+
+[fT, iA, iD] - frecuencia: 865
+Modelo: [fT, iA, iD] - Numero de patrones: 3
+ Fr: 361 - [fT, iA, iD] ID: 
+fT iA -> [-19.0,-9.0]
+fT iD -> [-3.0,10.0]
+iA iD -> [16.0,28.0]
+
+ Fr: 158 - [fT, iA, iD] ID: 
+fT iA -> [-19.0,-9.0]
+fT iD -> [-14.0,-4.0]
+iA iD -> [-3.0,5.0]
+
+ Fr: 346 - [fT, iA, iD] ID: 
+fT iA -> [-39.0,-20.0]
+fT iD -> [-14.0,8.0]
+iA iD -> [16.0,28.0]
+
+
+[fT, iA, iF] - frecuencia: 869
+Modelo: [fT, iA, iF] - Numero de patrones: 2
+ Fr: 468 - [fT, iA, iF] ID: 
+fT iA -> [-19.0,-9.0]
+fT iF -> [-19.0,-9.0]
+iA iF -> [-3.0,1.0]
+
+ Fr: 388 - [fT, iA, iF] ID: 
+fT iA -> [-39.0,-20.0]
+fT iF -> [-38.0,-20.0]
+iA iF -> [-3.0,1.0]
+
+
+[fT, iA, iT] - frecuencia: 706
+Modelo: [fT, iA, iT] - Numero de patrones: 3
+ Fr: 385 - [fT, iA, iT] ID: 
+fT iA -> [-19.0,-9.0]
+fT iT -> [-20.0,-9.0]
+iA iT -> [-1.0,1.0]
+
+ Fr: 40 - [fT, iA, iT] ID: 
+fT iA -> [-23.0,-20.0]
+fT iT -> [-22.0,-19.0]
+iA iT -> [-1.0,1.0]
+
+ Fr: 281 - [fT, iA, iT] ID: 
+fT iA -> [-37.0,-22.0]
+fT iT -> [-36.0,-23.0]
+iA iT -> [-1.0,1.0]
+
+
+[fT, iD, iF] - frecuencia: 865
+Modelo: [fT, iD, iF] - Numero de patrones: 3
+ Fr: 390 - [fT, iD, iF] ID: 
+fT iD -> [-4.0,10.0]
+fT iF -> [-19.0,-9.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 122 - [fT, iD, iF] ID: 
+fT iD -> [-14.0,-5.0]
+fT iF -> [-18.0,-9.0]
+iD iF -> [-4.0,0.0]
+
+ Fr: 353 - [fT, iD, iF] ID: 
+fT iD -> [-14.0,9.0]
+fT iF -> [-38.0,-20.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fT, iD, iT] - frecuencia: 889
+Modelo: [fT, iD, iT] - Numero de patrones: 3
+ Fr: 429 - [fT, iD, iT] ID: 
+fT iD -> [-7.0,10.0]
+fT iT -> [-22.0,-9.0]
+iD iT -> [-30.0,-15.0]
+
+ Fr: 156 - [fT, iD, iT] ID: 
+fT iD -> [-14.0,-4.0]
+fT iT -> [-19.0,-9.0]
+iD iT -> [-5.0,2.0]
+
+ Fr: 304 - [fT, iD, iT] ID: 
+fT iD -> [-14.0,7.0]
+fT iT -> [-36.0,-23.0]
+iD iT -> [-30.0,-15.0]
+
+
+[fT, iF, iT] - frecuencia: 863
+Modelo: [fT, iF, iT] - Numero de patrones: 3
+ Fr: 494 - [fT, iF, iT] ID: 
+fT iF -> [-19.0,-9.0]
+fT iT -> [-21.0,-9.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 44 - [fT, iF, iT] ID: 
+fT iF -> [-25.0,-20.0]
+fT iT -> [-22.0,-17.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 325 - [fT, iF, iT] ID: 
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iF iT -> [-2.0,3.0]
+
+
+[iA, iD, iF] - frecuencia: 660
+Modelo: [iA, iD, iF] - Numero de patrones: 2
+ Fr: 512 - [iA, iD, iF] ID: 
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 148 - [iA, iD, iF] ID: 
+iA iD -> [-3.0,5.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-4.0,0.0]
+
+
+[iA, iD, iT] - frecuencia: 564
+Modelo: [iA, iD, iT] - Numero de patrones: 2
+ Fr: 425 - [iA, iD, iT] ID: 
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+ Fr: 139 - [iA, iD, iT] ID: 
+iA iD -> [-3.0,5.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-5.0,2.0]
+
+
+[iA, iF, iT] - frecuencia: 475
+Modelo: [iA, iF, iT] - Numero de patrones: 1
+ Fr: 475 - [iA, iF, iT] ID: 
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+
+[iD, iF, iT] - frecuencia: 688
+Modelo: [iD, iF, iT] - Numero de patrones: 2
+ Fr: 537 - [iD, iF, iT] ID: 
+iD iF -> [-29.0,-15.0]
+iD iT -> [-30.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 151 - [iD, iF, iT] ID: 
+iD iF -> [-4.0,0.0]
+iD iT -> [-5.0,2.0]
+iF iT -> [-2.0,3.0]
+
+
+Tamaño 4 - Número de asociaciones frecuentes: 70
+[fA, fD, fF, fT] - frecuencia: 600
+Modelo: [fA, fD, fF, fT] - Numero de patrones: 2
+ Fr: 453 - [fA, fD, fF, fT] ID: 
+fA fD -> [-9.0,13.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fD fF -> [-13.0,8.0]
+fD fT -> [-14.0,8.0]
+fF fT -> [-3.0,1.0]
+
+ Fr: 147 - [fA, fD, fF, fT] ID: 
+fA fD -> [17.0,29.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fD fF -> [-27.0,-17.0]
+fD fT -> [-28.0,-18.0]
+fF fT -> [-3.0,1.0]
+
+
+[fA, fD, fF, iA] - frecuencia: 895
+Modelo: [fA, fD, fF, iA] - Numero de patrones: 4
+ Fr: 276 - [fA, fD, fF, iA] ID: 
+fA fD -> [0.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iA -> [-17.0,-9.0]
+fD fF -> [-13.0,4.0]
+fD iA -> [-30.0,-17.0]
+fF iA -> [-21.0,-9.0]
+
+ Fr: 74 - [fA, fD, fF, iA] ID: 
+fA fD -> [-7.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iA -> [-24.0,-18.0]
+fD fF -> [-13.0,5.0]
+fD iA -> [-35.0,-17.0]
+fF iA -> [-22.0,-16.0]
+
+ Fr: 347 - [fA, fD, fF, iA] ID: 
+fA fD -> [-9.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iA -> [-37.0,-19.0]
+fD fF -> [-13.0,8.0]
+fD iA -> [-39.0,-17.0]
+fF iA -> [-39.0,-23.0]
+
+ Fr: 198 - [fA, fD, fF, iA] ID: 
+fA fD -> [17.0,29.0]
+fA fF -> [-2.0,4.0]
+fA iA -> [-17.0,-9.0]
+fD fF -> [-27.0,-17.0]
+fD iA -> [-39.0,-26.0]
+fF iA -> [-21.0,-9.0]
+
+
+[fA, fD, fF, iD] - frecuencia: 438
+Modelo: [fA, fD, fF, iD] - Numero de patrones: 2
+ Fr: 267 - [fA, fD, fF, iD] ID: 
+fA fD -> [1.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iD -> [0.0,11.0]
+fD fF -> [-13.0,3.0]
+fD iD -> [-4.0,-1.0]
+fF iD -> [-4.0,10.0]
+
+ Fr: 171 - [fA, fD, fF, iD] ID: 
+fA fD -> [-9.0,2.0]
+fA fF -> [-2.0,4.0]
+fA iD -> [-13.0,-2.0]
+fD fF -> [-4.0,8.0]
+fD iD -> [-4.0,-1.0]
+fF iD -> [-12.0,0.0]
+
+
+[fA, fD, fF, iF] - frecuencia: 841
+Modelo: [fA, fD, fF, iF] - Numero de patrones: 3
+ Fr: 288 - [fA, fD, fF, iF] ID: 
+fA fD -> [-1.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iF -> [-19.0,-8.0]
+fD fF -> [-13.0,4.0]
+fD iF -> [-32.0,-18.0]
+fF iF -> [-22.0,-9.0]
+
+ Fr: 347 - [fA, fD, fF, iF] ID: 
+fA fD -> [-9.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iF -> [-37.0,-22.0]
+fD fF -> [-13.0,8.0]
+fD iF -> [-39.0,-18.0]
+fF iF -> [-38.0,-23.0]
+
+ Fr: 206 - [fA, fD, fF, iF] ID: 
+fA fD -> [17.0,29.0]
+fA fF -> [-2.0,4.0]
+fA iF -> [-19.0,-8.0]
+fD fF -> [-27.0,-17.0]
+fD iF -> [-39.0,-26.0]
+fF iF -> [-22.0,-9.0]
+
+
+[fA, fD, fF, iT] - frecuencia: 807
+Modelo: [fA, fD, fF, iT] - Numero de patrones: 3
+ Fr: 306 - [fA, fD, fF, iT] ID: 
+fA fD -> [-1.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iT -> [-18.0,-8.0]
+fD fF -> [-13.0,5.0]
+fD iT -> [-31.0,-17.0]
+fF iT -> [-22.0,-9.0]
+
+ Fr: 302 - [fA, fD, fF, iT] ID: 
+fA fD -> [-9.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iT -> [-37.0,-24.0]
+fD fF -> [-13.0,8.0]
+fD iT -> [-39.0,-17.0]
+fF iT -> [-38.0,-25.0]
+
+ Fr: 199 - [fA, fD, fF, iT] ID: 
+fA fD -> [17.0,29.0]
+fA fF -> [-2.0,4.0]
+fA iT -> [-18.0,-8.0]
+fD fF -> [-27.0,-17.0]
+fD iT -> [-39.0,-26.0]
+fF iT -> [-22.0,-9.0]
+
+
+[fA, fD, fT, iA] - frecuencia: 608
+Modelo: [fA, fD, fT, iA] - Numero de patrones: 3
+ Fr: 216 - [fA, fD, fT, iA] ID: 
+fA fD -> [0.0,13.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fD fT -> [-14.0,1.0]
+fD iA -> [-30.0,-17.0]
+fT iA -> [-18.0,-9.0]
+
+ Fr: 248 - [fA, fD, fT, iA] ID: 
+fA fD -> [-9.0,13.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-19.0]
+fD fT -> [-14.0,8.0]
+fD iA -> [-39.0,-17.0]
+fT iA -> [-38.0,-20.0]
+
+ Fr: 144 - [fA, fD, fT, iA] ID: 
+fA fD -> [17.0,29.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fD fT -> [-28.0,-18.0]
+fD iA -> [-39.0,-27.0]
+fT iA -> [-18.0,-9.0]
+
+
+[fA, fD, fT, iD] - frecuencia: 277
+Modelo: [fA, fD, fT, iD] - Numero de patrones: 2
+ Fr: 175 - [fA, fD, fT, iD] ID: 
+fA fD -> [1.0,13.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [0.0,11.0]
+fD fT -> [-14.0,0.0]
+fD iD -> [-4.0,-1.0]
+fT iD -> [-1.0,10.0]
+
+ Fr: 102 - [fA, fD, fT, iD] ID: 
+fA fD -> [-9.0,2.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [-13.0,-2.0]
+fD fT -> [-3.0,8.0]
+fD iD -> [-4.0,-1.0]
+fT iD -> [-12.0,-1.0]
+
+
+[fA, fD, fT, iF] - frecuencia: 607
+Modelo: [fA, fD, fT, iF] - Numero de patrones: 3
+ Fr: 223 - [fA, fD, fT, iF] ID: 
+fA fD -> [-1.0,13.0]
+fA fT -> [-1.0,1.0]
+fA iF -> [-19.0,-8.0]
+fD fT -> [-14.0,1.0]
+fD iF -> [-32.0,-18.0]
+fT iF -> [-19.0,-9.0]
+
+ Fr: 234 - [fA, fD, fT, iF] ID: 
+fA fD -> [-9.0,13.0]
+fA fT -> [-1.0,1.0]
+fA iF -> [-37.0,-22.0]
+fD fT -> [-14.0,8.0]
+fD iF -> [-39.0,-18.0]
+fT iF -> [-38.0,-21.0]
+
+ Fr: 150 - [fA, fD, fT, iF] ID: 
+fA fD -> [17.0,29.0]
+fA fT -> [-1.0,1.0]
+fA iF -> [-19.0,-8.0]
+fD fT -> [-28.0,-18.0]
+fD iF -> [-39.0,-27.0]
+fT iF -> [-19.0,-9.0]
+
+
+[fA, fD, fT, iT] - frecuencia: 575
+Modelo: [fA, fD, fT, iT] - Numero de patrones: 3
+ Fr: 228 - [fA, fD, fT, iT] ID: 
+fA fD -> [-1.0,13.0]
+fA fT -> [-1.0,1.0]
+fA iT -> [-18.0,-8.0]
+fD fT -> [-14.0,2.0]
+fD iT -> [-31.0,-17.0]
+fT iT -> [-19.0,-9.0]
+
+ Fr: 198 - [fA, fD, fT, iT] ID: 
+fA fD -> [-9.0,13.0]
+fA fT -> [-1.0,1.0]
+fA iT -> [-37.0,-24.0]
+fD fT -> [-14.0,8.0]
+fD iT -> [-39.0,-17.0]
+fT iT -> [-36.0,-23.0]
+
+ Fr: 149 - [fA, fD, fT, iT] ID: 
+fA fD -> [17.0,29.0]
+fA fT -> [-1.0,1.0]
+fA iT -> [-18.0,-8.0]
+fD fT -> [-28.0,-18.0]
+fD iT -> [-39.0,-27.0]
+fT iT -> [-19.0,-9.0]
+
+
+[fA, fD, iA, iD] - frecuencia: 423
+Modelo: [fA, fD, iA, iD] - Numero de patrones: 3
+ Fr: 173 - [fA, fD, iA, iD] ID: 
+fA fD -> [1.0,13.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fD iA -> [-30.0,-17.0]
+fD iD -> [-4.0,-1.0]
+iA iD -> [16.0,28.0]
+
+ Fr: 86 - [fA, fD, iA, iD] ID: 
+fA fD -> [1.0,13.0]
+fA iA -> [-28.0,-18.0]
+fA iD -> [0.0,10.0]
+fD iA -> [-32.0,-19.0]
+fD iD -> [-4.0,-1.0]
+iA iD -> [18.0,28.0]
+
+ Fr: 164 - [fA, fD, iA, iD] ID: 
+fA fD -> [-9.0,2.0]
+fA iA -> [-37.0,-18.0]
+fA iD -> [-13.0,-2.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+iA iD -> [16.0,28.0]
+
+
+[fA, fD, iA, iF] - frecuencia: 726
+Modelo: [fA, fD, iA, iF] - Numero de patrones: 3
+ Fr: 209 - [fA, fD, iA, iF] ID: 
+fA fD -> [0.0,13.0]
+fA iA -> [-17.0,-9.0]
+fA iF -> [-19.0,-8.0]
+fD iA -> [-30.0,-17.0]
+fD iF -> [-32.0,-18.0]
+iA iF -> [-3.0,1.0]
+
+ Fr: 335 - [fA, fD, iA, iF] ID: 
+fA fD -> [-9.0,13.0]
+fA iA -> [-37.0,-19.0]
+fA iF -> [-37.0,-22.0]
+fD iA -> [-39.0,-17.0]
+fD iF -> [-39.0,-18.0]
+iA iF -> [-3.0,1.0]
+
+ Fr: 182 - [fA, fD, iA, iF] ID: 
+fA fD -> [17.0,29.0]
+fA iA -> [-17.0,-9.0]
+fA iF -> [-19.0,-8.0]
+fD iA -> [-39.0,-26.0]
+fD iF -> [-39.0,-25.0]
+iA iF -> [-3.0,1.0]
+
+
+[fA, fD, iA, iT] - frecuencia: 626
+Modelo: [fA, fD, iA, iT] - Numero de patrones: 3
+ Fr: 190 - [fA, fD, iA, iT] ID: 
+fA fD -> [0.0,13.0]
+fA iA -> [-17.0,-9.0]
+fA iT -> [-18.0,-8.0]
+fD iA -> [-30.0,-17.0]
+fD iT -> [-31.0,-17.0]
+iA iT -> [-1.0,1.0]
+
+ Fr: 273 - [fA, fD, iA, iT] ID: 
+fA fD -> [-9.0,13.0]
+fA iA -> [-37.0,-23.0]
+fA iT -> [-37.0,-24.0]
+fD iA -> [-39.0,-17.0]
+fD iT -> [-39.0,-17.0]
+iA iT -> [-1.0,1.0]
+
+ Fr: 163 - [fA, fD, iA, iT] ID: 
+fA fD -> [17.0,29.0]
+fA iA -> [-17.0,-9.0]
+fA iT -> [-18.0,-8.0]
+fD iA -> [-39.0,-26.0]
+fD iT -> [-39.0,-25.0]
+iA iT -> [-1.0,1.0]
+
+
+[fA, fD, iD, iF] - frecuencia: 416
+Modelo: [fA, fD, iD, iF] - Numero de patrones: 3
+ Fr: 201 - [fA, fD, iD, iF] ID: 
+fA fD -> [1.0,13.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-32.0,-18.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 47 - [fA, fD, iD, iF] ID: 
+fA fD -> [1.0,11.0]
+fA iD -> [0.0,7.0]
+fA iF -> [-29.0,-22.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-23.0]
+iD iF -> [-29.0,-22.0]
+
+ Fr: 168 - [fA, fD, iD, iF] ID: 
+fA fD -> [-9.0,2.0]
+fA iD -> [-13.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fA, fD, iD, iT] - frecuencia: 388
+Modelo: [fA, fD, iD, iT] - Numero de patrones: 2
+ Fr: 191 - [fA, fD, iD, iT] ID: 
+fA fD -> [1.0,13.0]
+fA iD -> [0.0,11.0]
+fA iT -> [-18.0,-8.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-31.0,-17.0]
+iD iT -> [-29.0,-15.0]
+
+ Fr: 168 - [fA, fD, iD, iT] ID: 
+fA fD -> [-9.0,2.0]
+fA iD -> [-13.0,-2.0]
+fA iT -> [-37.0,-24.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-34.0,-17.0]
+iD iT -> [-30.0,-15.0]
+
+
+[fA, fD, iF, iT] - frecuencia: 730
+Modelo: [fA, fD, iF, iT] - Numero de patrones: 3
+ Fr: 226 - [fA, fD, iF, iT] ID: 
+fA fD -> [-1.0,13.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fD iF -> [-32.0,-18.0]
+fD iT -> [-31.0,-17.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 307 - [fA, fD, iF, iT] ID: 
+fA fD -> [-9.0,13.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fD iF -> [-39.0,-18.0]
+fD iT -> [-39.0,-17.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 197 - [fA, fD, iF, iT] ID: 
+fA fD -> [17.0,29.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fD iF -> [-39.0,-25.0]
+fD iT -> [-39.0,-25.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, fF, fT, iA] - frecuencia: 598
+Modelo: [fA, fF, fT, iA] - Numero de patrones: 2
+ Fr: 338 - [fA, fF, fT, iA] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-21.0,-9.0]
+fT iA -> [-18.0,-9.0]
+
+ Fr: 231 - [fA, fF, fT, iA] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-19.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-23.0]
+fT iA -> [-38.0,-20.0]
+
+
+[fA, fF, fT, iD] - frecuencia: 485
+Modelo: [fA, fF, fT, iD] - Numero de patrones: 2
+ Fr: 276 - [fA, fF, fT, iD] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [0.0,11.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-4.0,10.0]
+fT iD -> [-1.0,10.0]
+
+ Fr: 209 - [fA, fF, fT, iD] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [-15.0,-2.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-17.0,0.0]
+fT iD -> [-14.0,-1.0]
+
+
+[fA, fF, fT, iF] - frecuencia: 595
+Modelo: [fA, fF, fT, iF] - Numero de patrones: 2
+ Fr: 356 - [fA, fF, fT, iF] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iF -> [-19.0,-8.0]
+fF fT -> [-3.0,1.0]
+fF iF -> [-22.0,-9.0]
+fT iF -> [-19.0,-9.0]
+
+ Fr: 239 - [fA, fF, fT, iF] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iF -> [-37.0,-22.0]
+fF fT -> [-3.0,1.0]
+fF iF -> [-38.0,-23.0]
+fT iF -> [-38.0,-21.0]
+
+
+[fA, fF, fT, iT] - frecuencia: 541
+Modelo: [fA, fF, fT, iT] - Numero de patrones: 2
+ Fr: 341 - [fA, fF, fT, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iT -> [-18.0,-8.0]
+fF fT -> [-3.0,1.0]
+fF iT -> [-22.0,-9.0]
+fT iT -> [-19.0,-9.0]
+
+ Fr: 200 - [fA, fF, fT, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iT -> [-37.0,-24.0]
+fF fT -> [-3.0,1.0]
+fF iT -> [-38.0,-25.0]
+fT iT -> [-36.0,-23.0]
+
+
+[fA, fF, iA, iD] - frecuencia: 838
+Modelo: [fA, fF, iA, iD] - Numero de patrones: 5
+ Fr: 321 - [fA, fF, iA, iD] ID: 
+fA fF -> [-2.0,4.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fF iA -> [-21.0,-9.0]
+fF iD -> [-4.0,10.0]
+iA iD -> [16.0,28.0]
+
+ Fr: 170 - [fA, fF, iA, iD] ID: 
+fA fF -> [-2.0,4.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [-16.0,-4.0]
+fF iA -> [-21.0,-9.0]
+fF iD -> [-18.0,-4.0]
+iA iD -> [-3.0,5.0]
+
+ Fr: 49 - [fA, fF, iA, iD] ID: 
+fA fF -> [-2.0,4.0]
+fA iA -> [-24.0,-18.0]
+fA iD -> [0.0,10.0]
+fF iA -> [-22.0,-16.0]
+fF iD -> [-4.0,10.0]
+iA iD -> [18.0,28.0]
+
+ Fr: 40 - [fA, fF, iA, iD] ID: 
+fA fF -> [-2.0,4.0]
+fA iA -> [-28.0,-19.0]
+fA iD -> [0.0,9.0]
+fF iA -> [-32.0,-23.0]
+fF iD -> [-4.0,5.0]
+iA iD -> [19.0,28.0]
+
+ Fr: 247 - [fA, fF, iA, iD] ID: 
+fA fF -> [-2.0,4.0]
+fA iA -> [-37.0,-19.0]
+fA iD -> [-16.0,-2.0]
+fF iA -> [-39.0,-23.0]
+fF iD -> [-18.0,0.0]
+iA iD -> [16.0,28.0]
+
+
+[fA, fF, iA, iF] - frecuencia: 711
+Modelo: [fA, fF, iA, iF] - Numero de patrones: 2
+ Fr: 412 - [fA, fF, iA, iF] ID: 
+fA fF -> [-2.0,4.0]
+fA iA -> [-17.0,-9.0]
+fA iF -> [-19.0,-8.0]
+fF iA -> [-21.0,-9.0]
+fF iF -> [-22.0,-9.0]
+iA iF -> [-3.0,1.0]
+
+ Fr: 299 - [fA, fF, iA, iF] ID: 
+fA fF -> [-2.0,4.0]
+fA iA -> [-37.0,-19.0]
+fA iF -> [-37.0,-22.0]
+fF iA -> [-39.0,-23.0]
+fF iF -> [-38.0,-23.0]
+iA iF -> [-3.0,1.0]
+
+
+[fA, fF, iA, iT] - frecuencia: 577
+Modelo: [fA, fF, iA, iT] - Numero de patrones: 2
+ Fr: 332 - [fA, fF, iA, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA iA -> [-17.0,-9.0]
+fA iT -> [-18.0,-8.0]
+fF iA -> [-21.0,-9.0]
+fF iT -> [-22.0,-9.0]
+iA iT -> [-1.0,1.0]
+
+ Fr: 245 - [fA, fF, iA, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA iA -> [-37.0,-23.0]
+fA iT -> [-37.0,-24.0]
+fF iA -> [-39.0,-24.0]
+fF iT -> [-38.0,-25.0]
+iA iT -> [-1.0,1.0]
+
+
+[fA, fF, iD, iF] - frecuencia: 814
+Modelo: [fA, fF, iD, iF] - Numero de patrones: 4
+ Fr: 383 - [fA, fF, iD, iF] ID: 
+fA fF -> [-2.0,4.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fF iD -> [-4.0,10.0]
+fF iF -> [-22.0,-9.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 39 - [fA, fF, iD, iF] ID: 
+fA fF -> [-2.0,4.0]
+fA iD -> [0.0,7.0]
+fA iF -> [-29.0,-22.0]
+fF iD -> [-4.0,6.0]
+fF iF -> [-33.0,-23.0]
+iD iF -> [-29.0,-22.0]
+
+ Fr: 128 - [fA, fF, iD, iF] ID: 
+fA fF -> [-2.0,4.0]
+fA iD -> [-16.0,-4.0]
+fA iF -> [-19.0,-8.0]
+fF iD -> [-18.0,-5.0]
+fF iF -> [-22.0,-9.0]
+iD iF -> [-4.0,0.0]
+
+ Fr: 264 - [fA, fF, iD, iF] ID: 
+fA fF -> [-2.0,4.0]
+fA iD -> [-16.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fF iD -> [-18.0,0.0]
+fF iF -> [-38.0,-23.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fA, fF, iD, iT] - frecuencia: 780
+Modelo: [fA, fF, iD, iT] - Numero de patrones: 3
+ Fr: 351 - [fA, fF, iD, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA iD -> [0.0,11.0]
+fA iT -> [-18.0,-8.0]
+fF iD -> [-4.0,10.0]
+fF iT -> [-22.0,-9.0]
+iD iT -> [-29.0,-15.0]
+
+ Fr: 156 - [fA, fF, iD, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA iD -> [-16.0,-3.0]
+fA iT -> [-18.0,-8.0]
+fF iD -> [-18.0,-4.0]
+fF iT -> [-22.0,-9.0]
+iD iT -> [-5.0,2.0]
+
+ Fr: 250 - [fA, fF, iD, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA iD -> [-16.0,-2.0]
+fA iT -> [-37.0,-24.0]
+fF iD -> [-18.0,0.0]
+fF iT -> [-38.0,-25.0]
+iD iT -> [-30.0,-15.0]
+
+
+[fA, fF, iF, iT] - frecuencia: 701
+Modelo: [fA, fF, iF, iT] - Numero de patrones: 2
+ Fr: 420 - [fA, fF, iF, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 281 - [fA, fF, iF, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, fT, iA, iD] - frecuencia: 508
+Modelo: [fA, fT, iA, iD] - Numero de patrones: 4
+ Fr: 212 - [fA, fT, iA, iD] ID: 
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fT iA -> [-18.0,-9.0]
+fT iD -> [-1.0,10.0]
+iA iD -> [16.0,28.0]
+
+ Fr: 110 - [fA, fT, iA, iD] ID: 
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [-15.0,-4.0]
+fT iA -> [-18.0,-9.0]
+fT iD -> [-14.0,-4.0]
+iA iD -> [-3.0,5.0]
+
+ Fr: 32 - [fA, fT, iA, iD] ID: 
+fA fT -> [-1.0,1.0]
+fA iA -> [-28.0,-19.0]
+fA iD -> [0.0,9.0]
+fT iA -> [-29.0,-20.0]
+fT iD -> [-1.0,8.0]
+iA iD -> [19.0,28.0]
+
+ Fr: 154 - [fA, fT, iA, iD] ID: 
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-19.0]
+fA iD -> [-15.0,-2.0]
+fT iA -> [-38.0,-20.0]
+fT iD -> [-14.0,-1.0]
+iA iD -> [16.0,28.0]
+
+
+[fA, fT, iA, iF] - frecuencia: 506
+Modelo: [fA, fT, iA, iF] - Numero de patrones: 2
+ Fr: 297 - [fA, fT, iA, iF] ID: 
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iF -> [-19.0,-8.0]
+fT iA -> [-18.0,-9.0]
+fT iF -> [-19.0,-9.0]
+iA iF -> [-3.0,1.0]
+
+ Fr: 209 - [fA, fT, iA, iF] ID: 
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-19.0]
+fA iF -> [-37.0,-22.0]
+fT iA -> [-38.0,-20.0]
+fT iF -> [-38.0,-21.0]
+iA iF -> [-3.0,1.0]
+
+
+[fA, fT, iA, iT] - frecuencia: 418
+Modelo: [fA, fT, iA, iT] - Numero de patrones: 2
+ Fr: 252 - [fA, fT, iA, iT] ID: 
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iT -> [-18.0,-8.0]
+fT iA -> [-18.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iA iT -> [-1.0,1.0]
+
+ Fr: 166 - [fA, fT, iA, iT] ID: 
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-23.0]
+fA iT -> [-37.0,-24.0]
+fT iA -> [-37.0,-22.0]
+fT iT -> [-36.0,-23.0]
+iA iT -> [-1.0,1.0]
+
+
+[fA, fT, iD, iF] - frecuencia: 513
+Modelo: [fA, fT, iD, iF] - Numero de patrones: 3
+ Fr: 248 - [fA, fT, iD, iF] ID: 
+fA fT -> [-1.0,1.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fT iD -> [-1.0,10.0]
+fT iF -> [-19.0,-9.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 85 - [fA, fT, iD, iF] ID: 
+fA fT -> [-1.0,1.0]
+fA iD -> [-15.0,-4.0]
+fA iF -> [-19.0,-8.0]
+fT iD -> [-14.0,-5.0]
+fT iF -> [-18.0,-9.0]
+iD iF -> [-4.0,0.0]
+
+ Fr: 156 - [fA, fT, iD, iF] ID: 
+fA fT -> [-1.0,1.0]
+fA iD -> [-15.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fT iD -> [-14.0,-1.0]
+fT iF -> [-38.0,-21.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fA, fT, iD, iT] - frecuencia: 503
+Modelo: [fA, fT, iD, iT] - Numero de patrones: 3
+ Fr: 232 - [fA, fT, iD, iT] ID: 
+fA fT -> [-1.0,1.0]
+fA iD -> [0.0,11.0]
+fA iT -> [-18.0,-8.0]
+fT iD -> [-1.0,10.0]
+fT iT -> [-19.0,-9.0]
+iD iT -> [-29.0,-15.0]
+
+ Fr: 107 - [fA, fT, iD, iT] ID: 
+fA fT -> [-1.0,1.0]
+fA iD -> [-15.0,-3.0]
+fA iT -> [-18.0,-8.0]
+fT iD -> [-14.0,-4.0]
+fT iT -> [-19.0,-9.0]
+iD iT -> [-5.0,2.0]
+
+ Fr: 151 - [fA, fT, iD, iT] ID: 
+fA fT -> [-1.0,1.0]
+fA iD -> [-15.0,-2.0]
+fA iT -> [-37.0,-24.0]
+fT iD -> [-14.0,-1.0]
+fT iT -> [-36.0,-23.0]
+iD iT -> [-30.0,-15.0]
+
+
+[fA, fT, iF, iT] - frecuencia: 518
+Modelo: [fA, fT, iF, iT] - Numero de patrones: 2
+ Fr: 322 - [fA, fT, iF, iT] ID: 
+fA fT -> [-1.0,1.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 196 - [fA, fT, iF, iT] ID: 
+fA fT -> [-1.0,1.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, iA, iD, iF] - frecuencia: 638
+Modelo: [fA, iA, iD, iF] - Numero de patrones: 4
+ Fr: 280 - [fA, iA, iD, iF] ID: 
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 110 - [fA, iA, iD, iF] ID: 
+fA iA -> [-17.0,-9.0]
+fA iD -> [-16.0,-4.0]
+fA iF -> [-19.0,-8.0]
+iA iD -> [-3.0,5.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-4.0,0.0]
+
+ Fr: 31 - [fA, iA, iD, iF] ID: 
+fA iA -> [-28.0,-19.0]
+fA iD -> [0.0,7.0]
+fA iF -> [-29.0,-22.0]
+iA iD -> [19.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-22.0]
+
+ Fr: 217 - [fA, iA, iD, iF] ID: 
+fA iA -> [-37.0,-19.0]
+fA iD -> [-16.0,-2.0]
+fA iF -> [-37.0,-22.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fA, iA, iD, iT] - frecuencia: 538
+Modelo: [fA, iA, iD, iT] - Numero de patrones: 3
+ Fr: 233 - [fA, iA, iD, iT] ID: 
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fA iT -> [-18.0,-8.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+ Fr: 100 - [fA, iA, iD, iT] ID: 
+fA iA -> [-17.0,-9.0]
+fA iD -> [-16.0,-4.0]
+fA iT -> [-18.0,-8.0]
+iA iD -> [-3.0,5.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-5.0,2.0]
+
+ Fr: 194 - [fA, iA, iD, iT] ID: 
+fA iA -> [-37.0,-23.0]
+fA iD -> [-16.0,-2.0]
+fA iT -> [-37.0,-24.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+
+[fA, iA, iF, iT] - frecuencia: 525
+Modelo: [fA, iA, iF, iT] - Numero de patrones: 2
+ Fr: 289 - [fA, iA, iF, iT] ID: 
+fA iA -> [-17.0,-9.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 236 - [fA, iA, iF, iT] ID: 
+fA iA -> [-37.0,-23.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, iD, iF, iT] - frecuencia: 662
+Modelo: [fA, iD, iF, iT] - Numero de patrones: 3
+ Fr: 309 - [fA, iD, iF, iT] ID: 
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 109 - [fA, iD, iF, iT] ID: 
+fA iD -> [-16.0,-4.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+iD iF -> [-4.0,0.0]
+iD iT -> [-5.0,2.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 220 - [fA, iD, iF, iT] ID: 
+fA iD -> [-16.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-30.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fD, fF, fT, iA] - frecuencia: 824
+Modelo: [fD, fF, fT, iA] - Numero de patrones: 4
+ Fr: 274 - [fD, fF, fT, iA] ID: 
+fD fF -> [-13.0,5.0]
+fD fT -> [-14.0,2.0]
+fD iA -> [-33.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-22.0,-9.0]
+fT iA -> [-19.0,-9.0]
+
+ Fr: 44 - [fD, fF, fT, iA] ID: 
+fD fF -> [-13.0,5.0]
+fD fT -> [-14.0,6.0]
+fD iA -> [-35.0,-17.0]
+fF fT -> [-2.0,1.0]
+fF iA -> [-22.0,-19.0]
+fT iA -> [-23.0,-20.0]
+
+ Fr: 324 - [fD, fF, fT, iA] ID: 
+fD fF -> [-13.0,8.0]
+fD fT -> [-14.0,8.0]
+fD iA -> [-39.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-23.0]
+fT iA -> [-39.0,-20.0]
+
+ Fr: 182 - [fD, fF, fT, iA] ID: 
+fD fF -> [-27.0,-17.0]
+fD fT -> [-28.0,-18.0]
+fD iA -> [-39.0,-27.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-22.0,-9.0]
+fT iA -> [-19.0,-9.0]
+
+
+[fD, fF, fT, iD] - frecuencia: 404
+Modelo: [fD, fF, fT, iD] - Numero de patrones: 1
+ Fr: 404 - [fD, fF, fT, iD] ID: 
+fD fF -> [-13.0,8.0]
+fD fT -> [-14.0,8.0]
+fD iD -> [-4.0,-1.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-12.0,10.0]
+fT iD -> [-12.0,10.0]
+
+
+[fD, fF, fT, iF] - frecuencia: 797
+Modelo: [fD, fF, fT, iF] - Numero de patrones: 4
+ Fr: 262 - [fD, fF, fT, iF] ID: 
+fD fF -> [-13.0,4.0]
+fD fT -> [-14.0,1.0]
+fD iF -> [-33.0,-18.0]
+fF fT -> [-3.0,1.0]
+fF iF -> [-22.0,-9.0]
+fT iF -> [-19.0,-9.0]
+
+ Fr: 32 - [fD, fF, fT, iF] ID: 
+fD fF -> [-13.0,4.0]
+fD fT -> [-14.0,5.0]
+fD iF -> [-35.0,-18.0]
+fF fT -> [-2.0,1.0]
+fF iF -> [-22.0,-19.0]
+fT iF -> [-23.0,-20.0]
+
+ Fr: 323 - [fD, fF, fT, iF] ID: 
+fD fF -> [-13.0,8.0]
+fD fT -> [-14.0,8.0]
+fD iF -> [-39.0,-18.0]
+fF fT -> [-3.0,1.0]
+fF iF -> [-38.0,-23.0]
+fT iF -> [-38.0,-20.0]
+
+ Fr: 180 - [fD, fF, fT, iF] ID: 
+fD fF -> [-27.0,-17.0]
+fD fT -> [-28.0,-18.0]
+fD iF -> [-39.0,-27.0]
+fF fT -> [-3.0,1.0]
+fF iF -> [-22.0,-9.0]
+fT iF -> [-19.0,-9.0]
+
+
+[fD, fF, fT, iT] - frecuencia: 786
+Modelo: [fD, fF, fT, iT] - Numero de patrones: 3
+ Fr: 339 - [fD, fF, fT, iT] ID: 
+fD fF -> [-13.0,6.0]
+fD fT -> [-14.0,5.0]
+fD iT -> [-36.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iT -> [-23.0,-9.0]
+fT iT -> [-22.0,-9.0]
+
+ Fr: 265 - [fD, fF, fT, iT] ID: 
+fD fF -> [-13.0,8.0]
+fD fT -> [-14.0,8.0]
+fD iT -> [-39.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iT -> [-38.0,-25.0]
+fT iT -> [-36.0,-23.0]
+
+ Fr: 182 - [fD, fF, fT, iT] ID: 
+fD fF -> [-27.0,-17.0]
+fD fT -> [-28.0,-18.0]
+fD iT -> [-39.0,-27.0]
+fF fT -> [-3.0,1.0]
+fF iT -> [-22.0,-9.0]
+fT iT -> [-21.0,-9.0]
+
+
+[fD, fF, iA, iD] - frecuencia: 424
+Modelo: [fD, fF, iA, iD] - Numero de patrones: 2
+ Fr: 241 - [fD, fF, iA, iD] ID: 
+fD fF -> [-13.0,5.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fF iA -> [-22.0,-9.0]
+fF iD -> [-6.0,10.0]
+iA iD -> [16.0,28.0]
+
+ Fr: 183 - [fD, fF, iA, iD] ID: 
+fD fF -> [-9.0,8.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fF iA -> [-39.0,-23.0]
+fF iD -> [-12.0,5.0]
+iA iD -> [16.0,28.0]
+
+
+[fD, fF, iA, iF] - frecuencia: 743
+Modelo: [fD, fF, iA, iF] - Numero de patrones: 3
+ Fr: 262 - [fD, fF, iA, iF] ID: 
+fD fF -> [-13.0,4.0]
+fD iA -> [-35.0,-17.0]
+fD iF -> [-35.0,-18.0]
+fF iA -> [-22.0,-9.0]
+fF iF -> [-22.0,-9.0]
+iA iF -> [-3.0,1.0]
+
+ Fr: 307 - [fD, fF, iA, iF] ID: 
+fD fF -> [-13.0,8.0]
+fD iA -> [-39.0,-17.0]
+fD iF -> [-39.0,-18.0]
+fF iA -> [-39.0,-23.0]
+fF iF -> [-38.0,-23.0]
+iA iF -> [-3.0,1.0]
+
+ Fr: 174 - [fD, fF, iA, iF] ID: 
+fD fF -> [-27.0,-17.0]
+fD iA -> [-39.0,-26.0]
+fD iF -> [-39.0,-26.0]
+fF iA -> [-22.0,-9.0]
+fF iF -> [-22.0,-9.0]
+iA iF -> [-3.0,1.0]
+
+
+[fD, fF, iA, iT] - frecuencia: 652
+Modelo: [fD, fF, iA, iT] - Numero de patrones: 3
+ Fr: 244 - [fD, fF, iA, iT] ID: 
+fD fF -> [-13.0,5.0]
+fD iA -> [-35.0,-17.0]
+fD iT -> [-36.0,-17.0]
+fF iA -> [-22.0,-9.0]
+fF iT -> [-23.0,-9.0]
+iA iT -> [-1.0,1.0]
+
+ Fr: 252 - [fD, fF, iA, iT] ID: 
+fD fF -> [-13.0,8.0]
+fD iA -> [-39.0,-17.0]
+fD iT -> [-39.0,-17.0]
+fF iA -> [-39.0,-24.0]
+fF iT -> [-38.0,-25.0]
+iA iT -> [-1.0,1.0]
+
+ Fr: 156 - [fD, fF, iA, iT] ID: 
+fD fF -> [-27.0,-17.0]
+fD iA -> [-39.0,-26.0]
+fD iT -> [-39.0,-26.0]
+fF iA -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+iA iT -> [-1.0,1.0]
+
+
+[fD, fF, iD, iF] - frecuencia: 436
+Modelo: [fD, fF, iD, iF] - Numero de patrones: 2
+ Fr: 242 - [fD, fF, iD, iF] ID: 
+fD fF -> [-13.0,4.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fF iD -> [-7.0,10.0]
+fF iF -> [-22.0,-9.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 194 - [fD, fF, iD, iF] ID: 
+fD fF -> [-10.0,8.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fF iD -> [-12.0,6.0]
+fF iF -> [-38.0,-23.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fD, fF, iD, iT] - frecuencia: 445
+Modelo: [fD, fF, iD, iT] - Numero de patrones: 2
+ Fr: 267 - [fD, fF, iD, iT] ID: 
+fD fF -> [-13.0,6.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-34.0,-17.0]
+fF iD -> [-8.0,10.0]
+fF iT -> [-23.0,-9.0]
+iD iT -> [-30.0,-15.0]
+
+ Fr: 178 - [fD, fF, iD, iT] ID: 
+fD fF -> [-9.0,8.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-34.0,-17.0]
+fF iD -> [-12.0,5.0]
+fF iT -> [-38.0,-25.0]
+iD iT -> [-30.0,-15.0]
+
+
+[fD, fF, iF, iT] - frecuencia: 757
+Modelo: [fD, fF, iF, iT] - Numero de patrones: 3
+ Fr: 281 - [fD, fF, iF, iT] ID: 
+fD fF -> [-13.0,4.0]
+fD iF -> [-35.0,-18.0]
+fD iT -> [-36.0,-17.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-23.0,-9.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 290 - [fD, fF, iF, iT] ID: 
+fD fF -> [-13.0,8.0]
+fD iF -> [-39.0,-18.0]
+fD iT -> [-39.0,-17.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 186 - [fD, fF, iF, iT] ID: 
+fD fF -> [-27.0,-17.0]
+fD iF -> [-39.0,-26.0]
+fD iT -> [-39.0,-26.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+iF iT -> [-2.0,3.0]
+
+
+[fD, fT, iA, iD] - frecuencia: 416
+Modelo: [fD, fT, iA, iD] - Numero de patrones: 2
+ Fr: 189 - [fD, fT, iA, iD] ID: 
+fD fT -> [-14.0,2.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fT iA -> [-19.0,-9.0]
+fT iD -> [-3.0,10.0]
+iA iD -> [16.0,28.0]
+
+ Fr: 227 - [fD, fT, iA, iD] ID: 
+fD fT -> [-12.0,8.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fT iA -> [-39.0,-20.0]
+fT iD -> [-12.0,8.0]
+iA iD -> [16.0,28.0]
+
+
+[fD, fT, iA, iF] - frecuencia: 746
+Modelo: [fD, fT, iA, iF] - Numero de patrones: 3
+ Fr: 247 - [fD, fT, iA, iF] ID: 
+fD fT -> [-14.0,1.0]
+fD iA -> [-33.0,-17.0]
+fD iF -> [-33.0,-18.0]
+fT iA -> [-19.0,-9.0]
+fT iF -> [-19.0,-9.0]
+iA iF -> [-3.0,1.0]
+
+ Fr: 334 - [fD, fT, iA, iF] ID: 
+fD fT -> [-14.0,8.0]
+fD iA -> [-39.0,-17.0]
+fD iF -> [-39.0,-18.0]
+fT iA -> [-39.0,-20.0]
+fT iF -> [-38.0,-20.0]
+iA iF -> [-3.0,1.0]
+
+ Fr: 165 - [fD, fT, iA, iF] ID: 
+fD fT -> [-28.0,-18.0]
+fD iA -> [-39.0,-27.0]
+fD iF -> [-39.0,-27.0]
+fT iA -> [-19.0,-9.0]
+fT iF -> [-19.0,-9.0]
+iA iF -> [-3.0,1.0]
+
+
+[fD, fT, iA, iT] - frecuencia: 659
+Modelo: [fD, fT, iA, iT] - Numero de patrones: 4
+ Fr: 222 - [fD, fT, iA, iT] ID: 
+fD fT -> [-14.0,2.0]
+fD iA -> [-33.0,-17.0]
+fD iT -> [-34.0,-17.0]
+fT iA -> [-19.0,-9.0]
+fT iT -> [-20.0,-9.0]
+iA iT -> [-1.0,1.0]
+
+ Fr: 37 - [fD, fT, iA, iT] ID: 
+fD fT -> [-14.0,5.0]
+fD iA -> [-37.0,-17.0]
+fD iT -> [-36.0,-17.0]
+fT iA -> [-23.0,-20.0]
+fT iT -> [-22.0,-19.0]
+iA iT -> [-1.0,1.0]
+
+ Fr: 249 - [fD, fT, iA, iT] ID: 
+fD fT -> [-14.0,8.0]
+fD iA -> [-39.0,-17.0]
+fD iT -> [-39.0,-17.0]
+fT iA -> [-37.0,-22.0]
+fT iT -> [-36.0,-23.0]
+iA iT -> [-1.0,1.0]
+
+ Fr: 151 - [fD, fT, iA, iT] ID: 
+fD fT -> [-28.0,-18.0]
+fD iA -> [-39.0,-27.0]
+fD iT -> [-39.0,-27.0]
+fT iA -> [-19.0,-9.0]
+fT iT -> [-20.0,-9.0]
+iA iT -> [-1.0,1.0]
+
+
+[fD, fT, iD, iF] - frecuencia: 427
+Modelo: [fD, fT, iD, iF] - Numero de patrones: 2
+ Fr: 194 - [fD, fT, iD, iF] ID: 
+fD fT -> [-14.0,1.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fT iD -> [-4.0,10.0]
+fT iF -> [-19.0,-9.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 233 - [fD, fT, iD, iF] ID: 
+fD fT -> [-13.0,8.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fT iD -> [-12.0,9.0]
+fT iF -> [-38.0,-20.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fD, fT, iD, iT] - frecuencia: 442
+Modelo: [fD, fT, iD, iT] - Numero de patrones: 2
+ Fr: 247 - [fD, fT, iD, iT] ID: 
+fD fT -> [-14.0,5.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-34.0,-17.0]
+fT iD -> [-7.0,10.0]
+fT iT -> [-22.0,-9.0]
+iD iT -> [-30.0,-15.0]
+
+ Fr: 195 - [fD, fT, iD, iT] ID: 
+fD fT -> [-11.0,8.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-34.0,-17.0]
+fT iD -> [-12.0,7.0]
+fT iT -> [-36.0,-23.0]
+iD iT -> [-30.0,-15.0]
+
+
+[fD, fT, iF, iT] - frecuencia: 763
+Modelo: [fD, fT, iF, iT] - Numero de patrones: 4
+ Fr: 267 - [fD, fT, iF, iT] ID: 
+fD fT -> [-14.0,1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-35.0,-17.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-21.0,-9.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 40 - [fD, fT, iF, iT] ID: 
+fD fT -> [-14.0,5.0]
+fD iF -> [-39.0,-18.0]
+fD iT -> [-36.0,-17.0]
+fT iF -> [-25.0,-20.0]
+fT iT -> [-22.0,-17.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 278 - [fD, fT, iF, iT] ID: 
+fD fT -> [-14.0,8.0]
+fD iF -> [-39.0,-18.0]
+fD iT -> [-39.0,-17.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 178 - [fD, fT, iF, iT] ID: 
+fD fT -> [-28.0,-18.0]
+fD iF -> [-39.0,-27.0]
+fD iT -> [-39.0,-27.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-21.0,-9.0]
+iF iT -> [-2.0,3.0]
+
+
+[fD, iA, iD, iF] - frecuencia: 339
+Modelo: [fD, iA, iD, iF] - Numero de patrones: 1
+ Fr: 339 - [fD, iA, iD, iF] ID: 
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fD, iA, iD, iT] - frecuencia: 274
+Modelo: [fD, iA, iD, iT] - Numero de patrones: 1
+ Fr: 274 - [fD, iA, iD, iT] ID: 
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-33.0,-17.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+
+[fD, iA, iF, iT] - frecuencia: 454
+Modelo: [fD, iA, iF, iT] - Numero de patrones: 1
+ Fr: 454 - [fD, iA, iF, iT] ID: 
+fD iA -> [-39.0,-17.0]
+fD iF -> [-39.0,-18.0]
+fD iT -> [-39.0,-17.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+
+[fD, iD, iF, iT] - frecuencia: 347
+Modelo: [fD, iD, iF, iT] - Numero de patrones: 1
+ Fr: 347 - [fD, iD, iF, iT] ID: 
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-34.0,-17.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-30.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fF, fT, iA, iD] - frecuencia: 707
+Modelo: [fF, fT, iA, iD] - Numero de patrones: 4
+ Fr: 291 - [fF, fT, iA, iD] ID: 
+fF fT -> [-3.0,1.0]
+fF iA -> [-22.0,-9.0]
+fF iD -> [-6.0,10.0]
+fT iA -> [-19.0,-9.0]
+fT iD -> [-3.0,10.0]
+iA iD -> [16.0,28.0]
+
+ Fr: 128 - [fF, fT, iA, iD] ID: 
+fF fT -> [-3.0,1.0]
+fF iA -> [-22.0,-9.0]
+fF iD -> [-17.0,-4.0]
+fT iA -> [-19.0,-9.0]
+fT iD -> [-14.0,-4.0]
+iA iD -> [-3.0,5.0]
+
+ Fr: 36 - [fF, fT, iA, iD] ID: 
+fF fT -> [-2.0,1.0]
+fF iA -> [-22.0,-19.0]
+fF iD -> [-6.0,9.0]
+fT iA -> [-23.0,-20.0]
+fT iD -> [-7.0,8.0]
+iA iD -> [16.0,28.0]
+
+ Fr: 252 - [fF, fT, iA, iD] ID: 
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-23.0]
+fF iD -> [-17.0,5.0]
+fT iA -> [-39.0,-20.0]
+fT iD -> [-14.0,8.0]
+iA iD -> [16.0,28.0]
+
+
+[fF, fT, iA, iF] - frecuencia: 689
+Modelo: [fF, fT, iA, iF] - Numero de patrones: 2
+ Fr: 381 - [fF, fT, iA, iF] ID: 
+fF fT -> [-3.0,1.0]
+fF iA -> [-22.0,-9.0]
+fF iF -> [-22.0,-9.0]
+fT iA -> [-19.0,-9.0]
+fT iF -> [-19.0,-9.0]
+iA iF -> [-3.0,1.0]
+
+ Fr: 291 - [fF, fT, iA, iF] ID: 
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-23.0]
+fF iF -> [-38.0,-23.0]
+fT iA -> [-39.0,-20.0]
+fT iF -> [-38.0,-20.0]
+iA iF -> [-3.0,1.0]
+
+
+[fF, fT, iA, iT] - frecuencia: 554
+Modelo: [fF, fT, iA, iT] - Numero de patrones: 2
+ Fr: 310 - [fF, fT, iA, iT] ID: 
+fF fT -> [-3.0,1.0]
+fF iA -> [-22.0,-9.0]
+fF iT -> [-23.0,-9.0]
+fT iA -> [-19.0,-9.0]
+fT iT -> [-20.0,-9.0]
+iA iT -> [-1.0,1.0]
+
+ Fr: 220 - [fF, fT, iA, iT] ID: 
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-24.0]
+fF iT -> [-38.0,-25.0]
+fT iA -> [-37.0,-22.0]
+fT iT -> [-36.0,-23.0]
+iA iT -> [-1.0,1.0]
+
+
+[fF, fT, iD, iF] - frecuencia: 699
+Modelo: [fF, fT, iD, iF] - Numero de patrones: 4
+ Fr: 315 - [fF, fT, iD, iF] ID: 
+fF fT -> [-3.0,1.0]
+fF iD -> [-7.0,10.0]
+fF iF -> [-22.0,-9.0]
+fT iD -> [-4.0,10.0]
+fT iF -> [-19.0,-9.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 96 - [fF, fT, iD, iF] ID: 
+fF fT -> [-3.0,1.0]
+fF iD -> [-17.0,-5.0]
+fF iF -> [-21.0,-9.0]
+fT iD -> [-14.0,-5.0]
+fT iF -> [-18.0,-9.0]
+iD iF -> [-4.0,0.0]
+
+ Fr: 33 - [fF, fT, iD, iF] ID: 
+fF fT -> [-2.0,1.0]
+fF iD -> [-7.0,10.0]
+fF iF -> [-22.0,-19.0]
+fT iD -> [-8.0,9.0]
+fT iF -> [-23.0,-20.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 255 - [fF, fT, iD, iF] ID: 
+fF fT -> [-3.0,1.0]
+fF iD -> [-17.0,6.0]
+fF iF -> [-38.0,-23.0]
+fT iD -> [-14.0,9.0]
+fT iF -> [-38.0,-20.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fF, fT, iD, iT] - frecuencia: 704
+Modelo: [fF, fT, iD, iT] - Numero de patrones: 3
+ Fr: 348 - [fF, fT, iD, iT] ID: 
+fF fT -> [-3.0,1.0]
+fF iD -> [-8.0,10.0]
+fF iT -> [-23.0,-9.0]
+fT iD -> [-7.0,10.0]
+fT iT -> [-22.0,-9.0]
+iD iT -> [-30.0,-15.0]
+
+ Fr: 125 - [fF, fT, iD, iT] ID: 
+fF fT -> [-3.0,1.0]
+fF iD -> [-17.0,-4.0]
+fF iT -> [-22.0,-9.0]
+fT iD -> [-14.0,-4.0]
+fT iT -> [-19.0,-9.0]
+iD iT -> [-5.0,2.0]
+
+ Fr: 231 - [fF, fT, iD, iT] ID: 
+fF fT -> [-3.0,1.0]
+fF iD -> [-17.0,5.0]
+fF iT -> [-38.0,-25.0]
+fT iD -> [-14.0,7.0]
+fT iT -> [-36.0,-23.0]
+iD iT -> [-30.0,-15.0]
+
+
+[fF, fT, iF, iT] - frecuencia: 669
+Modelo: [fF, fT, iF, iT] - Numero de patrones: 2
+ Fr: 396 - [fF, fT, iF, iT] ID: 
+fF fT -> [-3.0,1.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-23.0,-9.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-21.0,-9.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 251 - [fF, fT, iF, iT] ID: 
+fF fT -> [-3.0,1.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iF iT -> [-2.0,3.0]
+
+
+[fF, iA, iD, iF] - frecuencia: 705
+Modelo: [fF, iA, iD, iF] - Numero de patrones: 3
+ Fr: 326 - [fF, iA, iD, iF] ID: 
+fF iA -> [-22.0,-9.0]
+fF iD -> [-6.0,10.0]
+fF iF -> [-22.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 121 - [fF, iA, iD, iF] ID: 
+fF iA -> [-22.0,-9.0]
+fF iD -> [-18.0,-5.0]
+fF iF -> [-22.0,-9.0]
+iA iD -> [-3.0,5.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-4.0,0.0]
+
+ Fr: 258 - [fF, iA, iD, iF] ID: 
+fF iA -> [-39.0,-23.0]
+fF iD -> [-18.0,5.0]
+fF iF -> [-38.0,-23.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fF, iA, iD, iT] - frecuencia: 606
+Modelo: [fF, iA, iD, iT] - Numero de patrones: 3
+ Fr: 273 - [fF, iA, iD, iT] ID: 
+fF iA -> [-22.0,-9.0]
+fF iD -> [-6.0,10.0]
+fF iT -> [-23.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+ Fr: 113 - [fF, iA, iD, iT] ID: 
+fF iA -> [-22.0,-9.0]
+fF iD -> [-18.0,-4.0]
+fF iT -> [-23.0,-9.0]
+iA iD -> [-3.0,5.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-5.0,2.0]
+
+ Fr: 220 - [fF, iA, iD, iT] ID: 
+fF iA -> [-39.0,-24.0]
+fF iD -> [-18.0,4.0]
+fF iT -> [-38.0,-25.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+
+[fF, iA, iF, iT] - frecuencia: 542
+Modelo: [fF, iA, iF, iT] - Numero de patrones: 2
+ Fr: 305 - [fF, iA, iF, iT] ID: 
+fF iA -> [-22.0,-9.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-23.0,-9.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 237 - [fF, iA, iF, iT] ID: 
+fF iA -> [-39.0,-24.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+
+[fF, iD, iF, iT] - frecuencia: 738
+Modelo: [fF, iD, iF, iT] - Numero de patrones: 3
+ Fr: 351 - [fF, iD, iF, iT] ID: 
+fF iD -> [-7.0,10.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-23.0,-9.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-30.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 118 - [fF, iD, iF, iT] ID: 
+fF iD -> [-18.0,-5.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-23.0,-9.0]
+iD iF -> [-4.0,0.0]
+iD iT -> [-5.0,2.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 269 - [fF, iD, iF, iT] ID: 
+fF iD -> [-18.0,5.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-30.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fT, iA, iD, iF] - frecuencia: 618
+Modelo: [fT, iA, iD, iF] - Numero de patrones: 3
+ Fr: 279 - [fT, iA, iD, iF] ID: 
+fT iA -> [-19.0,-9.0]
+fT iD -> [-3.0,10.0]
+fT iF -> [-19.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 94 - [fT, iA, iD, iF] ID: 
+fT iA -> [-19.0,-9.0]
+fT iD -> [-14.0,-5.0]
+fT iF -> [-18.0,-9.0]
+iA iD -> [-3.0,5.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-4.0,0.0]
+
+ Fr: 245 - [fT, iA, iD, iF] ID: 
+fT iA -> [-39.0,-20.0]
+fT iD -> [-14.0,8.0]
+fT iF -> [-38.0,-20.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fT, iA, iD, iT] - frecuencia: 545
+Modelo: [fT, iA, iD, iT] - Numero de patrones: 3
+ Fr: 232 - [fT, iA, iD, iT] ID: 
+fT iA -> [-19.0,-9.0]
+fT iD -> [-3.0,10.0]
+fT iT -> [-20.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+ Fr: 90 - [fT, iA, iD, iT] ID: 
+fT iA -> [-19.0,-9.0]
+fT iD -> [-14.0,-4.0]
+fT iT -> [-19.0,-9.0]
+iA iD -> [-3.0,5.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-5.0,2.0]
+
+ Fr: 195 - [fT, iA, iD, iT] ID: 
+fT iA -> [-37.0,-22.0]
+fT iD -> [-14.0,6.0]
+fT iT -> [-36.0,-23.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+
+[fT, iA, iF, iT] - frecuencia: 539
+Modelo: [fT, iA, iF, iT] - Numero de patrones: 2
+ Fr: 296 - [fT, iA, iF, iT] ID: 
+fT iA -> [-19.0,-9.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-20.0,-9.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 223 - [fT, iA, iF, iT] ID: 
+fT iA -> [-37.0,-22.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+
+[fT, iD, iF, iT] - frecuencia: 662
+Modelo: [fT, iD, iF, iT] - Numero de patrones: 4
+ Fr: 301 - [fT, iD, iF, iT] ID: 
+fT iD -> [-4.0,10.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-21.0,-9.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-30.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 98 - [fT, iD, iF, iT] ID: 
+fT iD -> [-14.0,-5.0]
+fT iF -> [-18.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iD iF -> [-4.0,0.0]
+iD iT -> [-5.0,2.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 33 - [fT, iD, iF, iT] ID: 
+fT iD -> [-7.0,9.0]
+fT iF -> [-25.0,-20.0]
+fT iT -> [-22.0,-17.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-30.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 230 - [fT, iD, iF, iT] ID: 
+fT iD -> [-14.0,7.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-30.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[iA, iD, iF, iT] - frecuencia: 409
+Modelo: [iA, iD, iF, iT] - Numero de patrones: 2
+ Fr: 326 - [iA, iD, iF, iT] ID: 
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 83 - [iA, iD, iF, iT] ID: 
+iA iD -> [-3.0,5.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-4.0,0.0]
+iD iT -> [-5.0,2.0]
+iF iT -> [-2.0,3.0]
+
+
+Tamaño 5 - Número de asociaciones frecuentes: 56
+[fA, fD, fF, fT, iA] - frecuencia: 504
+Modelo: [fA, fD, fF, fT, iA] - Numero de patrones: 3
+ Fr: 182 - [fA, fD, fF, fT, iA] ID: 
+fA fD -> [0.0,13.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fD fF -> [-13.0,4.0]
+fD fT -> [-14.0,1.0]
+fD iA -> [-30.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-21.0,-9.0]
+fT iA -> [-18.0,-9.0]
+
+ Fr: 189 - [fA, fD, fF, fT, iA] ID: 
+fA fD -> [-9.0,13.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-19.0]
+fD fF -> [-13.0,8.0]
+fD fT -> [-14.0,8.0]
+fD iA -> [-39.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-23.0]
+fT iA -> [-38.0,-20.0]
+
+ Fr: 133 - [fA, fD, fF, fT, iA] ID: 
+fA fD -> [17.0,29.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fD fF -> [-27.0,-17.0]
+fD fT -> [-28.0,-18.0]
+fD iA -> [-39.0,-27.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-21.0,-9.0]
+fT iA -> [-18.0,-9.0]
+
+
+[fA, fD, fF, fT, iD] - frecuencia: 233
+Modelo: [fA, fD, fF, fT, iD] - Numero de patrones: 2
+ Fr: 144 - [fA, fD, fF, fT, iD] ID: 
+fA fD -> [1.0,13.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [0.0,11.0]
+fD fF -> [-13.0,3.0]
+fD fT -> [-14.0,0.0]
+fD iD -> [-4.0,-1.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-4.0,10.0]
+fT iD -> [-1.0,10.0]
+
+ Fr: 89 - [fA, fD, fF, fT, iD] ID: 
+fA fD -> [-9.0,2.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [-13.0,-2.0]
+fD fF -> [-4.0,8.0]
+fD fT -> [-3.0,8.0]
+fD iD -> [-4.0,-1.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-12.0,0.0]
+fT iD -> [-12.0,-1.0]
+
+
+[fA, fD, fF, fT, iF] - frecuencia: 519
+Modelo: [fA, fD, fF, fT, iF] - Numero de patrones: 3
+ Fr: 189 - [fA, fD, fF, fT, iF] ID: 
+fA fD -> [-1.0,13.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iF -> [-19.0,-8.0]
+fD fF -> [-13.0,4.0]
+fD fT -> [-14.0,1.0]
+fD iF -> [-32.0,-18.0]
+fF fT -> [-3.0,1.0]
+fF iF -> [-22.0,-9.0]
+fT iF -> [-19.0,-9.0]
+
+ Fr: 195 - [fA, fD, fF, fT, iF] ID: 
+fA fD -> [-9.0,13.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iF -> [-37.0,-22.0]
+fD fF -> [-13.0,8.0]
+fD fT -> [-14.0,8.0]
+fD iF -> [-39.0,-18.0]
+fF fT -> [-3.0,1.0]
+fF iF -> [-38.0,-23.0]
+fT iF -> [-38.0,-21.0]
+
+ Fr: 135 - [fA, fD, fF, fT, iF] ID: 
+fA fD -> [17.0,29.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iF -> [-19.0,-8.0]
+fD fF -> [-27.0,-17.0]
+fD fT -> [-28.0,-18.0]
+fD iF -> [-39.0,-27.0]
+fF fT -> [-3.0,1.0]
+fF iF -> [-22.0,-9.0]
+fT iF -> [-19.0,-9.0]
+
+
+[fA, fD, fF, fT, iT] - frecuencia: 491
+Modelo: [fA, fD, fF, fT, iT] - Numero de patrones: 3
+ Fr: 194 - [fA, fD, fF, fT, iT] ID: 
+fA fD -> [-1.0,13.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iT -> [-18.0,-8.0]
+fD fF -> [-13.0,5.0]
+fD fT -> [-14.0,2.0]
+fD iT -> [-31.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iT -> [-22.0,-9.0]
+fT iT -> [-19.0,-9.0]
+
+ Fr: 163 - [fA, fD, fF, fT, iT] ID: 
+fA fD -> [-9.0,13.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iT -> [-37.0,-24.0]
+fD fF -> [-13.0,8.0]
+fD fT -> [-14.0,8.0]
+fD iT -> [-39.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iT -> [-38.0,-25.0]
+fT iT -> [-36.0,-23.0]
+
+ Fr: 134 - [fA, fD, fF, fT, iT] ID: 
+fA fD -> [17.0,29.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iT -> [-18.0,-8.0]
+fD fF -> [-27.0,-17.0]
+fD fT -> [-28.0,-18.0]
+fD iT -> [-39.0,-27.0]
+fF fT -> [-3.0,1.0]
+fF iT -> [-22.0,-9.0]
+fT iT -> [-19.0,-9.0]
+
+
+[fA, fD, fF, iA, iD] - frecuencia: 356
+Modelo: [fA, fD, fF, iA, iD] - Numero de patrones: 4
+ Fr: 152 - [fA, fD, fF, iA, iD] ID: 
+fA fD -> [1.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fD fF -> [-13.0,3.0]
+fD iA -> [-30.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fF iA -> [-21.0,-9.0]
+fF iD -> [-4.0,10.0]
+iA iD -> [16.0,28.0]
+
+ Fr: 40 - [fA, fD, fF, iA, iD] ID: 
+fA fD -> [1.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iA -> [-24.0,-18.0]
+fA iD -> [0.0,10.0]
+fD fF -> [-13.0,3.0]
+fD iA -> [-32.0,-19.0]
+fD iD -> [-4.0,-1.0]
+fF iA -> [-22.0,-16.0]
+fF iD -> [-4.0,10.0]
+iA iD -> [18.0,28.0]
+
+ Fr: 39 - [fA, fD, fF, iA, iD] ID: 
+fA fD -> [1.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iA -> [-28.0,-19.0]
+fA iD -> [0.0,9.0]
+fD fF -> [-9.0,3.0]
+fD iA -> [-32.0,-20.0]
+fD iD -> [-4.0,-1.0]
+fF iA -> [-32.0,-23.0]
+fF iD -> [-4.0,5.0]
+iA iD -> [19.0,28.0]
+
+ Fr: 125 - [fA, fD, fF, iA, iD] ID: 
+fA fD -> [-9.0,2.0]
+fA fF -> [-2.0,4.0]
+fA iA -> [-37.0,-19.0]
+fA iD -> [-13.0,-2.0]
+fD fF -> [-4.0,8.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fF iA -> [-39.0,-23.0]
+fF iD -> [-12.0,0.0]
+iA iD -> [16.0,28.0]
+
+
+[fA, fD, fF, iA, iF] - frecuencia: 597
+Modelo: [fA, fD, fF, iA, iF] - Numero de patrones: 3
+ Fr: 188 - [fA, fD, fF, iA, iF] ID: 
+fA fD -> [0.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iA -> [-17.0,-9.0]
+fA iF -> [-19.0,-8.0]
+fD fF -> [-13.0,4.0]
+fD iA -> [-30.0,-17.0]
+fD iF -> [-32.0,-18.0]
+fF iA -> [-21.0,-9.0]
+fF iF -> [-22.0,-9.0]
+iA iF -> [-3.0,1.0]
+
+ Fr: 253 - [fA, fD, fF, iA, iF] ID: 
+fA fD -> [-9.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iA -> [-37.0,-19.0]
+fA iF -> [-37.0,-22.0]
+fD fF -> [-13.0,8.0]
+fD iA -> [-39.0,-17.0]
+fD iF -> [-39.0,-18.0]
+fF iA -> [-39.0,-23.0]
+fF iF -> [-38.0,-23.0]
+iA iF -> [-3.0,1.0]
+
+ Fr: 156 - [fA, fD, fF, iA, iF] ID: 
+fA fD -> [17.0,29.0]
+fA fF -> [-2.0,4.0]
+fA iA -> [-17.0,-9.0]
+fA iF -> [-19.0,-8.0]
+fD fF -> [-27.0,-17.0]
+fD iA -> [-39.0,-26.0]
+fD iF -> [-39.0,-26.0]
+fF iA -> [-21.0,-9.0]
+fF iF -> [-22.0,-9.0]
+iA iF -> [-3.0,1.0]
+
+
+[fA, fD, fF, iA, iT] - frecuencia: 525
+Modelo: [fA, fD, fF, iA, iT] - Numero de patrones: 3
+ Fr: 175 - [fA, fD, fF, iA, iT] ID: 
+fA fD -> [0.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iA -> [-17.0,-9.0]
+fA iT -> [-18.0,-8.0]
+fD fF -> [-13.0,4.0]
+fD iA -> [-30.0,-17.0]
+fD iT -> [-31.0,-17.0]
+fF iA -> [-21.0,-9.0]
+fF iT -> [-22.0,-9.0]
+iA iT -> [-1.0,1.0]
+
+ Fr: 210 - [fA, fD, fF, iA, iT] ID: 
+fA fD -> [-9.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iA -> [-37.0,-23.0]
+fA iT -> [-37.0,-24.0]
+fD fF -> [-13.0,8.0]
+fD iA -> [-39.0,-17.0]
+fD iT -> [-39.0,-17.0]
+fF iA -> [-39.0,-24.0]
+fF iT -> [-38.0,-25.0]
+iA iT -> [-1.0,1.0]
+
+ Fr: 140 - [fA, fD, fF, iA, iT] ID: 
+fA fD -> [17.0,29.0]
+fA fF -> [-2.0,4.0]
+fA iA -> [-17.0,-9.0]
+fA iT -> [-18.0,-8.0]
+fD fF -> [-27.0,-17.0]
+fD iA -> [-39.0,-26.0]
+fD iT -> [-39.0,-26.0]
+fF iA -> [-21.0,-9.0]
+fF iT -> [-22.0,-9.0]
+iA iT -> [-1.0,1.0]
+
+
+[fA, fD, fF, iD, iF] - frecuencia: 349
+Modelo: [fA, fD, fF, iD, iF] - Numero de patrones: 3
+ Fr: 178 - [fA, fD, fF, iD, iF] ID: 
+fA fD -> [1.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fD fF -> [-13.0,3.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-32.0,-18.0]
+fF iD -> [-4.0,10.0]
+fF iF -> [-22.0,-9.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 38 - [fA, fD, fF, iD, iF] ID: 
+fA fD -> [1.0,11.0]
+fA fF -> [-2.0,4.0]
+fA iD -> [0.0,7.0]
+fA iF -> [-29.0,-22.0]
+fD fF -> [-10.0,3.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-23.0]
+fF iD -> [-4.0,6.0]
+fF iF -> [-33.0,-23.0]
+iD iF -> [-29.0,-22.0]
+
+ Fr: 133 - [fA, fD, fF, iD, iF] ID: 
+fA fD -> [-9.0,2.0]
+fA fF -> [-2.0,4.0]
+fA iD -> [-13.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fD fF -> [-4.0,8.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fF iD -> [-12.0,0.0]
+fF iF -> [-38.0,-23.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fA, fD, fF, iD, iT] - frecuencia: 295
+Modelo: [fA, fD, fF, iD, iT] - Numero de patrones: 2
+ Fr: 168 - [fA, fD, fF, iD, iT] ID: 
+fA fD -> [1.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iD -> [0.0,11.0]
+fA iT -> [-18.0,-8.0]
+fD fF -> [-13.0,3.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-31.0,-17.0]
+fF iD -> [-4.0,10.0]
+fF iT -> [-22.0,-9.0]
+iD iT -> [-29.0,-15.0]
+
+ Fr: 127 - [fA, fD, fF, iD, iT] ID: 
+fA fD -> [-9.0,2.0]
+fA fF -> [-2.0,4.0]
+fA iD -> [-13.0,-2.0]
+fA iT -> [-37.0,-24.0]
+fD fF -> [-4.0,8.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-34.0,-17.0]
+fF iD -> [-12.0,0.0]
+fF iT -> [-38.0,-25.0]
+iD iT -> [-30.0,-15.0]
+
+
+[fA, fD, fF, iF, iT] - frecuencia: 604
+Modelo: [fA, fD, fF, iF, iT] - Numero de patrones: 3
+ Fr: 203 - [fA, fD, fF, iF, iT] ID: 
+fA fD -> [-1.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fD fF -> [-13.0,4.0]
+fD iF -> [-32.0,-18.0]
+fD iT -> [-31.0,-17.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 235 - [fA, fD, fF, iF, iT] ID: 
+fA fD -> [-9.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fD fF -> [-13.0,8.0]
+fD iF -> [-39.0,-18.0]
+fD iT -> [-39.0,-17.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 166 - [fA, fD, fF, iF, iT] ID: 
+fA fD -> [17.0,29.0]
+fA fF -> [-2.0,4.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fD fF -> [-27.0,-17.0]
+fD iF -> [-39.0,-26.0]
+fD iT -> [-39.0,-26.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, fD, fT, iA, iD] - frecuencia: 216
+Modelo: [fA, fD, fT, iA, iD] - Numero de patrones: 3
+ Fr: 104 - [fA, fD, fT, iA, iD] ID: 
+fA fD -> [1.0,13.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fD fT -> [-14.0,0.0]
+fD iA -> [-30.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fT iA -> [-18.0,-9.0]
+fT iD -> [-1.0,10.0]
+iA iD -> [16.0,28.0]
+
+ Fr: 31 - [fA, fD, fT, iA, iD] ID: 
+fA fD -> [1.0,13.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-28.0,-19.0]
+fA iD -> [0.0,9.0]
+fD fT -> [-12.0,0.0]
+fD iA -> [-32.0,-20.0]
+fD iD -> [-4.0,-1.0]
+fT iA -> [-29.0,-20.0]
+fT iD -> [-1.0,8.0]
+iA iD -> [19.0,28.0]
+
+ Fr: 81 - [fA, fD, fT, iA, iD] ID: 
+fA fD -> [-9.0,2.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-19.0]
+fA iD -> [-13.0,-2.0]
+fD fT -> [-3.0,8.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fT iA -> [-38.0,-20.0]
+fT iD -> [-12.0,-1.0]
+iA iD -> [16.0,28.0]
+
+
+[fA, fD, fT, iA, iF] - frecuencia: 435
+Modelo: [fA, fD, fT, iA, iF] - Numero de patrones: 3
+ Fr: 150 - [fA, fD, fT, iA, iF] ID: 
+fA fD -> [0.0,13.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iF -> [-19.0,-8.0]
+fD fT -> [-14.0,1.0]
+fD iA -> [-30.0,-17.0]
+fD iF -> [-32.0,-18.0]
+fT iA -> [-18.0,-9.0]
+fT iF -> [-19.0,-9.0]
+iA iF -> [-3.0,1.0]
+
+ Fr: 175 - [fA, fD, fT, iA, iF] ID: 
+fA fD -> [-9.0,13.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-19.0]
+fA iF -> [-37.0,-22.0]
+fD fT -> [-14.0,8.0]
+fD iA -> [-39.0,-17.0]
+fD iF -> [-39.0,-18.0]
+fT iA -> [-38.0,-20.0]
+fT iF -> [-38.0,-21.0]
+iA iF -> [-3.0,1.0]
+
+ Fr: 110 - [fA, fD, fT, iA, iF] ID: 
+fA fD -> [17.0,29.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iF -> [-19.0,-8.0]
+fD fT -> [-28.0,-18.0]
+fD iA -> [-39.0,-27.0]
+fD iF -> [-39.0,-27.0]
+fT iA -> [-18.0,-9.0]
+fT iF -> [-19.0,-9.0]
+iA iF -> [-3.0,1.0]
+
+
+[fA, fD, fT, iA, iT] - frecuencia: 390
+Modelo: [fA, fD, fT, iA, iT] - Numero de patrones: 3
+ Fr: 143 - [fA, fD, fT, iA, iT] ID: 
+fA fD -> [0.0,13.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iT -> [-18.0,-8.0]
+fD fT -> [-14.0,1.0]
+fD iA -> [-30.0,-17.0]
+fD iT -> [-31.0,-17.0]
+fT iA -> [-18.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iA iT -> [-1.0,1.0]
+
+ Fr: 142 - [fA, fD, fT, iA, iT] ID: 
+fA fD -> [-9.0,13.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-23.0]
+fA iT -> [-37.0,-24.0]
+fD fT -> [-14.0,8.0]
+fD iA -> [-39.0,-17.0]
+fD iT -> [-39.0,-17.0]
+fT iA -> [-37.0,-22.0]
+fT iT -> [-36.0,-23.0]
+iA iT -> [-1.0,1.0]
+
+ Fr: 105 - [fA, fD, fT, iA, iT] ID: 
+fA fD -> [17.0,29.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iT -> [-18.0,-8.0]
+fD fT -> [-28.0,-18.0]
+fD iA -> [-39.0,-27.0]
+fD iT -> [-39.0,-27.0]
+fT iA -> [-18.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iA iT -> [-1.0,1.0]
+
+
+[fA, fD, fT, iD, iF] - frecuencia: 196
+Modelo: [fA, fD, fT, iD, iF] - Numero de patrones: 2
+ Fr: 116 - [fA, fD, fT, iD, iF] ID: 
+fA fD -> [1.0,13.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fD fT -> [-14.0,0.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-32.0,-18.0]
+fT iD -> [-1.0,10.0]
+fT iF -> [-19.0,-9.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 80 - [fA, fD, fT, iD, iF] ID: 
+fA fD -> [-9.0,2.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [-13.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fD fT -> [-3.0,8.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fT iD -> [-12.0,-1.0]
+fT iF -> [-38.0,-21.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fA, fD, fT, iD, iT] - frecuencia: 190
+Modelo: [fA, fD, fT, iD, iT] - Numero de patrones: 2
+ Fr: 110 - [fA, fD, fT, iD, iT] ID: 
+fA fD -> [1.0,13.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [0.0,11.0]
+fA iT -> [-18.0,-8.0]
+fD fT -> [-14.0,0.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-31.0,-17.0]
+fT iD -> [-1.0,10.0]
+fT iT -> [-19.0,-9.0]
+iD iT -> [-29.0,-15.0]
+
+ Fr: 80 - [fA, fD, fT, iD, iT] ID: 
+fA fD -> [-9.0,2.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [-13.0,-2.0]
+fA iT -> [-37.0,-24.0]
+fD fT -> [-3.0,8.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-34.0,-17.0]
+fT iD -> [-12.0,-1.0]
+fT iT -> [-36.0,-23.0]
+iD iT -> [-30.0,-15.0]
+
+
+[fA, fD, fT, iF, iT] - frecuencia: 454
+Modelo: [fA, fD, fT, iF, iT] - Numero de patrones: 3
+ Fr: 163 - [fA, fD, fT, iF, iT] ID: 
+fA fD -> [-1.0,13.0]
+fA fT -> [-1.0,1.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fD fT -> [-14.0,1.0]
+fD iF -> [-32.0,-18.0]
+fD iT -> [-31.0,-17.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 162 - [fA, fD, fT, iF, iT] ID: 
+fA fD -> [-9.0,13.0]
+fA fT -> [-1.0,1.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fD fT -> [-14.0,8.0]
+fD iF -> [-39.0,-18.0]
+fD iT -> [-39.0,-17.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 129 - [fA, fD, fT, iF, iT] ID: 
+fA fD -> [17.0,29.0]
+fA fT -> [-1.0,1.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fD fT -> [-28.0,-18.0]
+fD iF -> [-39.0,-27.0]
+fD iT -> [-39.0,-27.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, fD, iA, iD, iF] - frecuencia: 285
+Modelo: [fA, fD, iA, iD, iF] - Numero de patrones: 3
+ Fr: 132 - [fA, fD, iA, iD, iF] ID: 
+fA fD -> [1.0,13.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fD iA -> [-30.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-32.0,-18.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 30 - [fA, fD, iA, iD, iF] ID: 
+fA fD -> [1.0,11.0]
+fA iA -> [-28.0,-19.0]
+fA iD -> [0.0,7.0]
+fA iF -> [-29.0,-22.0]
+fD iA -> [-32.0,-20.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-23.0]
+iA iD -> [19.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-22.0]
+
+ Fr: 123 - [fA, fD, iA, iD, iF] ID: 
+fA fD -> [-9.0,2.0]
+fA iA -> [-37.0,-19.0]
+fA iD -> [-13.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fA, fD, iA, iD, iT] - frecuencia: 208
+Modelo: [fA, fD, iA, iD, iT] - Numero de patrones: 2
+ Fr: 103 - [fA, fD, iA, iD, iT] ID: 
+fA fD -> [1.0,13.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fA iT -> [-18.0,-8.0]
+fD iA -> [-30.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-31.0,-17.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+ Fr: 105 - [fA, fD, iA, iD, iT] ID: 
+fA fD -> [-9.0,2.0]
+fA iA -> [-37.0,-23.0]
+fA iD -> [-13.0,-2.0]
+fA iT -> [-37.0,-24.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-33.0,-17.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+
+[fA, fD, iA, iF, iT] - frecuencia: 485
+Modelo: [fA, fD, iA, iF, iT] - Numero de patrones: 3
+ Fr: 132 - [fA, fD, iA, iF, iT] ID: 
+fA fD -> [0.0,13.0]
+fA iA -> [-17.0,-9.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fD iA -> [-30.0,-17.0]
+fD iF -> [-32.0,-18.0]
+fD iT -> [-31.0,-17.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 216 - [fA, fD, iA, iF, iT] ID: 
+fA fD -> [-9.0,13.0]
+fA iA -> [-37.0,-23.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fD iA -> [-39.0,-17.0]
+fD iF -> [-39.0,-18.0]
+fD iT -> [-39.0,-17.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 137 - [fA, fD, iA, iF, iT] ID: 
+fA fD -> [17.0,29.0]
+fA iA -> [-17.0,-9.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fD iA -> [-39.0,-26.0]
+fD iF -> [-39.0,-25.0]
+fD iT -> [-39.0,-25.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, fD, iD, iF, iT] - frecuencia: 255
+Modelo: [fA, fD, iD, iF, iT] - Numero de patrones: 2
+ Fr: 139 - [fA, fD, iD, iF, iT] ID: 
+fA fD -> [1.0,13.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-32.0,-18.0]
+fD iT -> [-31.0,-17.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 116 - [fA, fD, iD, iF, iT] ID: 
+fA fD -> [-9.0,2.0]
+fA iD -> [-13.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-34.0,-17.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-30.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, fF, fT, iA, iD] - frecuencia: 429
+Modelo: [fA, fF, fT, iA, iD] - Numero de patrones: 3
+ Fr: 188 - [fA, fF, fT, iA, iD] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-21.0,-9.0]
+fF iD -> [-4.0,10.0]
+fT iA -> [-18.0,-9.0]
+fT iD -> [-1.0,10.0]
+iA iD -> [16.0,28.0]
+
+ Fr: 94 - [fA, fF, fT, iA, iD] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [-15.0,-4.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-21.0,-9.0]
+fF iD -> [-17.0,-4.0]
+fT iA -> [-18.0,-9.0]
+fT iD -> [-14.0,-4.0]
+iA iD -> [-3.0,5.0]
+
+ Fr: 132 - [fA, fF, fT, iA, iD] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-19.0]
+fA iD -> [-15.0,-2.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-23.0]
+fF iD -> [-17.0,0.0]
+fT iA -> [-38.0,-20.0]
+fT iD -> [-14.0,-1.0]
+iA iD -> [16.0,28.0]
+
+
+[fA, fF, fT, iA, iF] - frecuencia: 435
+Modelo: [fA, fF, fT, iA, iF] - Numero de patrones: 2
+ Fr: 259 - [fA, fF, fT, iA, iF] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iF -> [-19.0,-8.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-21.0,-9.0]
+fF iF -> [-22.0,-9.0]
+fT iA -> [-18.0,-9.0]
+fT iF -> [-19.0,-9.0]
+iA iF -> [-3.0,1.0]
+
+ Fr: 176 - [fA, fF, fT, iA, iF] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-19.0]
+fA iF -> [-37.0,-22.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-23.0]
+fF iF -> [-38.0,-23.0]
+fT iA -> [-38.0,-20.0]
+fT iF -> [-38.0,-21.0]
+iA iF -> [-3.0,1.0]
+
+
+[fA, fF, fT, iA, iT] - frecuencia: 365
+Modelo: [fA, fF, fT, iA, iT] - Numero de patrones: 2
+ Fr: 221 - [fA, fF, fT, iA, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iT -> [-18.0,-8.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-21.0,-9.0]
+fF iT -> [-22.0,-9.0]
+fT iA -> [-18.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iA iT -> [-1.0,1.0]
+
+ Fr: 144 - [fA, fF, fT, iA, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-23.0]
+fA iT -> [-37.0,-24.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-24.0]
+fF iT -> [-38.0,-25.0]
+fT iA -> [-37.0,-22.0]
+fT iT -> [-36.0,-23.0]
+iA iT -> [-1.0,1.0]
+
+
+[fA, fF, fT, iD, iF] - frecuencia: 434
+Modelo: [fA, fF, fT, iD, iF] - Numero de patrones: 3
+ Fr: 221 - [fA, fF, fT, iD, iF] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-4.0,10.0]
+fF iF -> [-22.0,-9.0]
+fT iD -> [-1.0,10.0]
+fT iF -> [-19.0,-9.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 75 - [fA, fF, fT, iD, iF] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [-15.0,-4.0]
+fA iF -> [-19.0,-8.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-17.0,-5.0]
+fF iF -> [-21.0,-9.0]
+fT iD -> [-14.0,-5.0]
+fT iF -> [-18.0,-9.0]
+iD iF -> [-4.0,0.0]
+
+ Fr: 138 - [fA, fF, fT, iD, iF] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [-15.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-17.0,0.0]
+fF iF -> [-38.0,-23.0]
+fT iD -> [-14.0,-1.0]
+fT iF -> [-38.0,-21.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fA, fF, fT, iD, iT] - frecuencia: 429
+Modelo: [fA, fF, fT, iD, iT] - Numero de patrones: 3
+ Fr: 205 - [fA, fF, fT, iD, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [0.0,11.0]
+fA iT -> [-18.0,-8.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-4.0,10.0]
+fF iT -> [-22.0,-9.0]
+fT iD -> [-1.0,10.0]
+fT iT -> [-19.0,-9.0]
+iD iT -> [-29.0,-15.0]
+
+ Fr: 95 - [fA, fF, fT, iD, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [-15.0,-3.0]
+fA iT -> [-18.0,-8.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-17.0,-4.0]
+fF iT -> [-22.0,-9.0]
+fT iD -> [-14.0,-4.0]
+fT iT -> [-19.0,-9.0]
+iD iT -> [-5.0,2.0]
+
+ Fr: 129 - [fA, fF, fT, iD, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [-15.0,-2.0]
+fA iT -> [-37.0,-24.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-17.0,0.0]
+fF iT -> [-38.0,-25.0]
+fT iD -> [-14.0,-1.0]
+fT iT -> [-36.0,-23.0]
+iD iT -> [-30.0,-15.0]
+
+
+[fA, fF, fT, iF, iT] - frecuencia: 442
+Modelo: [fA, fF, fT, iF, iT] - Numero de patrones: 2
+ Fr: 277 - [fA, fF, fT, iF, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fF fT -> [-3.0,1.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 165 - [fA, fF, fT, iF, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fF fT -> [-3.0,1.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, fF, iA, iD, iF] - frecuencia: 565
+Modelo: [fA, fF, iA, iD, iF] - Numero de patrones: 3
+ Fr: 257 - [fA, fF, iA, iD, iF] ID: 
+fA fF -> [-2.0,4.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fF iA -> [-21.0,-9.0]
+fF iD -> [-4.0,10.0]
+fF iF -> [-22.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 101 - [fA, fF, iA, iD, iF] ID: 
+fA fF -> [-2.0,4.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [-16.0,-4.0]
+fA iF -> [-19.0,-8.0]
+fF iA -> [-21.0,-9.0]
+fF iD -> [-18.0,-5.0]
+fF iF -> [-22.0,-9.0]
+iA iD -> [-3.0,5.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-4.0,0.0]
+
+ Fr: 185 - [fA, fF, iA, iD, iF] ID: 
+fA fF -> [-2.0,4.0]
+fA iA -> [-37.0,-19.0]
+fA iD -> [-16.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fF iA -> [-39.0,-23.0]
+fF iD -> [-18.0,0.0]
+fF iF -> [-38.0,-23.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fA, fF, iA, iD, iT] - frecuencia: 472
+Modelo: [fA, fF, iA, iD, iT] - Numero de patrones: 3
+ Fr: 212 - [fA, fF, iA, iD, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fA iT -> [-18.0,-8.0]
+fF iA -> [-21.0,-9.0]
+fF iD -> [-4.0,10.0]
+fF iT -> [-22.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+ Fr: 95 - [fA, fF, iA, iD, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [-16.0,-4.0]
+fA iT -> [-18.0,-8.0]
+fF iA -> [-21.0,-9.0]
+fF iD -> [-18.0,-4.0]
+fF iT -> [-22.0,-9.0]
+iA iD -> [-3.0,5.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-5.0,2.0]
+
+ Fr: 165 - [fA, fF, iA, iD, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA iA -> [-37.0,-23.0]
+fA iD -> [-16.0,-2.0]
+fA iT -> [-37.0,-24.0]
+fF iA -> [-39.0,-24.0]
+fF iD -> [-18.0,0.0]
+fF iT -> [-38.0,-25.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+
+[fA, fF, iA, iF, iT] - frecuencia: 452
+Modelo: [fA, fF, iA, iF, iT] - Numero de patrones: 2
+ Fr: 257 - [fA, fF, iA, iF, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA iA -> [-17.0,-9.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fF iA -> [-21.0,-9.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 195 - [fA, fF, iA, iF, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA iA -> [-37.0,-23.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fF iA -> [-39.0,-24.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, fF, iD, iF, iT] - frecuencia: 570
+Modelo: [fA, fF, iD, iF, iT] - Numero de patrones: 3
+ Fr: 281 - [fA, fF, iD, iF, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fF iD -> [-4.0,10.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 98 - [fA, fF, iD, iF, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA iD -> [-16.0,-4.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fF iD -> [-18.0,-5.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+iD iF -> [-4.0,0.0]
+iD iT -> [-5.0,2.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 191 - [fA, fF, iD, iF, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA iD -> [-16.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fF iD -> [-18.0,0.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-30.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, fT, iA, iD, iF] - frecuencia: 351
+Modelo: [fA, fT, iA, iD, iF] - Numero de patrones: 3
+ Fr: 168 - [fA, fT, iA, iD, iF] ID: 
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fT iA -> [-18.0,-9.0]
+fT iD -> [-1.0,10.0]
+fT iF -> [-19.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 67 - [fA, fT, iA, iD, iF] ID: 
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [-15.0,-4.0]
+fA iF -> [-19.0,-8.0]
+fT iA -> [-18.0,-9.0]
+fT iD -> [-14.0,-5.0]
+fT iF -> [-18.0,-9.0]
+iA iD -> [-3.0,5.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-4.0,0.0]
+
+ Fr: 116 - [fA, fT, iA, iD, iF] ID: 
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-19.0]
+fA iD -> [-15.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fT iA -> [-38.0,-20.0]
+fT iD -> [-14.0,-1.0]
+fT iF -> [-38.0,-21.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fA, fT, iA, iD, iT] - frecuencia: 318
+Modelo: [fA, fT, iA, iD, iT] - Numero de patrones: 3
+ Fr: 146 - [fA, fT, iA, iD, iT] ID: 
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fA iT -> [-18.0,-8.0]
+fT iA -> [-18.0,-9.0]
+fT iD -> [-1.0,10.0]
+fT iT -> [-19.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+ Fr: 65 - [fA, fT, iA, iD, iT] ID: 
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [-15.0,-4.0]
+fA iT -> [-18.0,-8.0]
+fT iA -> [-18.0,-9.0]
+fT iD -> [-14.0,-4.0]
+fT iT -> [-19.0,-9.0]
+iA iD -> [-3.0,5.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-5.0,2.0]
+
+ Fr: 107 - [fA, fT, iA, iD, iT] ID: 
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-23.0]
+fA iD -> [-15.0,-2.0]
+fA iT -> [-37.0,-24.0]
+fT iA -> [-37.0,-22.0]
+fT iD -> [-14.0,-1.0]
+fT iT -> [-36.0,-23.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+
+[fA, fT, iA, iF, iT] - frecuencia: 333
+Modelo: [fA, fT, iA, iF, iT] - Numero de patrones: 2
+ Fr: 199 - [fA, fT, iA, iF, iT] ID: 
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fT iA -> [-18.0,-9.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 134 - [fA, fT, iA, iF, iT] ID: 
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-23.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fT iA -> [-37.0,-22.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, fT, iD, iF, iT] - frecuencia: 394
+Modelo: [fA, fT, iD, iF, iT] - Numero de patrones: 3
+ Fr: 196 - [fA, fT, iD, iF, iT] ID: 
+fA fT -> [-1.0,1.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fT iD -> [-1.0,10.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 72 - [fA, fT, iD, iF, iT] ID: 
+fA fT -> [-1.0,1.0]
+fA iD -> [-15.0,-4.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fT iD -> [-14.0,-5.0]
+fT iF -> [-18.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iD iF -> [-4.0,0.0]
+iD iT -> [-5.0,2.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 126 - [fA, fT, iD, iF, iT] ID: 
+fA fT -> [-1.0,1.0]
+fA iD -> [-15.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fT iD -> [-14.0,-1.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-30.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, iA, iD, iF, iT] - frecuencia: 407
+Modelo: [fA, iA, iD, iF, iT] - Numero de patrones: 3
+ Fr: 189 - [fA, iA, iD, iF, iT] ID: 
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 66 - [fA, iA, iD, iF, iT] ID: 
+fA iA -> [-17.0,-9.0]
+fA iD -> [-16.0,-4.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+iA iD -> [-3.0,5.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-4.0,0.0]
+iD iT -> [-5.0,2.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 152 - [fA, iA, iD, iF, iT] ID: 
+fA iA -> [-37.0,-23.0]
+fA iD -> [-16.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fD, fF, fT, iA, iD] - frecuencia: 328
+Modelo: [fD, fF, fT, iA, iD] - Numero de patrones: 2
+ Fr: 147 - [fD, fF, fT, iA, iD] ID: 
+fD fF -> [-13.0,5.0]
+fD fT -> [-14.0,2.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-22.0,-9.0]
+fF iD -> [-6.0,10.0]
+fT iA -> [-19.0,-9.0]
+fT iD -> [-3.0,10.0]
+iA iD -> [16.0,28.0]
+
+ Fr: 153 - [fD, fF, fT, iA, iD] ID: 
+fD fF -> [-9.0,8.0]
+fD fT -> [-12.0,8.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-23.0]
+fF iD -> [-12.0,5.0]
+fT iA -> [-39.0,-20.0]
+fT iD -> [-12.0,8.0]
+iA iD -> [16.0,28.0]
+
+
+[fD, fF, fT, iA, iF] - frecuencia: 570
+Modelo: [fD, fF, fT, iA, iF] - Numero de patrones: 3
+ Fr: 186 - [fD, fF, fT, iA, iF] ID: 
+fD fF -> [-13.0,4.0]
+fD fT -> [-14.0,1.0]
+fD iA -> [-33.0,-17.0]
+fD iF -> [-33.0,-18.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-22.0,-9.0]
+fF iF -> [-22.0,-9.0]
+fT iA -> [-19.0,-9.0]
+fT iF -> [-19.0,-9.0]
+iA iF -> [-3.0,1.0]
+
+ Fr: 239 - [fD, fF, fT, iA, iF] ID: 
+fD fF -> [-13.0,8.0]
+fD fT -> [-14.0,8.0]
+fD iA -> [-39.0,-17.0]
+fD iF -> [-39.0,-18.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-23.0]
+fF iF -> [-38.0,-23.0]
+fT iA -> [-39.0,-20.0]
+fT iF -> [-38.0,-20.0]
+iA iF -> [-3.0,1.0]
+
+ Fr: 145 - [fD, fF, fT, iA, iF] ID: 
+fD fF -> [-27.0,-17.0]
+fD fT -> [-28.0,-18.0]
+fD iA -> [-39.0,-27.0]
+fD iF -> [-39.0,-27.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-22.0,-9.0]
+fF iF -> [-22.0,-9.0]
+fT iA -> [-19.0,-9.0]
+fT iF -> [-19.0,-9.0]
+iA iF -> [-3.0,1.0]
+
+
+[fD, fF, fT, iA, iT] - frecuencia: 481
+Modelo: [fD, fF, fT, iA, iT] - Numero de patrones: 3
+ Fr: 166 - [fD, fF, fT, iA, iT] ID: 
+fD fF -> [-13.0,5.0]
+fD fT -> [-14.0,2.0]
+fD iA -> [-33.0,-17.0]
+fD iT -> [-34.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-22.0,-9.0]
+fF iT -> [-23.0,-9.0]
+fT iA -> [-19.0,-9.0]
+fT iT -> [-20.0,-9.0]
+iA iT -> [-1.0,1.0]
+
+ Fr: 183 - [fD, fF, fT, iA, iT] ID: 
+fD fF -> [-13.0,8.0]
+fD fT -> [-14.0,8.0]
+fD iA -> [-39.0,-17.0]
+fD iT -> [-39.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-24.0]
+fF iT -> [-38.0,-25.0]
+fT iA -> [-37.0,-22.0]
+fT iT -> [-36.0,-23.0]
+iA iT -> [-1.0,1.0]
+
+ Fr: 132 - [fD, fF, fT, iA, iT] ID: 
+fD fF -> [-27.0,-17.0]
+fD fT -> [-28.0,-18.0]
+fD iA -> [-39.0,-27.0]
+fD iT -> [-39.0,-27.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+fT iA -> [-19.0,-9.0]
+fT iT -> [-20.0,-9.0]
+iA iT -> [-1.0,1.0]
+
+
+[fD, fF, fT, iD, iF] - frecuencia: 330
+Modelo: [fD, fF, fT, iD, iF] - Numero de patrones: 2
+ Fr: 149 - [fD, fF, fT, iD, iF] ID: 
+fD fF -> [-13.0,4.0]
+fD fT -> [-14.0,1.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-7.0,10.0]
+fF iF -> [-22.0,-9.0]
+fT iD -> [-4.0,10.0]
+fT iF -> [-19.0,-9.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 153 - [fD, fF, fT, iD, iF] ID: 
+fD fF -> [-10.0,8.0]
+fD fT -> [-13.0,8.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-12.0,6.0]
+fF iF -> [-38.0,-23.0]
+fT iD -> [-12.0,9.0]
+fT iF -> [-38.0,-20.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fD, fF, fT, iD, iT] - frecuencia: 327
+Modelo: [fD, fF, fT, iD, iT] - Numero de patrones: 2
+ Fr: 192 - [fD, fF, fT, iD, iT] ID: 
+fD fF -> [-13.0,6.0]
+fD fT -> [-14.0,5.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-34.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-8.0,10.0]
+fF iT -> [-23.0,-9.0]
+fT iD -> [-7.0,10.0]
+fT iT -> [-22.0,-9.0]
+iD iT -> [-30.0,-15.0]
+
+ Fr: 135 - [fD, fF, fT, iD, iT] ID: 
+fD fF -> [-9.0,8.0]
+fD fT -> [-11.0,8.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-34.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-12.0,5.0]
+fF iT -> [-38.0,-25.0]
+fT iD -> [-12.0,7.0]
+fT iT -> [-36.0,-23.0]
+iD iT -> [-30.0,-15.0]
+
+
+[fD, fF, fT, iF, iT] - frecuencia: 559
+Modelo: [fD, fF, fT, iF, iT] - Numero de patrones: 3
+ Fr: 202 - [fD, fF, fT, iF, iT] ID: 
+fD fF -> [-13.0,4.0]
+fD fT -> [-14.0,1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-35.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-23.0,-9.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-21.0,-9.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 204 - [fD, fF, fT, iF, iT] ID: 
+fD fF -> [-13.0,8.0]
+fD fT -> [-14.0,8.0]
+fD iF -> [-39.0,-18.0]
+fD iT -> [-39.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 153 - [fD, fF, fT, iF, iT] ID: 
+fD fF -> [-27.0,-17.0]
+fD fT -> [-28.0,-18.0]
+fD iF -> [-39.0,-27.0]
+fD iT -> [-39.0,-27.0]
+fF fT -> [-3.0,1.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-21.0,-9.0]
+iF iT -> [-2.0,3.0]
+
+
+[fD, fF, iA, iD, iF] - frecuencia: 302
+Modelo: [fD, fF, iA, iD, iF] - Numero de patrones: 2
+ Fr: 172 - [fD, fF, iA, iD, iF] ID: 
+fD fF -> [-13.0,4.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fF iA -> [-22.0,-9.0]
+fF iD -> [-6.0,10.0]
+fF iF -> [-22.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 130 - [fD, fF, iA, iD, iF] ID: 
+fD fF -> [-9.0,8.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fF iA -> [-39.0,-23.0]
+fF iD -> [-12.0,5.0]
+fF iF -> [-38.0,-23.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fD, fF, iA, iD, iT] - frecuencia: 234
+Modelo: [fD, fF, iA, iD, iT] - Numero de patrones: 2
+ Fr: 137 - [fD, fF, iA, iD, iT] ID: 
+fD fF -> [-13.0,5.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-33.0,-17.0]
+fF iA -> [-22.0,-9.0]
+fF iD -> [-6.0,10.0]
+fF iT -> [-23.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+ Fr: 97 - [fD, fF, iA, iD, iT] ID: 
+fD fF -> [-8.0,8.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-33.0,-17.0]
+fF iA -> [-39.0,-24.0]
+fF iD -> [-12.0,4.0]
+fF iT -> [-38.0,-25.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+
+[fD, fF, iA, iF, iT] - frecuencia: 483
+Modelo: [fD, fF, iA, iF, iT] - Numero de patrones: 3
+ Fr: 154 - [fD, fF, iA, iF, iT] ID: 
+fD fF -> [-13.0,4.0]
+fD iA -> [-35.0,-17.0]
+fD iF -> [-35.0,-18.0]
+fD iT -> [-36.0,-17.0]
+fF iA -> [-22.0,-9.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-23.0,-9.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 201 - [fD, fF, iA, iF, iT] ID: 
+fD fF -> [-13.0,8.0]
+fD iA -> [-39.0,-17.0]
+fD iF -> [-39.0,-18.0]
+fD iT -> [-39.0,-17.0]
+fF iA -> [-39.0,-24.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 128 - [fD, fF, iA, iF, iT] ID: 
+fD fF -> [-27.0,-17.0]
+fD iA -> [-39.0,-26.0]
+fD iF -> [-39.0,-26.0]
+fD iT -> [-39.0,-26.0]
+fF iA -> [-22.0,-9.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+
+[fD, fF, iD, iF, iT] - frecuencia: 302
+Modelo: [fD, fF, iD, iF, iT] - Numero de patrones: 2
+ Fr: 181 - [fD, fF, iD, iF, iT] ID: 
+fD fF -> [-13.0,4.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-34.0,-17.0]
+fF iD -> [-7.0,10.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-23.0,-9.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-30.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 121 - [fD, fF, iD, iF, iT] ID: 
+fD fF -> [-9.0,8.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-34.0,-17.0]
+fF iD -> [-12.0,5.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-30.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fD, fT, iA, iD, iF] - frecuencia: 295
+Modelo: [fD, fT, iA, iD, iF] - Numero de patrones: 2
+ Fr: 140 - [fD, fT, iA, iD, iF] ID: 
+fD fT -> [-14.0,1.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fT iA -> [-19.0,-9.0]
+fT iD -> [-3.0,10.0]
+fT iF -> [-19.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 155 - [fD, fT, iA, iD, iF] ID: 
+fD fT -> [-12.0,8.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fT iA -> [-39.0,-20.0]
+fT iD -> [-12.0,8.0]
+fT iF -> [-38.0,-20.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fD, fT, iA, iD, iT] - frecuencia: 229
+Modelo: [fD, fT, iA, iD, iT] - Numero de patrones: 2
+ Fr: 112 - [fD, fT, iA, iD, iT] ID: 
+fD fT -> [-14.0,2.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-33.0,-17.0]
+fT iA -> [-19.0,-9.0]
+fT iD -> [-3.0,10.0]
+fT iT -> [-20.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+ Fr: 117 - [fD, fT, iA, iD, iT] ID: 
+fD fT -> [-10.0,8.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-33.0,-17.0]
+fT iA -> [-37.0,-22.0]
+fT iD -> [-12.0,6.0]
+fT iT -> [-36.0,-23.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+
+[fD, fT, iA, iF, iT] - frecuencia: 471
+Modelo: [fD, fT, iA, iF, iT] - Numero de patrones: 3
+ Fr: 153 - [fD, fT, iA, iF, iT] ID: 
+fD fT -> [-14.0,1.0]
+fD iA -> [-33.0,-17.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-34.0,-17.0]
+fT iA -> [-19.0,-9.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-20.0,-9.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 196 - [fD, fT, iA, iF, iT] ID: 
+fD fT -> [-14.0,8.0]
+fD iA -> [-39.0,-17.0]
+fD iF -> [-39.0,-18.0]
+fD iT -> [-39.0,-17.0]
+fT iA -> [-37.0,-22.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 122 - [fD, fT, iA, iF, iT] ID: 
+fD fT -> [-28.0,-18.0]
+fD iA -> [-39.0,-27.0]
+fD iF -> [-39.0,-27.0]
+fD iT -> [-39.0,-27.0]
+fT iA -> [-19.0,-9.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-20.0,-9.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+
+[fD, fT, iD, iF, iT] - frecuencia: 308
+Modelo: [fD, fT, iD, iF, iT] - Numero de patrones: 3
+ Fr: 147 - [fD, fT, iD, iF, iT] ID: 
+fD fT -> [-14.0,1.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-34.0,-17.0]
+fT iD -> [-4.0,10.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-21.0,-9.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-30.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 30 - [fD, fT, iD, iF, iT] ID: 
+fD fT -> [-13.0,5.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-34.0,-17.0]
+fT iD -> [-7.0,9.0]
+fT iF -> [-25.0,-20.0]
+fT iT -> [-22.0,-17.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-30.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 131 - [fD, fT, iD, iF, iT] ID: 
+fD fT -> [-11.0,8.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-34.0,-17.0]
+fT iD -> [-12.0,7.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-30.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fD, iA, iD, iF, iT] - frecuencia: 196
+Modelo: [fD, iA, iD, iF, iT] - Numero de patrones: 1
+ Fr: 196 - [fD, iA, iD, iF, iT] ID: 
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-33.0,-17.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fF, fT, iA, iD, iF] - frecuencia: 487
+Modelo: [fF, fT, iA, iD, iF] - Numero de patrones: 3
+ Fr: 229 - [fF, fT, iA, iD, iF] ID: 
+fF fT -> [-3.0,1.0]
+fF iA -> [-22.0,-9.0]
+fF iD -> [-6.0,10.0]
+fF iF -> [-22.0,-9.0]
+fT iA -> [-19.0,-9.0]
+fT iD -> [-3.0,10.0]
+fT iF -> [-19.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 77 - [fF, fT, iA, iD, iF] ID: 
+fF fT -> [-3.0,1.0]
+fF iA -> [-22.0,-9.0]
+fF iD -> [-17.0,-5.0]
+fF iF -> [-21.0,-9.0]
+fT iA -> [-19.0,-9.0]
+fT iD -> [-14.0,-5.0]
+fT iF -> [-18.0,-9.0]
+iA iD -> [-3.0,5.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-4.0,0.0]
+
+ Fr: 181 - [fF, fT, iA, iD, iF] ID: 
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-23.0]
+fF iD -> [-17.0,5.0]
+fF iF -> [-38.0,-23.0]
+fT iA -> [-39.0,-20.0]
+fT iD -> [-14.0,8.0]
+fT iF -> [-38.0,-20.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fF, fT, iA, iD, iT] - frecuencia: 410
+Modelo: [fF, fT, iA, iD, iT] - Numero de patrones: 3
+ Fr: 189 - [fF, fT, iA, iD, iT] ID: 
+fF fT -> [-3.0,1.0]
+fF iA -> [-22.0,-9.0]
+fF iD -> [-6.0,10.0]
+fF iT -> [-23.0,-9.0]
+fT iA -> [-19.0,-9.0]
+fT iD -> [-3.0,10.0]
+fT iT -> [-20.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+ Fr: 74 - [fF, fT, iA, iD, iT] ID: 
+fF fT -> [-3.0,1.0]
+fF iA -> [-22.0,-9.0]
+fF iD -> [-17.0,-4.0]
+fF iT -> [-22.0,-9.0]
+fT iA -> [-19.0,-9.0]
+fT iD -> [-14.0,-4.0]
+fT iT -> [-19.0,-9.0]
+iA iD -> [-3.0,5.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-5.0,2.0]
+
+ Fr: 147 - [fF, fT, iA, iD, iT] ID: 
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-24.0]
+fF iD -> [-17.0,4.0]
+fF iT -> [-38.0,-25.0]
+fT iA -> [-37.0,-22.0]
+fT iD -> [-14.0,6.0]
+fT iT -> [-36.0,-23.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+
+[fF, fT, iA, iF, iT] - frecuencia: 413
+Modelo: [fF, fT, iA, iF, iT] - Numero de patrones: 2
+ Fr: 241 - [fF, fT, iA, iF, iT] ID: 
+fF fT -> [-3.0,1.0]
+fF iA -> [-22.0,-9.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-23.0,-9.0]
+fT iA -> [-19.0,-9.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-20.0,-9.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 172 - [fF, fT, iA, iF, iT] ID: 
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-24.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+fT iA -> [-37.0,-22.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+
+[fF, fT, iD, iF, iT] - frecuencia: 500
+Modelo: [fF, fT, iD, iF, iT] - Numero de patrones: 3
+ Fr: 248 - [fF, fT, iD, iF, iT] ID: 
+fF fT -> [-3.0,1.0]
+fF iD -> [-7.0,10.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-23.0,-9.0]
+fT iD -> [-4.0,10.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-21.0,-9.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-30.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 79 - [fF, fT, iD, iF, iT] ID: 
+fF fT -> [-3.0,1.0]
+fF iD -> [-17.0,-5.0]
+fF iF -> [-21.0,-9.0]
+fF iT -> [-22.0,-9.0]
+fT iD -> [-14.0,-5.0]
+fT iF -> [-18.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iD iF -> [-4.0,0.0]
+iD iT -> [-5.0,2.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 173 - [fF, fT, iD, iF, iT] ID: 
+fF fT -> [-3.0,1.0]
+fF iD -> [-17.0,5.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+fT iD -> [-14.0,7.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-30.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fF, iA, iD, iF, iT] - frecuencia: 453
+Modelo: [fF, iA, iD, iF, iT] - Numero de patrones: 3
+ Fr: 207 - [fF, iA, iD, iF, iT] ID: 
+fF iA -> [-22.0,-9.0]
+fF iD -> [-6.0,10.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-23.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 72 - [fF, iA, iD, iF, iT] ID: 
+fF iA -> [-22.0,-9.0]
+fF iD -> [-18.0,-5.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-23.0,-9.0]
+iA iD -> [-3.0,5.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-4.0,0.0]
+iD iT -> [-5.0,2.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 174 - [fF, iA, iD, iF, iT] ID: 
+fF iA -> [-39.0,-24.0]
+fF iD -> [-18.0,4.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fT, iA, iD, iF, iT] - frecuencia: 397
+Modelo: [fT, iA, iD, iF, iT] - Numero de patrones: 3
+ Fr: 184 - [fT, iA, iD, iF, iT] ID: 
+fT iA -> [-19.0,-9.0]
+fT iD -> [-3.0,10.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-20.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 60 - [fT, iA, iD, iF, iT] ID: 
+fT iA -> [-19.0,-9.0]
+fT iD -> [-14.0,-5.0]
+fT iF -> [-18.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iA iD -> [-3.0,5.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-4.0,0.0]
+iD iT -> [-5.0,2.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 153 - [fT, iA, iD, iF, iT] ID: 
+fT iA -> [-37.0,-22.0]
+fT iD -> [-14.0,6.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+Tamaño 6 - Número de asociaciones frecuentes: 28
+[fA, fD, fF, fT, iA, iD] - frecuencia: 151
+Modelo: [fA, fD, fF, fT, iA, iD] - Numero de patrones: 2
+ Fr: 86 - [fA, fD, fF, fT, iA, iD] ID: 
+fA fD -> [1.0,13.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fD fF -> [-13.0,3.0]
+fD fT -> [-14.0,0.0]
+fD iA -> [-30.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-21.0,-9.0]
+fF iD -> [-4.0,10.0]
+fT iA -> [-18.0,-9.0]
+fT iD -> [-1.0,10.0]
+iA iD -> [16.0,28.0]
+
+ Fr: 65 - [fA, fD, fF, fT, iA, iD] ID: 
+fA fD -> [-9.0,2.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-19.0]
+fA iD -> [-13.0,-2.0]
+fD fF -> [-4.0,8.0]
+fD fT -> [-3.0,8.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-23.0]
+fF iD -> [-12.0,0.0]
+fT iA -> [-38.0,-20.0]
+fT iD -> [-12.0,-1.0]
+iA iD -> [16.0,28.0]
+
+
+[fA, fD, fF, fT, iA, iF] - frecuencia: 366
+Modelo: [fA, fD, fF, fT, iA, iF] - Numero de patrones: 3
+ Fr: 124 - [fA, fD, fF, fT, iA, iF] ID: 
+fA fD -> [0.0,13.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iF -> [-19.0,-8.0]
+fD fF -> [-13.0,4.0]
+fD fT -> [-14.0,1.0]
+fD iA -> [-30.0,-17.0]
+fD iF -> [-32.0,-18.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-21.0,-9.0]
+fF iF -> [-22.0,-9.0]
+fT iA -> [-18.0,-9.0]
+fT iF -> [-19.0,-9.0]
+iA iF -> [-3.0,1.0]
+
+ Fr: 141 - [fA, fD, fF, fT, iA, iF] ID: 
+fA fD -> [-9.0,13.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-19.0]
+fA iF -> [-37.0,-22.0]
+fD fF -> [-13.0,8.0]
+fD fT -> [-14.0,8.0]
+fD iA -> [-39.0,-17.0]
+fD iF -> [-39.0,-18.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-23.0]
+fF iF -> [-38.0,-23.0]
+fT iA -> [-38.0,-20.0]
+fT iF -> [-38.0,-21.0]
+iA iF -> [-3.0,1.0]
+
+ Fr: 101 - [fA, fD, fF, fT, iA, iF] ID: 
+fA fD -> [17.0,29.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iF -> [-19.0,-8.0]
+fD fF -> [-27.0,-17.0]
+fD fT -> [-28.0,-18.0]
+fD iA -> [-39.0,-27.0]
+fD iF -> [-39.0,-27.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-21.0,-9.0]
+fF iF -> [-22.0,-9.0]
+fT iA -> [-18.0,-9.0]
+fT iF -> [-19.0,-9.0]
+iA iF -> [-3.0,1.0]
+
+
+[fA, fD, fF, fT, iA, iT] - frecuencia: 338
+Modelo: [fA, fD, fF, fT, iA, iT] - Numero de patrones: 3
+ Fr: 122 - [fA, fD, fF, fT, iA, iT] ID: 
+fA fD -> [0.0,13.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iT -> [-18.0,-8.0]
+fD fF -> [-13.0,4.0]
+fD fT -> [-14.0,1.0]
+fD iA -> [-30.0,-17.0]
+fD iT -> [-31.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-21.0,-9.0]
+fF iT -> [-22.0,-9.0]
+fT iA -> [-18.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iA iT -> [-1.0,1.0]
+
+ Fr: 119 - [fA, fD, fF, fT, iA, iT] ID: 
+fA fD -> [-9.0,13.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-23.0]
+fA iT -> [-37.0,-24.0]
+fD fF -> [-13.0,8.0]
+fD fT -> [-14.0,8.0]
+fD iA -> [-39.0,-17.0]
+fD iT -> [-39.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-24.0]
+fF iT -> [-38.0,-25.0]
+fT iA -> [-37.0,-22.0]
+fT iT -> [-36.0,-23.0]
+iA iT -> [-1.0,1.0]
+
+ Fr: 97 - [fA, fD, fF, fT, iA, iT] ID: 
+fA fD -> [17.0,29.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iT -> [-18.0,-8.0]
+fD fF -> [-27.0,-17.0]
+fD fT -> [-28.0,-18.0]
+fD iA -> [-39.0,-27.0]
+fD iT -> [-39.0,-27.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-21.0,-9.0]
+fF iT -> [-22.0,-9.0]
+fT iA -> [-18.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iA iT -> [-1.0,1.0]
+
+
+[fA, fD, fF, fT, iD, iF] - frecuencia: 167
+Modelo: [fA, fD, fF, fT, iD, iF] - Numero de patrones: 2
+ Fr: 98 - [fA, fD, fF, fT, iD, iF] ID: 
+fA fD -> [1.0,13.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fD fF -> [-13.0,3.0]
+fD fT -> [-14.0,0.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-32.0,-18.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-4.0,10.0]
+fF iF -> [-22.0,-9.0]
+fT iD -> [-1.0,10.0]
+fT iF -> [-19.0,-9.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 69 - [fA, fD, fF, fT, iD, iF] ID: 
+fA fD -> [-9.0,2.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [-13.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fD fF -> [-4.0,8.0]
+fD fT -> [-3.0,8.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-12.0,0.0]
+fF iF -> [-38.0,-23.0]
+fT iD -> [-12.0,-1.0]
+fT iF -> [-38.0,-21.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fA, fD, fF, fT, iD, iT] - frecuencia: 154
+Modelo: [fA, fD, fF, fT, iD, iT] - Numero de patrones: 2
+ Fr: 91 - [fA, fD, fF, fT, iD, iT] ID: 
+fA fD -> [1.0,13.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [0.0,11.0]
+fA iT -> [-18.0,-8.0]
+fD fF -> [-13.0,3.0]
+fD fT -> [-14.0,0.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-31.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-4.0,10.0]
+fF iT -> [-22.0,-9.0]
+fT iD -> [-1.0,10.0]
+fT iT -> [-19.0,-9.0]
+iD iT -> [-29.0,-15.0]
+
+ Fr: 63 - [fA, fD, fF, fT, iD, iT] ID: 
+fA fD -> [-9.0,2.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [-13.0,-2.0]
+fA iT -> [-37.0,-24.0]
+fD fF -> [-4.0,8.0]
+fD fT -> [-3.0,8.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-34.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-12.0,0.0]
+fF iT -> [-38.0,-25.0]
+fT iD -> [-12.0,-1.0]
+fT iT -> [-36.0,-23.0]
+iD iT -> [-30.0,-15.0]
+
+
+[fA, fD, fF, fT, iF, iT] - frecuencia: 386
+Modelo: [fA, fD, fF, fT, iF, iT] - Numero de patrones: 3
+ Fr: 139 - [fA, fD, fF, fT, iF, iT] ID: 
+fA fD -> [-1.0,13.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fD fF -> [-13.0,4.0]
+fD fT -> [-14.0,1.0]
+fD iF -> [-32.0,-18.0]
+fD iT -> [-31.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 133 - [fA, fD, fF, fT, iF, iT] ID: 
+fA fD -> [-9.0,13.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fD fF -> [-13.0,8.0]
+fD fT -> [-14.0,8.0]
+fD iF -> [-39.0,-18.0]
+fD iT -> [-39.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 114 - [fA, fD, fF, fT, iF, iT] ID: 
+fA fD -> [17.0,29.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fD fF -> [-27.0,-17.0]
+fD fT -> [-28.0,-18.0]
+fD iF -> [-39.0,-27.0]
+fD iT -> [-39.0,-27.0]
+fF fT -> [-3.0,1.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, fD, fF, iA, iD, iF] - frecuencia: 215
+Modelo: [fA, fD, fF, iA, iD, iF] - Numero de patrones: 2
+ Fr: 119 - [fA, fD, fF, iA, iD, iF] ID: 
+fA fD -> [1.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fD fF -> [-13.0,3.0]
+fD iA -> [-30.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-32.0,-18.0]
+fF iA -> [-21.0,-9.0]
+fF iD -> [-4.0,10.0]
+fF iF -> [-22.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 96 - [fA, fD, fF, iA, iD, iF] ID: 
+fA fD -> [-9.0,2.0]
+fA fF -> [-2.0,4.0]
+fA iA -> [-37.0,-19.0]
+fA iD -> [-13.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fD fF -> [-4.0,8.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fF iA -> [-39.0,-23.0]
+fF iD -> [-12.0,0.0]
+fF iF -> [-38.0,-23.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fA, fD, fF, iA, iD, iT] - frecuencia: 169
+Modelo: [fA, fD, fF, iA, iD, iT] - Numero de patrones: 2
+ Fr: 92 - [fA, fD, fF, iA, iD, iT] ID: 
+fA fD -> [1.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fA iT -> [-18.0,-8.0]
+fD fF -> [-13.0,3.0]
+fD iA -> [-30.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-31.0,-17.0]
+fF iA -> [-21.0,-9.0]
+fF iD -> [-4.0,10.0]
+fF iT -> [-22.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+ Fr: 77 - [fA, fD, fF, iA, iD, iT] ID: 
+fA fD -> [-9.0,2.0]
+fA fF -> [-2.0,4.0]
+fA iA -> [-37.0,-23.0]
+fA iD -> [-13.0,-2.0]
+fA iT -> [-37.0,-24.0]
+fD fF -> [-4.0,8.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-33.0,-17.0]
+fF iA -> [-39.0,-24.0]
+fF iD -> [-12.0,0.0]
+fF iT -> [-38.0,-25.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+
+[fA, fD, fF, iA, iF, iT] - frecuencia: 398
+Modelo: [fA, fD, fF, iA, iF, iT] - Numero de patrones: 3
+ Fr: 117 - [fA, fD, fF, iA, iF, iT] ID: 
+fA fD -> [0.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iA -> [-17.0,-9.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fD fF -> [-13.0,4.0]
+fD iA -> [-30.0,-17.0]
+fD iF -> [-32.0,-18.0]
+fD iT -> [-31.0,-17.0]
+fF iA -> [-21.0,-9.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 168 - [fA, fD, fF, iA, iF, iT] ID: 
+fA fD -> [-9.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iA -> [-37.0,-23.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fD fF -> [-13.0,8.0]
+fD iA -> [-39.0,-17.0]
+fD iF -> [-39.0,-18.0]
+fD iT -> [-39.0,-17.0]
+fF iA -> [-39.0,-24.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 113 - [fA, fD, fF, iA, iF, iT] ID: 
+fA fD -> [17.0,29.0]
+fA fF -> [-2.0,4.0]
+fA iA -> [-17.0,-9.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fD fF -> [-27.0,-17.0]
+fD iA -> [-39.0,-26.0]
+fD iF -> [-39.0,-26.0]
+fD iT -> [-39.0,-26.0]
+fF iA -> [-21.0,-9.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, fD, fF, iD, iF, iT] - frecuencia: 207
+Modelo: [fA, fD, fF, iD, iF, iT] - Numero de patrones: 2
+ Fr: 123 - [fA, fD, fF, iD, iF, iT] ID: 
+fA fD -> [1.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fD fF -> [-13.0,3.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-32.0,-18.0]
+fD iT -> [-31.0,-17.0]
+fF iD -> [-4.0,10.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 84 - [fA, fD, fF, iD, iF, iT] ID: 
+fA fD -> [-9.0,2.0]
+fA fF -> [-2.0,4.0]
+fA iD -> [-13.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fD fF -> [-4.0,8.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-34.0,-17.0]
+fF iD -> [-12.0,0.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-30.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, fD, fT, iA, iD, iF] - frecuencia: 137
+Modelo: [fA, fD, fT, iA, iD, iF] - Numero de patrones: 2
+ Fr: 79 - [fA, fD, fT, iA, iD, iF] ID: 
+fA fD -> [1.0,13.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fD fT -> [-14.0,0.0]
+fD iA -> [-30.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-32.0,-18.0]
+fT iA -> [-18.0,-9.0]
+fT iD -> [-1.0,10.0]
+fT iF -> [-19.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 58 - [fA, fD, fT, iA, iD, iF] ID: 
+fA fD -> [-9.0,2.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-19.0]
+fA iD -> [-13.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fD fT -> [-3.0,8.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fT iA -> [-38.0,-20.0]
+fT iD -> [-12.0,-1.0]
+fT iF -> [-38.0,-21.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fA, fD, fT, iA, iD, iT] - frecuencia: 122
+Modelo: [fA, fD, fT, iA, iD, iT] - Numero de patrones: 2
+ Fr: 68 - [fA, fD, fT, iA, iD, iT] ID: 
+fA fD -> [1.0,13.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fA iT -> [-18.0,-8.0]
+fD fT -> [-14.0,0.0]
+fD iA -> [-30.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-31.0,-17.0]
+fT iA -> [-18.0,-9.0]
+fT iD -> [-1.0,10.0]
+fT iT -> [-19.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+ Fr: 54 - [fA, fD, fT, iA, iD, iT] ID: 
+fA fD -> [-9.0,2.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-23.0]
+fA iD -> [-13.0,-2.0]
+fA iT -> [-37.0,-24.0]
+fD fT -> [-3.0,8.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-33.0,-17.0]
+fT iA -> [-37.0,-22.0]
+fT iD -> [-12.0,-1.0]
+fT iT -> [-36.0,-23.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+
+[fA, fD, fT, iA, iF, iT] - frecuencia: 297
+Modelo: [fA, fD, fT, iA, iF, iT] - Numero de patrones: 3
+ Fr: 99 - [fA, fD, fT, iA, iF, iT] ID: 
+fA fD -> [0.0,13.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fD fT -> [-14.0,1.0]
+fD iA -> [-30.0,-17.0]
+fD iF -> [-32.0,-18.0]
+fD iT -> [-31.0,-17.0]
+fT iA -> [-18.0,-9.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 113 - [fA, fD, fT, iA, iF, iT] ID: 
+fA fD -> [-9.0,13.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-23.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fD fT -> [-14.0,8.0]
+fD iA -> [-39.0,-17.0]
+fD iF -> [-39.0,-18.0]
+fD iT -> [-39.0,-17.0]
+fT iA -> [-37.0,-22.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 85 - [fA, fD, fT, iA, iF, iT] ID: 
+fA fD -> [17.0,29.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fD fT -> [-28.0,-18.0]
+fD iA -> [-39.0,-27.0]
+fD iF -> [-39.0,-27.0]
+fD iT -> [-39.0,-27.0]
+fT iA -> [-18.0,-9.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, fD, fT, iD, iF, iT] - frecuencia: 146
+Modelo: [fA, fD, fT, iD, iF, iT] - Numero de patrones: 2
+ Fr: 85 - [fA, fD, fT, iD, iF, iT] ID: 
+fA fD -> [1.0,13.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fD fT -> [-14.0,0.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-32.0,-18.0]
+fD iT -> [-31.0,-17.0]
+fT iD -> [-1.0,10.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 61 - [fA, fD, fT, iD, iF, iT] ID: 
+fA fD -> [-9.0,2.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [-13.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fD fT -> [-3.0,8.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-34.0,-17.0]
+fT iD -> [-12.0,-1.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-30.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, fD, iA, iD, iF, iT] - frecuencia: 155
+Modelo: [fA, fD, iA, iD, iF, iT] - Numero de patrones: 2
+ Fr: 77 - [fA, fD, iA, iD, iF, iT] ID: 
+fA fD -> [1.0,13.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fD iA -> [-30.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-32.0,-18.0]
+fD iT -> [-31.0,-17.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 78 - [fA, fD, iA, iD, iF, iT] ID: 
+fA fD -> [-9.0,2.0]
+fA iA -> [-37.0,-23.0]
+fA iD -> [-13.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-33.0,-17.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, fF, fT, iA, iD, iF] - frecuencia: 313
+Modelo: [fA, fF, fT, iA, iD, iF] - Numero de patrones: 3
+ Fr: 149 - [fA, fF, fT, iA, iD, iF] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-21.0,-9.0]
+fF iD -> [-4.0,10.0]
+fF iF -> [-22.0,-9.0]
+fT iA -> [-18.0,-9.0]
+fT iD -> [-1.0,10.0]
+fT iF -> [-19.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 60 - [fA, fF, fT, iA, iD, iF] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [-15.0,-4.0]
+fA iF -> [-19.0,-8.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-21.0,-9.0]
+fF iD -> [-17.0,-5.0]
+fF iF -> [-21.0,-9.0]
+fT iA -> [-18.0,-9.0]
+fT iD -> [-14.0,-5.0]
+fT iF -> [-18.0,-9.0]
+iA iD -> [-3.0,5.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-4.0,0.0]
+
+ Fr: 104 - [fA, fF, fT, iA, iD, iF] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-19.0]
+fA iD -> [-15.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-23.0]
+fF iD -> [-17.0,0.0]
+fF iF -> [-38.0,-23.0]
+fT iA -> [-38.0,-20.0]
+fT iD -> [-14.0,-1.0]
+fT iF -> [-38.0,-21.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fA, fF, fT, iA, iD, iT] - frecuencia: 280
+Modelo: [fA, fF, fT, iA, iD, iT] - Numero de patrones: 3
+ Fr: 131 - [fA, fF, fT, iA, iD, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fA iT -> [-18.0,-8.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-21.0,-9.0]
+fF iD -> [-4.0,10.0]
+fF iT -> [-22.0,-9.0]
+fT iA -> [-18.0,-9.0]
+fT iD -> [-1.0,10.0]
+fT iT -> [-19.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+ Fr: 58 - [fA, fF, fT, iA, iD, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [-15.0,-4.0]
+fA iT -> [-18.0,-8.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-21.0,-9.0]
+fF iD -> [-17.0,-4.0]
+fF iT -> [-22.0,-9.0]
+fT iA -> [-18.0,-9.0]
+fT iD -> [-14.0,-4.0]
+fT iT -> [-19.0,-9.0]
+iA iD -> [-3.0,5.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-5.0,2.0]
+
+ Fr: 91 - [fA, fF, fT, iA, iD, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-23.0]
+fA iD -> [-15.0,-2.0]
+fA iT -> [-37.0,-24.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-24.0]
+fF iD -> [-17.0,0.0]
+fF iT -> [-38.0,-25.0]
+fT iA -> [-37.0,-22.0]
+fT iD -> [-14.0,-1.0]
+fT iT -> [-36.0,-23.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+
+[fA, fF, fT, iA, iF, iT] - frecuencia: 290
+Modelo: [fA, fF, fT, iA, iF, iT] - Numero de patrones: 2
+ Fr: 174 - [fA, fF, fT, iA, iF, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-21.0,-9.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+fT iA -> [-18.0,-9.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 116 - [fA, fF, fT, iA, iF, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-23.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-24.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+fT iA -> [-37.0,-22.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, fF, fT, iD, iF, iT] - frecuencia: 343
+Modelo: [fA, fF, fT, iD, iF, iT] - Numero de patrones: 3
+ Fr: 174 - [fA, fF, fT, iD, iF, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-4.0,10.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+fT iD -> [-1.0,10.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 64 - [fA, fF, fT, iD, iF, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [-15.0,-4.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-17.0,-5.0]
+fF iF -> [-21.0,-9.0]
+fF iT -> [-22.0,-9.0]
+fT iD -> [-14.0,-5.0]
+fT iF -> [-18.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iD iF -> [-4.0,0.0]
+iD iT -> [-5.0,2.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 105 - [fA, fF, fT, iD, iF, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [-15.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-17.0,0.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+fT iD -> [-14.0,-1.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-30.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, fF, iA, iD, iF, iT] - frecuencia: 361
+Modelo: [fA, fF, iA, iD, iF, iT] - Numero de patrones: 3
+ Fr: 169 - [fA, fF, iA, iD, iF, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fF iA -> [-21.0,-9.0]
+fF iD -> [-4.0,10.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 61 - [fA, fF, iA, iD, iF, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [-16.0,-4.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fF iA -> [-21.0,-9.0]
+fF iD -> [-18.0,-5.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+iA iD -> [-3.0,5.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-4.0,0.0]
+iD iT -> [-5.0,2.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 131 - [fA, fF, iA, iD, iF, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA iA -> [-37.0,-23.0]
+fA iD -> [-16.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fF iA -> [-39.0,-24.0]
+fF iD -> [-18.0,0.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, fT, iA, iD, iF, iT] - frecuencia: 250
+Modelo: [fA, fT, iA, iD, iF, iT] - Numero de patrones: 3
+ Fr: 118 - [fA, fT, iA, iD, iF, iT] ID: 
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fT iA -> [-18.0,-9.0]
+fT iD -> [-1.0,10.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 43 - [fA, fT, iA, iD, iF, iT] ID: 
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [-15.0,-4.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fT iA -> [-18.0,-9.0]
+fT iD -> [-14.0,-5.0]
+fT iF -> [-18.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iA iD -> [-3.0,5.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-4.0,0.0]
+iD iT -> [-5.0,2.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 89 - [fA, fT, iA, iD, iF, iT] ID: 
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-23.0]
+fA iD -> [-15.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fT iA -> [-37.0,-22.0]
+fT iD -> [-14.0,-1.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fD, fF, fT, iA, iD, iF] - frecuencia: 216
+Modelo: [fD, fF, fT, iA, iD, iF] - Numero de patrones: 2
+ Fr: 111 - [fD, fF, fT, iA, iD, iF] ID: 
+fD fF -> [-13.0,4.0]
+fD fT -> [-14.0,1.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-22.0,-9.0]
+fF iD -> [-6.0,10.0]
+fF iF -> [-22.0,-9.0]
+fT iA -> [-19.0,-9.0]
+fT iD -> [-3.0,10.0]
+fT iF -> [-19.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 105 - [fD, fF, fT, iA, iD, iF] ID: 
+fD fF -> [-9.0,8.0]
+fD fT -> [-12.0,8.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-23.0]
+fF iD -> [-12.0,5.0]
+fF iF -> [-38.0,-23.0]
+fT iA -> [-39.0,-20.0]
+fT iD -> [-12.0,8.0]
+fT iF -> [-38.0,-20.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fD, fF, fT, iA, iD, iT] - frecuencia: 164
+Modelo: [fD, fF, fT, iA, iD, iT] - Numero de patrones: 2
+ Fr: 87 - [fD, fF, fT, iA, iD, iT] ID: 
+fD fF -> [-13.0,5.0]
+fD fT -> [-14.0,2.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-33.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-22.0,-9.0]
+fF iD -> [-6.0,10.0]
+fF iT -> [-23.0,-9.0]
+fT iA -> [-19.0,-9.0]
+fT iD -> [-3.0,10.0]
+fT iT -> [-20.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+ Fr: 77 - [fD, fF, fT, iA, iD, iT] ID: 
+fD fF -> [-8.0,8.0]
+fD fT -> [-10.0,8.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-33.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-24.0]
+fF iD -> [-12.0,4.0]
+fF iT -> [-38.0,-25.0]
+fT iA -> [-37.0,-22.0]
+fT iD -> [-12.0,6.0]
+fT iT -> [-36.0,-23.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+
+[fD, fF, fT, iA, iF, iT] - frecuencia: 362
+Modelo: [fD, fF, fT, iA, iF, iT] - Numero de patrones: 3
+ Fr: 112 - [fD, fF, fT, iA, iF, iT] ID: 
+fD fF -> [-13.0,4.0]
+fD fT -> [-14.0,1.0]
+fD iA -> [-33.0,-17.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-34.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-22.0,-9.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-23.0,-9.0]
+fT iA -> [-19.0,-9.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-20.0,-9.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 142 - [fD, fF, fT, iA, iF, iT] ID: 
+fD fF -> [-13.0,8.0]
+fD fT -> [-14.0,8.0]
+fD iA -> [-39.0,-17.0]
+fD iF -> [-39.0,-18.0]
+fD iT -> [-39.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-24.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+fT iA -> [-37.0,-22.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 108 - [fD, fF, fT, iA, iF, iT] ID: 
+fD fF -> [-27.0,-17.0]
+fD fT -> [-28.0,-18.0]
+fD iA -> [-39.0,-27.0]
+fD iF -> [-39.0,-27.0]
+fD iT -> [-39.0,-27.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-22.0,-9.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+fT iA -> [-19.0,-9.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-20.0,-9.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+
+[fD, fF, fT, iD, iF, iT] - frecuencia: 206
+Modelo: [fD, fF, fT, iD, iF, iT] - Numero de patrones: 2
+ Fr: 116 - [fD, fF, fT, iD, iF, iT] ID: 
+fD fF -> [-13.0,4.0]
+fD fT -> [-14.0,1.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-34.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-7.0,10.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-23.0,-9.0]
+fT iD -> [-4.0,10.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-21.0,-9.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-30.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 90 - [fD, fF, fT, iD, iF, iT] ID: 
+fD fF -> [-9.0,8.0]
+fD fT -> [-11.0,8.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-34.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-12.0,5.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+fT iD -> [-12.0,7.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-30.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fD, fF, iA, iD, iF, iT] - frecuencia: 166
+Modelo: [fD, fF, iA, iD, iF, iT] - Numero de patrones: 2
+ Fr: 93 - [fD, fF, iA, iD, iF, iT] ID: 
+fD fF -> [-13.0,4.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-33.0,-17.0]
+fF iA -> [-22.0,-9.0]
+fF iD -> [-6.0,10.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-23.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 73 - [fD, fF, iA, iD, iF, iT] ID: 
+fD fF -> [-8.0,8.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-33.0,-17.0]
+fF iA -> [-39.0,-24.0]
+fF iD -> [-12.0,4.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fD, fT, iA, iD, iF, iT] - frecuencia: 165
+Modelo: [fD, fT, iA, iD, iF, iT] - Numero de patrones: 2
+ Fr: 81 - [fD, fT, iA, iD, iF, iT] ID: 
+fD fT -> [-14.0,1.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-33.0,-17.0]
+fT iA -> [-19.0,-9.0]
+fT iD -> [-3.0,10.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-20.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 84 - [fD, fT, iA, iD, iF, iT] ID: 
+fD fT -> [-10.0,8.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-33.0,-17.0]
+fT iA -> [-37.0,-22.0]
+fT iD -> [-12.0,6.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fF, fT, iA, iD, iF, iT] - frecuencia: 314
+Modelo: [fF, fT, iA, iD, iF, iT] - Numero de patrones: 3
+ Fr: 151 - [fF, fT, iA, iD, iF, iT] ID: 
+fF fT -> [-3.0,1.0]
+fF iA -> [-22.0,-9.0]
+fF iD -> [-6.0,10.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-23.0,-9.0]
+fT iA -> [-19.0,-9.0]
+fT iD -> [-3.0,10.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-20.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 48 - [fF, fT, iA, iD, iF, iT] ID: 
+fF fT -> [-3.0,1.0]
+fF iA -> [-22.0,-9.0]
+fF iD -> [-17.0,-5.0]
+fF iF -> [-21.0,-9.0]
+fF iT -> [-22.0,-9.0]
+fT iA -> [-19.0,-9.0]
+fT iD -> [-14.0,-5.0]
+fT iF -> [-18.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iA iD -> [-3.0,5.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-4.0,0.0]
+iD iT -> [-5.0,2.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 115 - [fF, fT, iA, iD, iF, iT] ID: 
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-24.0]
+fF iD -> [-17.0,4.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+fT iA -> [-37.0,-22.0]
+fT iD -> [-14.0,6.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+Tamaño 7 - Número de asociaciones frecuentes: 8
+[fA, fD, fF, fT, iA, iD, iF] - frecuencia: 115
+Modelo: [fA, fD, fF, fT, iA, iD, iF] - Numero de patrones: 2
+ Fr: 67 - [fA, fD, fF, fT, iA, iD, iF] ID: 
+fA fD -> [1.0,13.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fD fF -> [-13.0,3.0]
+fD fT -> [-14.0,0.0]
+fD iA -> [-30.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-32.0,-18.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-21.0,-9.0]
+fF iD -> [-4.0,10.0]
+fF iF -> [-22.0,-9.0]
+fT iA -> [-18.0,-9.0]
+fT iD -> [-1.0,10.0]
+fT iF -> [-19.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+ Fr: 48 - [fA, fD, fF, fT, iA, iD, iF] ID: 
+fA fD -> [-9.0,2.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-19.0]
+fA iD -> [-13.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fD fF -> [-4.0,8.0]
+fD fT -> [-3.0,8.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-23.0]
+fF iD -> [-12.0,0.0]
+fF iF -> [-38.0,-23.0]
+fT iA -> [-38.0,-20.0]
+fT iD -> [-12.0,-1.0]
+fT iF -> [-38.0,-21.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iD iF -> [-29.0,-15.0]
+
+
+[fA, fD, fF, fT, iA, iD, iT] - frecuencia: 97
+Modelo: [fA, fD, fF, fT, iA, iD, iT] - Numero de patrones: 2
+ Fr: 57 - [fA, fD, fF, fT, iA, iD, iT] ID: 
+fA fD -> [1.0,13.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fA iT -> [-18.0,-8.0]
+fD fF -> [-13.0,3.0]
+fD fT -> [-14.0,0.0]
+fD iA -> [-30.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-31.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-21.0,-9.0]
+fF iD -> [-4.0,10.0]
+fF iT -> [-22.0,-9.0]
+fT iA -> [-18.0,-9.0]
+fT iD -> [-1.0,10.0]
+fT iT -> [-19.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+ Fr: 40 - [fA, fD, fF, fT, iA, iD, iT] ID: 
+fA fD -> [-9.0,2.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-23.0]
+fA iD -> [-13.0,-2.0]
+fA iT -> [-37.0,-24.0]
+fD fF -> [-4.0,8.0]
+fD fT -> [-3.0,8.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iT -> [-33.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-24.0]
+fF iD -> [-12.0,0.0]
+fF iT -> [-38.0,-25.0]
+fT iA -> [-37.0,-22.0]
+fT iD -> [-12.0,-1.0]
+fT iT -> [-36.0,-23.0]
+iA iD -> [16.0,28.0]
+iA iT -> [-1.0,1.0]
+iD iT -> [-29.0,-15.0]
+
+
+[fA, fD, fF, fT, iA, iF, iT] - frecuencia: 253
+Modelo: [fA, fD, fF, fT, iA, iF, iT] - Numero de patrones: 3
+ Fr: 82 - [fA, fD, fF, fT, iA, iF, iT] ID: 
+fA fD -> [0.0,13.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fD fF -> [-13.0,4.0]
+fD fT -> [-14.0,1.0]
+fD iA -> [-30.0,-17.0]
+fD iF -> [-32.0,-18.0]
+fD iT -> [-31.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-21.0,-9.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+fT iA -> [-18.0,-9.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 94 - [fA, fD, fF, fT, iA, iF, iT] ID: 
+fA fD -> [-9.0,13.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-23.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fD fF -> [-13.0,8.0]
+fD fT -> [-14.0,8.0]
+fD iA -> [-39.0,-17.0]
+fD iF -> [-39.0,-18.0]
+fD iT -> [-39.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-24.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+fT iA -> [-37.0,-22.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 77 - [fA, fD, fF, fT, iA, iF, iT] ID: 
+fA fD -> [17.0,29.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fD fF -> [-27.0,-17.0]
+fD fT -> [-28.0,-18.0]
+fD iA -> [-39.0,-27.0]
+fD iF -> [-39.0,-27.0]
+fD iT -> [-39.0,-27.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-21.0,-9.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+fT iA -> [-18.0,-9.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, fD, fF, fT, iD, iF, iT] - frecuencia: 118
+Modelo: [fA, fD, fF, fT, iD, iF, iT] - Numero de patrones: 2
+ Fr: 72 - [fA, fD, fF, fT, iD, iF, iT] ID: 
+fA fD -> [1.0,13.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fD fF -> [-13.0,3.0]
+fD fT -> [-14.0,0.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-32.0,-18.0]
+fD iT -> [-31.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-4.0,10.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+fT iD -> [-1.0,10.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 46 - [fA, fD, fF, fT, iD, iF, iT] ID: 
+fA fD -> [-9.0,2.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iD -> [-13.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fD fF -> [-4.0,8.0]
+fD fT -> [-3.0,8.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-34.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iD -> [-12.0,0.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+fT iD -> [-12.0,-1.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-30.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, fD, fF, iA, iD, iF, iT] - frecuencia: 126
+Modelo: [fA, fD, fF, iA, iD, iF, iT] - Numero de patrones: 2
+ Fr: 68 - [fA, fD, fF, iA, iD, iF, iT] ID: 
+fA fD -> [1.0,13.0]
+fA fF -> [-2.0,4.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fD fF -> [-13.0,3.0]
+fD iA -> [-30.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-32.0,-18.0]
+fD iT -> [-31.0,-17.0]
+fF iA -> [-21.0,-9.0]
+fF iD -> [-4.0,10.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 58 - [fA, fD, fF, iA, iD, iF, iT] ID: 
+fA fD -> [-9.0,2.0]
+fA fF -> [-2.0,4.0]
+fA iA -> [-37.0,-23.0]
+fA iD -> [-13.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fD fF -> [-4.0,8.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-33.0,-17.0]
+fF iA -> [-39.0,-24.0]
+fF iD -> [-12.0,0.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, fD, fT, iA, iD, iF, iT] - frecuencia: 92
+Modelo: [fA, fD, fT, iA, iD, iF, iT] - Numero de patrones: 2
+ Fr: 50 - [fA, fD, fT, iA, iD, iF, iT] ID: 
+fA fD -> [1.0,13.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fD fT -> [-14.0,0.0]
+fD iA -> [-30.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-32.0,-18.0]
+fD iT -> [-31.0,-17.0]
+fT iA -> [-18.0,-9.0]
+fT iD -> [-1.0,10.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 42 - [fA, fD, fT, iA, iD, iF, iT] ID: 
+fA fD -> [-9.0,2.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-23.0]
+fA iD -> [-13.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fD fT -> [-3.0,8.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-33.0,-17.0]
+fT iA -> [-37.0,-22.0]
+fT iD -> [-12.0,-1.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fA, fF, fT, iA, iD, iF, iT] - frecuencia: 218
+Modelo: [fA, fF, fT, iA, iD, iF, iT] - Numero de patrones: 3
+ Fr: 105 - [fA, fF, fT, iA, iD, iF, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-21.0,-9.0]
+fF iD -> [-4.0,10.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+fT iA -> [-18.0,-9.0]
+fT iD -> [-1.0,10.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 38 - [fA, fF, fT, iA, iD, iF, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [-15.0,-4.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-21.0,-9.0]
+fF iD -> [-17.0,-5.0]
+fF iF -> [-21.0,-9.0]
+fF iT -> [-22.0,-9.0]
+fT iA -> [-18.0,-9.0]
+fT iD -> [-14.0,-5.0]
+fT iF -> [-18.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iA iD -> [-3.0,5.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-4.0,0.0]
+iD iT -> [-5.0,2.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 75 - [fA, fF, fT, iA, iD, iF, iT] ID: 
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-23.0]
+fA iD -> [-15.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-24.0]
+fF iD -> [-17.0,0.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+fT iA -> [-37.0,-22.0]
+fT iD -> [-14.0,-1.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+[fD, fF, fT, iA, iD, iF, iT] - frecuencia: 119
+Modelo: [fD, fF, fT, iA, iD, iF, iT] - Numero de patrones: 2
+ Fr: 63 - [fD, fF, fT, iA, iD, iF, iT] ID: 
+fD fF -> [-13.0,4.0]
+fD fT -> [-14.0,1.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-33.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-22.0,-9.0]
+fF iD -> [-6.0,10.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-23.0,-9.0]
+fT iA -> [-19.0,-9.0]
+fT iD -> [-3.0,10.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-20.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 56 - [fD, fF, fT, iA, iD, iF, iT] ID: 
+fD fF -> [-8.0,8.0]
+fD fT -> [-10.0,8.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-33.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-24.0]
+fF iD -> [-12.0,4.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+fT iA -> [-37.0,-22.0]
+fT iD -> [-12.0,6.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
+Tamaño 8 - Número de asociaciones frecuentes: 1
+[fA, fD, fF, fT, iA, iD, iF, iT] - frecuencia: 72
+Modelo: [fA, fD, fF, fT, iA, iD, iF, iT] - Numero de patrones: 2
+ Fr: 42 - [fA, fD, fF, fT, iA, iD, iF, iT] ID: 
+fA fD -> [1.0,13.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-17.0,-9.0]
+fA iD -> [0.0,11.0]
+fA iF -> [-19.0,-8.0]
+fA iT -> [-18.0,-8.0]
+fD fF -> [-13.0,3.0]
+fD fT -> [-14.0,0.0]
+fD iA -> [-30.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-32.0,-18.0]
+fD iT -> [-31.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-21.0,-9.0]
+fF iD -> [-4.0,10.0]
+fF iF -> [-22.0,-9.0]
+fF iT -> [-22.0,-9.0]
+fT iA -> [-18.0,-9.0]
+fT iD -> [-1.0,10.0]
+fT iF -> [-19.0,-9.0]
+fT iT -> [-19.0,-9.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+ Fr: 30 - [fA, fD, fF, fT, iA, iD, iF, iT] ID: 
+fA fD -> [-9.0,2.0]
+fA fF -> [-2.0,4.0]
+fA fT -> [-1.0,1.0]
+fA iA -> [-37.0,-23.0]
+fA iD -> [-13.0,-2.0]
+fA iF -> [-37.0,-22.0]
+fA iT -> [-37.0,-24.0]
+fD fF -> [-4.0,8.0]
+fD fT -> [-3.0,8.0]
+fD iA -> [-32.0,-17.0]
+fD iD -> [-4.0,-1.0]
+fD iF -> [-33.0,-18.0]
+fD iT -> [-33.0,-17.0]
+fF fT -> [-3.0,1.0]
+fF iA -> [-39.0,-24.0]
+fF iD -> [-12.0,0.0]
+fF iF -> [-38.0,-23.0]
+fF iT -> [-38.0,-25.0]
+fT iA -> [-37.0,-22.0]
+fT iD -> [-12.0,-1.0]
+fT iF -> [-38.0,-21.0]
+fT iT -> [-36.0,-23.0]
+iA iD -> [16.0,28.0]
+iA iF -> [-3.0,1.0]
+iA iT -> [-1.0,1.0]
+iD iF -> [-29.0,-15.0]
+iD iT -> [-29.0,-15.0]
+iF iT -> [-2.0,3.0]
+
+
