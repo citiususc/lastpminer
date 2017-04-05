@@ -530,10 +530,6 @@ public class ConfigurationParameters {
       //      && !"Secuencias-Sin-Rellenar.txt".equals(params.getInputFileName());
    }
 
-   public boolean esNegativo(){
-      return algorithm == Algorithms.ALG_NEG;
-   }
-
    public ConfigurationParameters clonar(){
       ConfigurationParameters params = new ConfigurationParameters();
       params.algorithm = this.algorithm;

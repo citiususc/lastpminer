@@ -19,7 +19,6 @@ import source.evento.IColeccion;
 import source.evento.ISecuencia;
 import source.evento.SecuenciaSimple;
 import source.modelo.IAsociacionTemporal;
-import source.modelo.negacion.IAsociacionConNegacion;
 import source.patron.Ocurrencia;
 import source.patron.Patron;
 
@@ -166,22 +165,6 @@ public class PrincipalTest {
          }
       }
       return null;
-   }
-
-   public static IAsociacionTemporal getAsociacionNivel(List<IAsociacionTemporal> nivel, String[] positivos, String[] negativos){
-      List<String> modListPos = Arrays.asList(positivos);
-      List<String> modListNeg = Arrays.asList(negativos);
-      for(IAsociacionTemporal asoc : nivel){
-         if(Arrays.asList(asoc.getTipos()).equals(modListPos) && Arrays.asList(((IAsociacionConNegacion)asoc).getTiposNegados()).equals(modListNeg)){
-            return asoc;
-         }
-      }
-      return null;
-   }
-
-   public static IAsociacionTemporal getAsociacion(List<List<IAsociacionTemporal>> resultados, String[] positivos, String[] negativos){
-      int tam = positivos.length + negativos.length;
-      return getAsociacionNivel(resultados.get(tam-1), positivos, negativos);
    }
 
    public static IAsociacionTemporal getAsociacionNivel(List<IAsociacionTemporal> nivel, String[] modelo){

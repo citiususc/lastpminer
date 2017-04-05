@@ -26,10 +26,6 @@ public class ArbolFactory {
          result = new SupernodoAdoptivos();
       }else if(className == "SupernodoAdoptivosAnotados"){
          result = new SupernodoAdoptivosAnotados();
-      }else if(className == "SupernodoNegacion"){
-         result = new SupernodoNegacion();
-      }else if(className == "SupernodoNegacionSufijo"){
-         result = new SupernodoNegacionSufijo();
       }else{
          throw new FactoryInstantiationException("getSupernodo (1) cannot handle className :" + className);
       }
@@ -46,10 +42,6 @@ public class ArbolFactory {
          result = new SupernodoAdoptivos(padre);
       }else if(className == "SupernodoAdoptivosAnotados"){
          result = new SupernodoAdoptivosAnotados(padre);
-      }else if(className == "SupernodoNegacion"){
-         result = new SupernodoNegacion(padre);
-      }else if(className == "SupernodoNegacionSufijo"){
-         result = new SupernodoNegacionSufijo(padre);
       }else{
          throw new FactoryInstantiationException("getSupernodo (1) cannot handle className :" + className);
       }

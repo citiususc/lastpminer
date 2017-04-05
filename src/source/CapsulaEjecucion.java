@@ -575,7 +575,7 @@ public class CapsulaEjecucion {
       }
       String base = ExecutionParameters.REFERENCIAS_PATH;
       return base + collection + "-" + params.getModeString()
-            + (params.esNegativo()? "-neg" : "") + "-" + params.getWindowSize()
+            + "-" + params.getWindowSize()
             + "-cp-" + params.getCurrentPercentage() + "-mp-" + params.getMaximumPercentage()
             + "-mf-" + params.getMinFreq() + ".txt";
    }

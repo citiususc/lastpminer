@@ -3,46 +3,15 @@ package source.busqueda.episodios;
 import java.util.Arrays;
 import java.util.Collection;
 
-import org.junit.Assert;
-import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
 
-import source.AllThatYouNeed;
-import source.AllThatYouNeedSinteticas;
-import source.PrincipalTest;
 import source.PrincipalTestGeneral;
 import source.configuracion.Algorithms;
 import source.configuracion.Modes;
-import source.modelo.IAsociacionTemporal;
-import source.patron.Patron;
 
-//public class MineCompleteEpisodesTest {
 
-//   @Test
-//   public void testFalloFrecuenciaTam2(){
-//      Patron.setPrintID(false);
-//      AllThatYouNeed capsula = new AllThatYouNeedSinteticas("BD4");
-//      capsula.params.setWindowSize(20);
-//      capsula.params.setAlgorithm(Algorithms.ALG_ASTP);
-//      capsula.params.setMode(Modes.MODE_EPISODE);
-//      capsula.params.setTamMaximoPatron(3);
-//      capsula.mineria();
-//      /*String file = capsula.mineria();
-//      String referencia = Principal.getFicheroValidacion(capsula.params);
-//      boolean sonIguales =  Principal.compararFicheros(referencia, file);
-//      if(sonIguales){ //borrar el fichero
-//         new File(file).delete();
-//      }
-//      Assert.assertTrue("Falla para BD4 con ASTP y modo episodios",sonIguales);*/
-//      //List<IAsociacionTemporal> resultadosTam2 = capsula.resultados.get(0);
-//      //Buscar b1, f1
-//      IAsociacionTemporal b1f1 = PrincipalTest.getAsociacion(capsula.resultados, new String[]{"b1","f1"});
-//      System.out.println("b1f1: " + b1f1);
-//      Assert.assertEquals(12000, b1f1.getSoporte());
-//   }
-//}
 
 
 @RunWith(Parameterized.class)

@@ -8,19 +8,12 @@ import source.busqueda.concurrente.jerarquia.ConcurrenteMineDictionary;
 import source.busqueda.concurrente.semilla.*;
 import source.busqueda.episodios.*;
 import source.busqueda.jerarquia.*;
-import source.busqueda.negacion.MinePositivos;
-import source.busqueda.negacion.NegacionCompletaPruebaNivel2;
-import source.busqueda.negacion.NegacionCompletaPruebaNivel3;
-import source.busqueda.negacion.NegacionMine;
-import source.busqueda.negacion.NegacionMineEpisodios;
-import source.busqueda.negacion.NegacionMineEpisodiosCompletos;
 import source.busqueda.paralela.ParallelMine;
 import source.busqueda.paralela.episodios.ParallelMineCEDFE;
 import source.busqueda.paralela.episodios.ParallelMineCompleteEpisodes;
 import source.busqueda.paralela.jerarquia.ParallelMineDictionary;
 import source.busqueda.paralela.semilla.ParallelSemillaConjuncion;
 import source.busqueda.paralela.semilla.ParallelSemillaConjuncionCompleteEpisodes;
-import source.busqueda.repetidos.MineRepetidos;
 import source.busqueda.semilla.*;
 import source.configuracion.ConfigurationParameters;
 import source.excepciones.FactoryInstantiationException;
@@ -148,31 +141,6 @@ public final class MineFactory {
                   params.isSaveAllAnnotations(), params.isSaveRemovedEvents(), clustering,
                   !params.isCompleteResult(), ConfigurationParameters.NUM_THREADS);
             break;
-
-         //Negacion
-         case ALG_NEG:
-            mine = new NegacionMine(params.getExecutionId(), params.isSavePatternInstances(), params.isSaveRemovedEvents(),
-                    clustering, !params.isCompleteResult());
-            break;
-         case ALG_NEG_TEST2:
-            mine = new NegacionCompletaPruebaNivel2(params.getExecutionId(), params.isSavePatternInstances(), params.isSaveRemovedEvents(),
-                  clustering, !params.isCompleteResult());
-            break;
-         case ALG_NEG_TEST3:
-            mine = new NegacionCompletaPruebaNivel3(params.getExecutionId(), params.isSavePatternInstances(), params.isSaveRemovedEvents(),
-                  clustering, !params.isCompleteResult());
-            break;
-         case ALG_NEG_POS:
-            mine = new MinePositivos(params.getExecutionId(), params.isSavePatternInstances(), params.isSaveRemovedEvents(),
-                  clustering, !params.isCompleteResult());
-            break;
-
-         //Repetición
-         case ALG_REP:
-            mine = new MineRepetidos(params.getExecutionId(), params.isSavePatternInstances(), params.isSaveRemovedEvents(),
-                  clustering, !params.isCompleteResult());
-            break;
-
          default:
             throw new FactoryInstantiationException("Algoritmo desconocido(1): " + params.getAlgorithm());
       }
@@ -233,15 +201,6 @@ public final class MineFactory {
             mine = new MineCEDFESuperMarcarArbol(params.getExecutionId(), params.isSavePatternInstances(), params.isSaveAllAnnotations(),
                   params.isSaveRemovedEvents(), clustering, !params.isCompleteResult());
             break;
-         //Negacion
-         case ALG_NEG:
-            mine = new NegacionMineEpisodios(params.getExecutionId(), params.isSavePatternInstances(), params.isSaveRemovedEvents(),
-                    clustering, !params.isCompleteResult());
-            break;
-         case ALG_NEGC:
-            mine = new NegacionMineEpisodiosCompletos(params.getExecutionId(), params.isSavePatternInstances(), params.isSaveRemovedEvents(),
-                    clustering, !params.isCompleteResult());
-            break;
          case ALG_LAZY:
             throw new FactoryInstantiationException("Configuración no válida. No hay implementación de lazy con episodios");
          default:
@@ -285,11 +244,6 @@ public final class MineFactory {
             break;
          case ALG_MAN:
             mine = new ManualSearching(params.getExecutionId(),
-                  params.isSavePatternInstances(), params.isSaveRemovedEvents(),
-                  clustering, !params.isCompleteResult());
-            break;
-         case ALG_NEG:
-            mine = new NegacionSemilla(params.getExecutionId(),
                   params.isSavePatternInstances(), params.isSaveRemovedEvents(),
                   clustering, !params.isCompleteResult());
             break;

@@ -26,11 +26,10 @@ public enum Algorithms {
    ALG_SMSAVEXP,
    ALG_MARKT, //lastpminer
    ALG_SASTP, //astp con supermodelo
-   ALG_NEG, //negacion
-   ALG_REP, //repeticion
    ALG_TSTP, //tree sin anotaciones
    ALG_MAN, //busqueda manual
-   ALG_NEG_TEST2, ALG_NEG_TEST3, ALG_NEG_POS, //TODO BORRAR
+   ALG_NEG_POS,
    ALG_NEGC,
    ALG_ASTPI, //episodios incompletos
+   ALG_LASTP
 }

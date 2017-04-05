@@ -1,7 +1,6 @@
 package source.modelo;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -26,17 +25,8 @@ import source.modelo.condensacion.jerarquia.*;
 import source.modelo.distribucion.ModeloDistribucion;
 import source.modelo.episodios.*;
 import source.modelo.jerarquia.*;
-import source.modelo.negacion.IAsociacionConNegacion;
-import source.modelo.negacion.ModeloDistribucionEpisodiosPositivo;
-import source.modelo.negacion.ModeloDistribucionPositivo;
-//import source.modelo.negacion.ModeloDistribucionTontoPositivo;
-import source.modelo.negacion.ModeloEventoNegado;
-import source.modelo.negacion.ModeloEventoPositivo;
-import source.modelo.negacion.ModeloEventoPositivoMarcas;
-import source.modelo.negacion.ModeloTontoNegadoCompleto;
 import source.modelo.paralelo.episodios.ModeloEpisodiosDFEParalelo;
 import source.modelo.paralelo.jerarquia.ModeloDictionaryParalelo;
-import source.modelo.repetidos.ModeloDistribucionRepetido;
 import source.modelo.semilla.ModeloSemilla;
 import source.modelo.semilla.ModeloSemillaEpisodios;
 import source.patron.Patron;
@@ -328,52 +318,7 @@ public class AssociationFactory{
       }
       return result;
    }
-   public IAsociacionConNegacion getAssociationInstance(String className, String[] positiveTypes, String[] negativeTypes,
-         int windowSize, List<Patron> patterns, ISuperModelo supermodelo,
-         int threads) throws FactoryInstantiationException{
-      LOGGER.info("(1.1.b) " + className + " con threads="+threads
-            + ", positivos=" + Arrays.toString(positiveTypes)  + ", negativos=" + Arrays.toString(negativeTypes));
-      IAsociacionConNegacion result = null;
 
-      if(className=="Modelo"){
-         if(positiveTypes.length==0){
-            //result = new ModeloAsociacionNegada(negativeTypes);
-            throw new FactoryInstantiationException("getAssociationInstance (1.1) does not instantiates this class anymore :" + className);
-         }else{
-            result = new ModeloTontoNegadoCompleto(positiveTypes, negativeTypes, windowSize, patterns, null, supermodelo);
-         }
-      }else{
-         throw new FactoryInstantiationException("getAssociationInstance (1.2) cannot handle className :" + className);
-      }
-      return result;
-   }
-   /*
-    * Con negación y episodios
-    */
-   //TODO
-   public IAsociacionConNegacion getAssociationInstance(String className, String[] positiveTypes, String[] negativeTypes,
-         List<Episodio> episodes, int windowSize, List<Patron> patterns, ISuperModelo supermodelo,
-         int threads) throws FactoryInstantiationException{
-      LOGGER.info("(1.1.b) " + className + " con threads="+threads
-            + ", positivos=" + Arrays.toString(positiveTypes)  + ", negativos=" + Arrays.toString(negativeTypes));
-      IAsociacionConNegacion result = null;
-
-      if(className=="Modelo"){
-         if(positiveTypes.length==0){
-            //result = new ModeloAsociacionNegada(negativeTypes);
-            throw new FactoryInstantiationException("getAssociationInstance (1.1) does not instantiates this class anymore :" + className);
-         }else{
-            if(episodes.isEmpty()){
-               result = new ModeloTontoNegadoCompleto(positiveTypes, negativeTypes, windowSize, patterns, null, supermodelo);
-            }else{
-
-            }
-         }
-      }else{
-         throw new FactoryInstantiationException("getAssociationInstance (1.2) cannot handle className :" + className);
-      }
-      return result;
-   }
    /*
     * Con patrones y episodios
     */
@@ -472,38 +417,8 @@ public class AssociationFactory{
          }else{
             result = new ModeloEvento(type, null);
          }
-      }else if(className=="ModeloNegacionMarcas"){
-         if(threads == 0){
-            result = new ModeloEventoPositivoMarcas(type, null);
-         }else{
-            throw new FactoryInstantiationException("getAssociationInstance (2) cannot handle className with threads :" + className);
-         }
       }else{
          throw new FactoryInstantiationException("getAssociationInstance (2) cannot handle className :" + className);
-      }
-      return result;
-   }
-
-   /*
-    * Para negación
-    */
-
-   public IAsociacionConNegacion getAssociationInstance(String className, String type, int ventana, boolean negado, int threads)
-         throws FactoryInstantiationException{
-      IAsociacionConNegacion result = null;
-      if(threads>0){
-         //result = new ModeloConcurrenteEvento(type,null,threads);
-         throw new FactoryInstantiationException("getAssociationInstance (2) cannot handle className  :" + className + " with threads>0");
-      }else{
-         if(negado){
-            if(className=="Modelo"){
-               result = new ModeloEventoNegado(type, null, ventana);
-            }else{
-                throw new FactoryInstantiationException("getAssociationInstance (2.1) cannot handle className :" + className);
-            }
-         }else{
-            result = new ModeloEventoPositivo(type, null);
-         }
       }
       return result;
    }
@@ -529,64 +444,6 @@ public class AssociationFactory{
       return result;
    }
 
-   public IAsociacionConNegacion getAssociationInstance(String className,
-         String[] types, String[] negados, int windowSize, IClustering clustering,
-         ISuperModelo supermodelo, int threads) throws FactoryInstantiationException{
-      LOGGER.info("(5) " + className + " con threads="+threads + ", tipos=" + types);
-      IAsociacionConNegacion result = null;
-      if(className == "Modelo"){
-         switch(types.length){
-            case 0: //2 negativos
-               //No se debería instanciar
-               //result = new ModeloAsociacionNegada(negados);
-               break;
-
-            case 1: //1 negativo
-               result = new ModeloTontoNegadoCompleto(types, negados, windowSize, 0, supermodelo);
-               break;
-
-            case 2: //2 positivos, 0 negativos
-               //Funciona con cualquiera de los dos ya que el recibeEvento de ModeloDistribucion llama a actualizaVentana
-               result = new ModeloDistribucionPositivo(types, windowSize, 0, clustering);
-               //result = new ModeloDistribucionTontoPositivo(types, windowSize, 0, clustering, supermodelo);
-               break;
-         }
-      }else{
-         throw new FactoryInstantiationException("getAssociationInstance (123) cannot handle classname: " + className + ", with types: " + types);
-      }
-      return result;
-   }
-
-   //TODO
-   public IAsociacionConNegacion getAssociationInstance(String className,
-         String[] types, String[] negados, List<Episodio> episodes, int windowSize, IClustering clustering,
-         ISuperModelo supermodelo, int threads) throws FactoryInstantiationException{
-      IAsociacionConNegacion result = null;
-      if(className == "Modelo"){
-         switch(types.length){
-            case 0: //2 negativos
-               //No se debería instanciar
-               //result = new ModeloAsociacionNegada(negados);
-               break;
-
-            case 1: //1 negativo
-               result = new ModeloTontoNegadoCompleto(types, negados, windowSize, 0, supermodelo);
-               break;
-
-            case 2: //2 positivos, 0 negativos
-               //Funciona con cualquiera de los dos ya que el recibeEvento de ModeloDistribucion llama a actualizaVentana
-               result = new ModeloDistribucionEpisodiosPositivo(types, episodes, windowSize, 0, clustering);
-               //result = new ModeloDistribucionTontoPositivo(types, windowSize, 0, clustering, supermodelo);
-               break;
-         }
-      }else{
-         throw new FactoryInstantiationException("getAssociationInstance (123-epis) cannot handle classname: " + className + ", with types: " + types);
-      }
-      return result;
-
-   }
-
-
    public IAsociacionTemporal getAssociationInstance(String className,
          String[] types, int windowSize, List<Patron> patterns, int[] distribution,
          IClustering clustering, int threads)
@@ -610,7 +467,7 @@ public class AssociationFactory{
    /*
     * Distribución con SuperModelo
     */
-   public IAsociacionTemporal getAssociationInstance(String className, String[] types, int windowSize,
+   /*public IAsociacionTemporal getAssociationInstance(String className, String[] types, int windowSize,
          IClustering clustering, ISuperModelo supermodelo, boolean repetidos, int threads)
                throws FactoryInstantiationException{
       LOGGER.info("(6) " + className + " con threads="+threads + ", tipos=" + types);
@@ -621,7 +478,7 @@ public class AssociationFactory{
           result = new ModeloDistribucionTonto(types, windowSize, null, clustering, supermodelo);
       }
       return result;
-   }
+   }*/
 
    public IAsociacionTemporal getAssociationInstance(String className, String[] types, int windowSize,
          IClustering clustering, ISuperModelo supermodelo, int threads)
