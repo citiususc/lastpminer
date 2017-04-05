@@ -24,9 +24,9 @@ public class MineCEDFESuperMarcarArbolTest{
    public void testGeneral(){
       boolean PASADO = false;
       Collection<Object[]> data =Arrays.asList(new Object[][] {
-            {Algorithms.ALG_MARKT, Modes.MODE_EPISODE, "apnea", 80, PASADO}, //06/04/2015
-            {Algorithms.ALG_MARKT, Modes.MODE_EPISODE, "BD4", 20, PASADO},  //06/04/2015
-            {Algorithms.ALG_MARKT, Modes.MODE_EPISODE, "BD5", 20, PASADO},  //06/04/2015
+            {Algorithms.ALG_LASTP, Modes.MODE_EPISODE, "apnea", 80, PASADO}, //06/04/2015
+            {Algorithms.ALG_LASTP, Modes.MODE_EPISODE, "BD4", 20, PASADO},  //06/04/2015
+            {Algorithms.ALG_LASTP, Modes.MODE_EPISODE, "BD5", 20, PASADO},  //06/04/2015
       });
       for(Object[] d : data){
          PrincipalTestGeneral test = new PrincipalTestGeneral((Algorithms)d[0], (Modes)d[1], (String)d[2], (Integer)d[3], (Boolean)d[4]);
@@ -37,7 +37,7 @@ public class MineCEDFESuperMarcarArbolTest{
 
    @Test
    public void testFrecuenciaPatron(){
-      Algorithms algorithm = Algorithms.ALG_MARKT;
+      Algorithms algorithm = Algorithms.ALG_LASTP;
       Modes mode = Modes.MODE_EPISODE;
       Integer window = 20;
       String collection = "BD5";

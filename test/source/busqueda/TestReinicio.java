@@ -63,15 +63,15 @@ public class TestReinicio extends PrincipalTestGeneral {
             //{Algorithms.ALG_LESS, Modes.MODE_SEED, "apnea", 80, PASADO},
             //{Algorithms.ALG_LESS, Modes.MODE_FULL, "apnea", 80, PASADO},
 
-            {Algorithms.ALG_MARKT, Modes.MODE_BASIC, "apnea", 80, PASADO}, //18
-            {Algorithms.ALG_MARKT, Modes.MODE_EPISODE, "apnea", 80, PASADO},
-            //{Algorithms.ALG_LESS, Modes.MODE_SEED, "apnea", 80, PASADO},
-            //{Algorithms.ALG_LESS, Modes.MODE_FULL, "apnea", 80, PASADO},
+            {Algorithms.ALG_LASTP, Modes.MODE_BASIC, "apnea", 80, PASADO}, //18
+            {Algorithms.ALG_LASTP, Modes.MODE_EPISODE, "apnea", 80, PASADO},
+            //{Algorithms.ALG_LASTP, Modes.MODE_SEED, "apnea", 80, PASADO},
+            //{Algorithms.ALG_LASTP, Modes.MODE_FULL, "apnea", 80, PASADO},
 
             {Algorithms.ALG_SASTP, Modes.MODE_BASIC, "apnea", 80, PASADO}, //20
             {Algorithms.ALG_SASTP, Modes.MODE_EPISODE, "apnea", 80, PASADO},
-            //{Algorithms.ALG_LESS, Modes.MODE_SEED, "apnea", 80, PASADO},
-            //{Algorithms.ALG_LESS, Modes.MODE_FULL, "apnea", 80, PASADO},
+            //{Algorithms.ALG_SASTP, Modes.MODE_SEED, "apnea", 80, PASADO},
+            //{Algorithms.ALG_SASTP, Modes.MODE_FULL, "apnea", 80, PASADO},
 
 
       });

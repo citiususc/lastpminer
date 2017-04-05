@@ -26,7 +26,7 @@ public class TestVersionesConBorrado  extends PrincipalTestGeneral {
             {Algorithms.ALG_ASTP, Modes.MODE_EPISODE, ConfigurationParameters.APNEA_DB, 20, PASADO},
             {Algorithms.ALG_HSTP, Modes.MODE_EPISODE, ConfigurationParameters.APNEA_DB, 20, PASADO},
             {Algorithms.ALG_SUPER, Modes.MODE_EPISODE, ConfigurationParameters.APNEA_DB, 20, PASADO},
-            {Algorithms.ALG_MARKT, Modes.MODE_EPISODE, ConfigurationParameters.APNEA_DB, 20, false},
+            {Algorithms.ALG_LASTP, Modes.MODE_EPISODE, ConfigurationParameters.APNEA_DB, 20, false},
       });
    }
 

@@ -93,7 +93,7 @@ public final class MineFactory {
             mine = new MineMarcar(params.getExecutionId(), params.isSavePatternInstances(), params.isSaveAllAnnotations(),
                   params.isSaveRemovedEvents(), clustering, !params.isCompleteResult());
             break;
-         case ALG_MARKT:
+         case ALG_LASTP:
             mine = new MineDictionarySuperMarcarArbolV2(params.getExecutionId(), params.isSavePatternInstances(),
                   params.isSaveAllAnnotations(), params.isSaveRemovedEvents(), clustering, !params.isCompleteResult());
             break;
@@ -197,7 +197,7 @@ public final class MineFactory {
             mine = new MineCEDFESuperModelo(params.getExecutionId(), params.isSavePatternInstances(), params.isSaveAllAnnotations(),
                   params.isSaveRemovedEvents(), clustering, !params.isCompleteResult());
             break;
-         case ALG_MARKT:
+         case ALG_LASTP:
             mine = new MineCEDFESuperMarcarArbol(params.getExecutionId(), params.isSavePatternInstances(), params.isSaveAllAnnotations(),
                   params.isSaveRemovedEvents(), clustering, !params.isCompleteResult());
             break;

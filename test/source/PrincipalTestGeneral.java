@@ -90,10 +90,10 @@ public class PrincipalTestGeneral {
             {Algorithms.ALG_SMSAVEXP, Modes.MODE_BASIC, "BDRoE15", 2, PASADO}, //
 
             //MARKT
-            {Algorithms.ALG_MARKT, Modes.MODE_EPISODE, "BD4", 20, PASADO}, //
-            {Algorithms.ALG_MARKT, Modes.MODE_EPISODE, "BDR56", 20, PASADO},//
-            {Algorithms.ALG_MARKT, Modes.MODE_BASIC, "BDRoE6", 20, PASADO}, //40
-            {Algorithms.ALG_MARKT, Modes.MODE_BASIC, "BDRoE15", 2, PASADO}, //
+            {Algorithms.ALG_LASTP, Modes.MODE_EPISODE, "BD4", 20, PASADO}, //
+            {Algorithms.ALG_LASTP, Modes.MODE_EPISODE, "BDR56", 20, PASADO},//
+            {Algorithms.ALG_LASTP, Modes.MODE_BASIC, "BDRoE6", 20, PASADO}, //40
+            {Algorithms.ALG_LASTP, Modes.MODE_BASIC, "BDRoE15", 2, PASADO}, //
 
             //tstp
             {Algorithms.ALG_TSTP, Modes.MODE_EPISODE, "BD4", 20, PASADO}, //42

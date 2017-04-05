@@ -33,14 +33,14 @@ public class MineDictionarySuperMarcarArbolTest{
             {"BDRoE15", 2, PASADO}, //6
       });
       for(Object[] d : data){
-         PrincipalTestGeneral test = new PrincipalTestGeneral(Algorithms.ALG_MARKT, Modes.MODE_BASIC, (String)d[0], (Integer)d[1], (Boolean)d[2]);
+         PrincipalTestGeneral test = new PrincipalTestGeneral(Algorithms.ALG_LASTP, Modes.MODE_BASIC, (String)d[0], (Integer)d[1], (Boolean)d[2]);
          test.test();
       }
    }
 
    //Pasado a 14/09/15
    @Test public void testFrecuencia(){
-      Algorithms algorithm = Algorithms.ALG_MARKT;
+      Algorithms algorithm = Algorithms.ALG_LASTP;
       Modes mode = Modes.MODE_BASIC;
       Integer window = 20;
       String collection = "BDRoE9";
@@ -92,7 +92,7 @@ public class MineDictionarySuperMarcarArbolTest{
 
    //Pasado a 14/09/15
    @Test public void testFrecuencia2(){
-      Algorithms algorithm = Algorithms.ALG_MARKT;
+      Algorithms algorithm = Algorithms.ALG_LASTP;
       Modes mode = Modes.MODE_BASIC;
       Integer window = 20;
       String collection = "BDRoE6";

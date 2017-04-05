@@ -24,12 +24,10 @@ public enum Algorithms {
    ALG_LESS,
    ALG_SMEXP,
    ALG_SMSAVEXP,
-   ALG_MARKT, //lastpminer
+   ALG_LASTP, //lastpminer
    ALG_SASTP, //astp con supermodelo
    ALG_TSTP, //tree sin anotaciones
    ALG_MAN, //busqueda manual
-   ALG_NEG_POS,
-   ALG_NEGC,
    ALG_ASTPI, //episodios incompletos
-   ALG_LASTP
+
 }
