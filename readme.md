@@ -11,7 +11,7 @@ How to run the algorithms?
   * collection [**apnea** | BD4 | BD5 | BDR56 | ... ]
   * iterations [**1**, int ]
 
-Full means that the algorithm uses both the episode definitions and the seed pattern. Only the SAHS collection (AKA "apnea") can use the seed pattern. 
+Full mode means that the algorithm uses both the episode definitions and the seed pattern. Only the SAHS collection (AKA "apnea") can use the seed pattern. 
 
 3. Run the java command setting the classpath and JVM arguments.
 
